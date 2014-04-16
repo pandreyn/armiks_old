@@ -1,0 +1,516 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">
+		Подогреватели водоводяные блочного типа с блоком опорных перегородок и профильными трубками
+</span></p>
+
+<p align="center"><span style="font-size: 16pt;">
+	Подогреватель водяной с блоком опорных перегородок и профильными трубками блочного типа ТУ 4933-005-05108104-99
+</span></p>
+<br>
+
+<p><img style="width: 194px; height: 147px;" src="pics/clip_image002.jpg"
+ 		alt="Подогреватель" v:shapes="_x0000_s1026" align="left"><br>
+ 		
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Подогреватель изготавливается из стандартных блоков 36-и типоразмеров. 
+    Конструктивные решения позволили включить весь объем секций в процесс теплообмена, получен 
+    эффективный блочный водяной подогреватель, который при одинаковой мощности (например, 0,9 мВт) 
+    с подогревателем, выполненным на ИИП по ГОСТу 27590, имеет: - массу в 3,5 раза меньше, 
+		ширину в 3,2 раза меньше, - занимаемую площадь в 3,7 раза меньше, -количество секций на 40%
+		меньше, - гидравлическое сопротивление (м.в.ст.) по трубному пространству в 2,4 раза ниже.
+		Конструкция подогревателя позволяет транспортировать его по узким проходам и лестницам при
+		монтаже ИТП в подвалах зданий. По компактности и коэффициенту теплопередачи водяной подогреватель 
+		блочного типа сопоставим с пластичными теплообменниками, а по ценам - ниже последних.</p>
+
+		
+<p>Основные параметры и технические характеристики</p>
+<br>
+
+<div align="center">
+<table border="1" width="100%">
+<tbody>
+	<tr>
+  	<td rowspan="2" width="4%"><p align="center"><span style="font-size: 10pt;">№ п/п</span></p> </td>
+    <td rowspan="2" width="18%"><p align="center"><span style="font-size: 10pt;">Условные обозначения блока</span></p></td>
+    <td rowspan="2" width="9%"><p align="center"><span style="font-size: 10pt;">Номи-<br>нальный тепловой поток, кВт</span></p></td>
+    <td rowspan="2" width="8%"><p align="center"><span style="font-size: 10pt;">Поверх-<br>ность<br>нагрева, м<sup>2</sup></span></p></td>
+    <td rowspan="2" width="7%"><p align="center"><span style="font-size: 10pt;">Кол-во секций, шт</span></p></td>
+    <td rowspan="2" width="9%"><p align="center"><span style="font-size: 10pt;">Кол-во трубок в секции, шт</span></p></td>
+    <td colspan="2"><p align="center"><span style="font-size: 10pt;">Наружный диаметр патрубков, мм</span></p></td>
+    <td rowspan="2" width="13%"><p align="center"><span style="font-size: 10pt;">Габаритные размеры<br>блока, мм<br>L x H x B</span></p></td>
+    <td rowspan="2" width="7%"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+  </tr>
+  <tr>
+    <td width="12%"><p align="center"><span style="font-size: 10pt;">межтрубного пространства</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">трубного пространства</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">1</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 57х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">28,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">0,74</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">48</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">42</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2078х277х160</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">59,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 57х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">38,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">1,11</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">48</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">42</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2078х364х160</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">82,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 57х2-Р-БП-4-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">51,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">1,48</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">48</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">42</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2078х451х160</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">104,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 57х2-Р-БП-5-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">64,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">1,85</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">48</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">42</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2078х538х160</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">128,6</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 57х2-Р-БП-6-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">77,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">2,22</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">6</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">48</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">42</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2078х625х160</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">435</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">6</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 76х2-Р-БП-2-УЗ</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">45,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">1,30</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">45</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2100х314х180</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">80,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 76х2-Р-БП-3-УЗ</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">68,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">1,95</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">45</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2100х420х180</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">118,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">8</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 76х2-Р-БП-4-УЗ</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">90,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">2,60</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">45</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2100х526х180</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">156,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">9</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 76х2-Р-БП-5-УЗ</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">113,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">3,25</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">45</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2100х632х180</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">189,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 76х2-Р-БП-6-УЗ</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">136,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">3,90</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">6</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">45</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2100х740х180</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">220,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">11</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 89х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">65,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">1,89</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2110х344х195</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">100,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">12</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 89х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">97,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">2,79</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2110х463х195</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">150,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">13</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 89х2-Р-БП-4-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">3,72</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2110х582х195</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">198,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">14</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 89х2-Р-БП-5-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">162,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">4,65</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">57</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2110х701х195</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">235,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 114х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">125,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">3,58</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">19</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">89</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2135х386х215</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">140,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">16</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 114х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">187,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">5,37</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">19</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">89</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2135х530х215</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">210,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">17</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 114х2-Р-БП-4-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">250,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">7,16</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">19</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">89</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2135х676х215</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">280,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">18</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 114х2-Р-БП-5-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">313,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">8,95</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">19</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">89</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">76</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2135х820х215</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">350,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">19</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 168х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">244,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">6,98</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">37</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2190х496х280</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">260,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">20</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 168х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">366,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">10,47</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">37</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2190х694х280</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">390,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">21</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 168х2-Р-БП-4-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">488,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">13,96</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">37</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2190х890х280</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">520,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">22</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 168х2-Р-БП-5-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">610,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">17,45</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">37</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2190х1090х280</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">650,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 168х4-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">446,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">13,96</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">37</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4190х496х280</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">423,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">24</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 168х4-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">670,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">20,94</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">37</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4190х694х280</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">775,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 219х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">402,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">11,50</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">61</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2220х654х335</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">406,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">26</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 219х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">603,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">17,25</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">61</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2220х923х335</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">602,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">27</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 219х4-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">736,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">23,02</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">61</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4220х654х335</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">640,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">28</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 219х4-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">1105,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">34,53</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">61</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">133</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4220х923х335</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">980,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">29</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 273х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">719,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">20,56</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">109</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2394х761х405</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">610,7</span></p></td>
+  </tr>
+  <tr>
+  	<td width="4%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 273х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">1079,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">30,84</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">109</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2294х1084х405</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">905,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">31</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 273х4-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">1318,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">41,20</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">109</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4294х761х405</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">970,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">32</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 273х4-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">1973,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">61,68</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">109</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4254х1084х405</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">1420,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">33</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 325х2-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">997,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">28,49</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">151</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2346х854х460</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">775,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">34</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 325х2-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">1495,5</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">42,73</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">151</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">2346х854х460</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">1085,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">35</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 325х4-Р-БП-2-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">1810,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">56,08</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">151</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4346х854х460</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">1235,0</span></p></td>
+  </tr>
+  <tr>
+    <td width="4%"><p align="center"><span style="font-size: 10pt;">36</span></p></td>
+    <td width="18%"><p align="center"><span style="font-size: 8pt;">ПВ 325х4-Р-БП-3-У3</span></p></td>
+    <td width="9%"><p align="center"><span style="font-size: 10pt;">2735,0</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">85,47</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">151</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">4346х1229х460</span></p></td>
+    <td width="7%"><p align="center"><span style="font-size: 10pt;">1830,0</span></p></td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+<br>
+
+<p>Пример условного обозначения при заказе ПВ 76 х 2-1, О-БП-2-У3<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	ПВ - подогреватель водяной;<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  76 - наружный диаметр корпуса, мм;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  2 - длина секций, м;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Р - условные давления рабочей среды:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  1) 0,6 МПа (6 кгс/см<sup>2</sup>);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  2) 1,0 МПа (10 кгс/см<sup>2</sup>);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  3) 1,6 МПа (16 кгс/см<sup>2</sup>);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  БП - подогреватель блочного типа с профилировнными трубками;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  2 - количество секций в блоке, шт.;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  У3 - климатическое исполнение (умеренное) ГОСТ 15150</p>
+<br>  
+<p>Примечания:<br>
+1. Тепловой поток блока секций определен при скорости нагреваемой воды в трубках - 1 м/сек; расход воды в межтрубном пространстве равен расходу в
+трубном пространстве, перепад температур по нагреваемой и греющей воде - 45<sup>o</sup>С.<br>
+2. Подогреватель эффективно работает в системах теплоснабжения при скоростях:<br>
+- в трубном пространстве от 0,5 до 1,5 м/сек;<br>
+- в межтрубном пространстве от 0,5 до 1 м/сек;<br>
+3. Масса указана на блоки с условным давлением 1,0 МПа (10 кгс/см<sup>2</sup>).<br>
+4. При необходимости длина секций в блоке может отличаться от указанных
+в
+таблице и принимается в соответствии с проектом.<br>
+5. Габаритные размеры и масса блоков могут отличаться от данных таблицы на +/-10 %.</p>

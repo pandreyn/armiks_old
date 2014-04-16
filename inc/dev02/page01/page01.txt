@@ -1,0 +1,138 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Фильтры натрий-катионитные ФИПа</span></p>
+
+<p align="center"><span style="font-size: 16pt;">Фильтры натрий-катионитовые 1-ой и 2-ой ступени</span></p>
+
+<p><img style="width: 300px; height: 381px;" src="pics/clip_image003.gif" 
+	alt="Фильтры натрий-катионитовые 1-ой и 2-ой ступени" align="left" hspace="12">
+	Фильтры ионитные параллельноточные первой ступени используются на водоподготовительных установках
+	элек-тростанций, промышленных и отопительных котельных и предназначены для обработки воды с целью 
+	удаления из нее катионов накипеобразователей ( Ca2+ и Mg2+ ) в процессе натрий-водород- или 
+	аммоний-натрий-катио-нирования, а также сульфатных, хлоридных и нитратных анионов в процессе обессоливания 
+	природных вод. </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Фильтры ионитные параллельноточные второй ступени предназначены для работы в различных схемах установок 
+	глубокого и полного химического обессоливания для второй и третьей ступени натрий-катионирования, 
+	водород-катионирования и анионирования и используются на водоподготовительных установках электростанций,
+	промышленных и отопительных котельных. При исполь-зовании данных фильтров в схемах глубокого
+	обессоливания из воды удаляются практически все катионы и анионы, за исключением кремниевой кислоты, а 
+	при использовании в схемах полного химического обессоливания удаляется и кремниевая кислота.</p>
+
+<div align="center">
+<p>Основные параметры и технические характеристики</p>
+<table border="1" cellpadding="0" cellspacing="0">
+<tbody>
+	<tr>
+  	<td width="136"><p align="center"><span style="font-size: 10pt;">Обозначение<br>типоразмера</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">Производительность,<br>м<sup>3</sup>/ч</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">Рабочее давление, МПа</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">Условный диаметр фильтра, мм</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">Высота фильтрующей<br>загрузки, мм,<br>не более</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">Высота фильтра, мм</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+  </tr>
+  <tr>
+  	<td width="136"><p><span style="font-size: 10pt;">ФИПа I-0,7-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">700</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3445</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">910</span></p></td>
+  </tr>
+  <tr>
+  	<td width="136"><p><span style="font-size: 10pt;">ФИПа I-1,0-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3610</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">1090</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-1,4-0,6 Nа</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">46</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3928</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">1240</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-1,5-0,6 Nа</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3800</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">1570</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-2,0-0,6 Na </span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">80</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">2500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">4630</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">2500</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-2,6-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">130</span></p> </td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">2500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">4950</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3890</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-1,0-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">1500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3100</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">950 </span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-1,4-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">92</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">1500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3120</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">1562 </span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-1,5-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">90</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">1600</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">1500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3200</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">1510</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-2,0-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">1500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3430</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">22028</span></p></td>
+  </tr>
+  <tr>
+    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-2,6-0,6 Na</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">1500</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">3805</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">33800</span></p></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Загрузка ионитных фильтров ФИПа - сульфоуголь, катионит Ку-2;</p>
+</div>

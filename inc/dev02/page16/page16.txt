@@ -1,0 +1,440 @@
+<p class="MsoNormal" style="text-align: center;" align="center"><b><span
+ style="color: rgb(255, 0, 0);">КЛАПАН
+ЗАПОРНЫЙ
+СОЛЕНОИДНЫЙ СЕРИИ ЗСК</span><o:p></o:p></b></p>
+      <p class="MsoNormal"><b><o:p>&nbsp;</o:p></b></p>
+      <p class="MsoNormal" style="text-align: center;" align="center"><img
+ style="width: 200px; height: 194px;" src="pics/clip_image014.jpg"
+ alt="Клапан запорный соленоидный ЗСК" v:shapes="_x0000_s1026"
+ align="left" hspace="1"></p>
+      <p class="MsoNormal" style="text-align: center;" align="center"><o:p>&nbsp;</o:p></p>
+      <p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>Клапаны
+запорные соленоидные серии ЗСК предназначены для автоматического
+прекращения
+подачи мазута, пара или воды в схемах блокировки различных
+технологических
+процессов. </p>
+      <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span><span style="">&nbsp;&nbsp;&nbsp; </span></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span><span style="">&nbsp;&nbsp;&nbsp; </span><span style="">&nbsp;&nbsp;</span>Основные
+параметры и технические характеристики</p>
+      <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
+      <div align="center">
+      <table class="MsoNormalTable"
+ style="border: medium none ; width: 78.48%; border-collapse: collapse;"
+ border="1" cellpadding="0" cellspacing="0" width="78%">
+        <tbody>
+          <tr style="height: 17pt;">
+            <td
+ style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">Показатели<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">Значение<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal"><span style="font-size: 10pt;">Напряжение
+срабатывания переменного тока частоты 50-60 Гц, В<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">127; 220; 380<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal"><span style="font-size: 10pt;">Диаметр
+условного прохода Dу, мм:<br>
+&nbsp; - ЗСК-15<br>
+&nbsp; - ЗСК-25<br>
+&nbsp; - ЗСК-32<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;"><br>
+15<br>
+25<br>
+32<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal"><span style="font-size: 10pt;">Максимальное
+давление рабочей среды, МПа )кгс/см<sup>2</sup>)<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">3,92 (40)<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal"><span style="font-size: 10pt;">Максимальная
+температура рабочей среды, °С<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">400<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal"><span style="font-size: 10pt;">Присоединение<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">фланцевое<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
+ width="80%">
+            <p class="MsoNormal"><span style="font-size: 10pt;">Материал
+корпуса<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
+ width="19%">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">чугун<o:p></o:p></span></p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </div>
+      <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+      <p class="MsoNormal" style="text-align: center;" align="center"><span
+ class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p>&nbsp;</o:p></span></span></p>
+      <p class="MsoNormal" style="text-align: center;" align="center"><img
+ style="width: 390px; height: 420px;" src="pics/clip_image015.jpg"
+ alt="Клапан запорный соленоидный ЗСК - структурная схема"
+ v:shapes="_x0000_i1025"><span class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p></o:p></span></span></p>
+      <p class="MsoNormal"><span class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext;"><span
+ style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span></span></span>Клапан запорный
+соленоидный ЗСК состоит из двух основных узлов: электромагнитного
+привода и
+клапана. <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Вентиль
+      <span style="">1</span> клапана соединен с электромагнитным
+приводом <span style="">2</span> посредством штампованной
+рамки <span style="">3</span>. При подаче питания на
+электромагнит втягивается его якорь, сжимая пружину <span style="">4</span>.
+Под действием пружины <span style="">5</span>
+взводится курок <span style="">6</span> который
+захватывает за валик 7 предварительно поднятый рычаг. При этом
+золотник,
+соединенный штоком <span style="">9</span> с рычагом,
+поднимается и открывает проход клапана.<br>
+      <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>Клапаны применяются вместе с
+электрическим датчиком, который при аварийном состоянии процесса
+обесточивает электромагнит.
+При обесточивании электромагнита, якорь, перемещаясь под действием
+пружины <span style="">4</span>, выводит из зацепления курок <span
+ style="">6</span> с рычагом <span style="">8</span>. Шток вместе с
+золотником под действием пружины <span style="">10</span> перемещается
+вниз и перекрывает
+проход клапана.<br>
+      <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>Закрытие клапана происходит
+автоматически при разрыве цепи питания, открытие клапана производят
+рычагом
+вручную. Корпус электромагнитного привода снабжен заземляющим винтом <span
+ style="">11</span>.<br>
+      <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span>Конструкция токовыводов
+предусматривает возможность присоединения двух алюминиевых или медных
+проводов
+сечением не менее 1,5 мм<sup>2</sup>.</p>
+      <p class="MsoNormal"><span class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p>&nbsp;</o:p></span></span></p>
+      <p class="MsoNormal"><span class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><span
+ style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Присоединительные
+и габаритные размеры
+клапанов ЗСК :<o:p></o:p></span></span></p>
+      <p class="MsoNormal"><span class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p>&nbsp;</o:p></span></span></p>
+      <div align="center">
+      <table class="MsoTableGrid"
+ style="border: medium none ; border-collapse: collapse;" border="1"
+ cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr style="height: 17pt;">
+            <td rowspan="2"
+ style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">Тип<o:p></o:p></span></p>
+            </td>
+            <td colspan="7"
+ style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 298.35pt; height: 17pt;"
+ width="398">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">Размер, мм</span><span
+ class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p></o:p></span></span></p>
+            </td>
+            <td rowspan="2"
+ style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 61.05pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">Масса, кг</span><span
+ class="textpic1"><span
+ style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p></o:p></span></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">D</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">D1</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">D2</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">D3</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">L1</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">L2</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><b><span style="font-size: 10pt;">H</span></b><span
+ style="font-size: 10pt;"><o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal"><span style="font-size: 10pt;">ЗСК-15<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">14<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">40<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">75<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">105<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">175<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">406<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">380<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 61.05pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">12,16<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal"><span style="font-size: 10pt;">ЗСК-25<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">18<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">58<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">100<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">135<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">200<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">420<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">403<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 61.05pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">15,60<o:p></o:p></span></p>
+            </td>
+          </tr>
+          <tr style="height: 17pt;">
+            <td
+ style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal"><span style="font-size: 10pt;">ЗСК-32<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">22<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">66<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">110<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">150<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">210<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">425<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 42.55pt; height: 17pt;"
+ width="57">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">413<o:p></o:p></span></p>
+            </td>
+            <td
+ style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 61.05pt; height: 17pt;"
+ width="81">
+            <p class="MsoNormal" style="text-align: center;"
+ align="center"><span style="font-size: 10pt;">19,00<o:p></o:p></span></p>

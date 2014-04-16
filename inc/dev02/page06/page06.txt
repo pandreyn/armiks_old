@@ -1,0 +1,49 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Охладители выпара ОВА</span></p>
+
+<p align="center"><img  style="width: 500px; height: 173px;" src="pics/clip_image008.gif"
+	alt="Охладители выпара"></p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Охладители выпара атмосферных деаэраторов (ОВА) предназначены для конденсации максимального
+	количества пара из отводимой от деаэратора паро-газовой смеси (выпара) с утилизацией тепла. 
+	Охладители выпара состоят из горизонтального цилиндрического корпуса и размещенной в нем 
+	трубной системы. Химочищенная вода, проходит внутри трубок, нагревается и затем поступает в 
+	деаэрационную колонку. Парогазовая смесь (выпар) поступает в межтрубное пространство, где пар из нее 
+	практически полностью конденсируется. Оставшиеся газы отводятся в атмосферу, конденсат пара сливается в деаэратор.</p>
+
+	
+<p>Основные параметры и технические характеристики</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">Наименование изделия</span></p></td>
+        <td width="12%"><p align="center"><span style="font-size: 10pt;">Пов-сть охладителя, м<sup>2</sup></span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">Давление, МПа</span></p></td>
+        <td width="6%"><p align="center"><span style="font-size: 10pt;">Среда</span></p></td>
+        <td width="17%"><p align="center"><span style="font-size: 10pt;">t среды,<br><sup>o</sup>С</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">(ДxШxВ), мм</span></p></td>
+        <td width="7%"><p align="center"><span style="font-size: 10pt;">Масса,<br>кг</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">Охладитель выпара ОВА-2 </span></p></td>
+        <td width="12%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 0,5;<br>в корп. 0,12</span></p></td>
+        <td width="6%"><p align="center"><span style="font-size: 10pt;">вода,<br>пар</span></p></td>
+        <td width="17%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 40-50;<br>в корп. 104,2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1150<br>516<br>580</span></p></td>
+        <td width="7%"><p align="center"><span style="font-size: 10pt;">229</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">Охладитель выпара ОВА-8 </span></p></td>
+        <td width="12%"><p align="center"><span style="font-size: 10pt;">8</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 0,5;<br>в корп. 0,12</span></p></td>
+        <td width="6%"><p align="center"><span style="font-size: 10pt;">вода,<br>пар</span></p></td>
+        <td width="17%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 40-50;<br>в корп. 104,2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2860<br>516<br>580</span></p></td>
+        <td width="7%"><p align="center"><span style="font-size: 10pt;">355</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

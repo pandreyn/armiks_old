@@ -1,0 +1,68 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Сепараторы непрерывной продувки</span></p>
+
+
+
+<p align="center"><span style="font-size: 16pt;">Сепаратор непрерывной продувки Dу 300 мм</span></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Сепаратор непрерывной продувки циклонного типа, предназначен для разделения пароводяной смеси при продувке 
+	паровых котлов на пар и воду за счет действия центробежных сил, обусловленных тангенциальным вводом воды в 
+	сепаратор. К потребителю поступает пар высокой степени сухости. Как правило, расход продувочной воды на
+	сепаратор составляет от 1% до 5% производительности котла.</p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Сепаратор представляет собой вертикальный цилиндрический сосуд с плоскими донышками, подводящим патрубком, 
+	паро- и водоотводящими патрубками, поплавковым регулятором, который автоматически поддерживает уровень воды.</p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Разделение пароводяной смеси происходит в средней части сепаратора. Пар, сохраняя вращательное движение, 
+	направляется в паровое пространство и отводится через патрубок, расположенный на верхнем днище. Вода, 
+	стекает по внутренней поверхности сепаратора в водяной объем и отводится через патрубок, расположенный в
+	нижней части корпуса.</p>
+      
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	На нижнем днище предусмотрен&nbsp; штуцер для отвода воды из сепаратора при его отключении и для 
+	периодического вывода из нижней части водяного объема шлама и загрязнений.</p>
+
+<div align="center">
+	<table>
+		<tr>
+			<td><a href="../pics/66.jpg"><img src="pics/clip_image009.jpg" alt="66.jpg (31188 bytes)"
+				style="border: 0px solid ; width: 241px; height: 279px;"></a></td>
+			<td align="left"><span style="font-size: 10pt;">Сепаратор непрерывной продувки, Dу 300:<br>
+					1 — вход продувочной пароводяной смеси, Dу 150;<br>
+					2 — выход пара, Dу 80;<br>
+					3 — дренаж, Dу 15;<br>
+				  4 — выход от сепарированной воды, Dу 40;</span>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<p align="center">Основные параметры и технические характеристики:</p>
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td width="133"><p align="center"><span style="font-size: 10pt;">Обозначение и наименование </span></p></td>
+        <td width="75"><p align="center"><span style="font-size: 10pt;">Вместимость, м<sup>3</sup></span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Рабочая среда </span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Раб. давл., МПа </span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Раб.температура, <sup>o</sup>С</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Диаметр наружный D, мм </span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Высота Н, мм </span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Масса, кг </span></p></td>
+      </tr>
+      <tr>
+        <td width="133"><p><span style="font-size: 10pt;">Сепаратор непрерывной продувки, Dу 300</span></p></td>
+        <td width="75"><p align="center"><span style="font-size: 10pt;">0,15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">паро-водяная смесь </span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,06</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">113</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">325</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2210</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,79 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Фильтры осветлительные ФОВ</span></p>
+
+<p align="center"><span style="font-size: 16pt;">Фильтры осветлительные вертикальные однокамерные ФОВ</span></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Осветлительные фильтры предназначены для удаления из воды взвешенных примесей разной
+	степени дисперсности и широко применяются в схемах водоподготовительных установок электростанций,
+	промышленных и отопительных котельных. Осветление воды происходит в результате прилипания к
+	зернам фильтрующего материала грубодисперсных примесей воды, которые задерживаются на
+	поверхности и в порах фильтрующего материала. В качестве фильтрующих материалов применяются 
+	дробленый антрацит, кварцевый песок, мраморная крошка и другие, обладающие необходимой химической 
+	стойкостью и прочностью (измельчаемостью не более 4%, истираемостью не более 0,5%).</p>
+
+<div align="center">
+<p><img style="width: 154px; height: 260px;" src="pics/clip_image004.gif" 
+	alt="Фильтры осветлительные вертикальные однокамерные ФОВ">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img  style="width: 133px; height: 260px;" src="pics/clip_image005.gif" 
+	alt="Фильтры осветлительные вертикальные однокамерные ФОВ"></p>
+	
+
+	<p>Основные параметры и технические характеристики:</p>	
+  <table border="1" cellpadding="0" cellspacing="0" width="100%">
+  	<tbody>
+    	<tr>
+      	<td width="16%"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">Производи-<br>тельность,<br>м<sup>3</sup>/ч</span></p></td>
+        <td width="11%"><p align="center"><span style="font-size: 10pt;">Рабочее<br>давление,<br>МПа</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">Условный<br>диаметр<br>фильтра, мм</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">Высота<br>фильтрующей<br>загрузки, мм,<br>не более</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">Высота фильтра, мм</span></p> </td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">Масса фильтра, кг</span></p></td>
+      </tr>
+      <tr>
+        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-1,0-0,6</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+        <td rowspan="5" width="11%"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">3100</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">950</span></p></td>
+      </tr>
+     <tr>
+        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-1,4-0,6</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">16</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">3120</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">1562</span></p></td>
+      </tr>
+      <tr>
+        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-1,5-0,6</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">1600</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">3298</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">1468</span></p></td>
+      </tr>
+      <tr>
+      	<td width="16%"><p><span style="font-size: 10pt;">ФОВ-2,0-0,6</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">3430</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">2150</span></p></td>
+      </tr>
+      <tr>
+        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-2,6-0,6</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">3730</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">3690</span></p></td>
+      </tr>
+    </tbody> 
+  </table>
+</div>

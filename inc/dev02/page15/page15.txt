@@ -1,0 +1,254 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Фильтры мазута ФМ</span></p>
+
+<p align="center"><img  style="width:330px;height:297px;border:0;" src="pics/clip_image012.jpg"
+	alt="Фильтр мазута ФМ. ФМ 25-30-40(5)" v:shapes="_x0000_i1025"></p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Фильтры мазута типа ФМ предназначены для грубой и тонкой очистки высоковязких топочных
+	мазутов от твердого остатка нефтяных фракций и механических примесей. Устанавливаются в 
+	системах мазутного хозяйства промышленных и отопительных котельных.<br>
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Фильтры представляют собой вертикальный сварной цилиндрический сосуд с плоской крышкой,
+	эллиптическим нижним днищем. На опорах имеются отверстия для фундаментных болтов. На
+	корпусе установлены патрубки с фланцами для подвода и отвода мазута, подвода пара для
+	продувки, слива мазута. Внутри корпуса, между крышкой и опорным кольцом, крепится болтами 
+	фильтрующий элемент, представляющий собой металлический каркас с натянутой по нему сеткой 
+	из нержавеющей проволоки. Чистка фильтрующего элемента производится периодически на 
+	остановленном фильтре паром и задержанные фракции удаляются через специальный патрубок без 
+	разборки фильтра. Фильтры мазута не подлежат ведению органов Госгортехнадзора.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	1. Основные параметры и технические характеристики фильтров мазута ФМ 25-30-65 (240)</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="80%">
+		<tbody>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Наименование показателя</span></p></td>
+				<td width="20%"><p align="center"><span  style="font-size: 10pt;">ФМ 25-30-65<br>(грубая&nbsp;очистка)</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">ФМ 25-30-240<br>(тонкая&nbsp;очистка)</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Производительность, т/ч</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Допускаемое рабочее давление, МПа </span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Температура среды, <sup>o</sup>С </span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">60-200</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">60-200</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Площадь поверхности фильтрации, м<sup>2</sup></span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Количество отверстий на 1 см<sup>2</sup> фильтрующей сетки, шт </span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">65</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">240</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Гидравлическое сопротивление чистого фильтра, МПа, не более </span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,010</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,015</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Размер ячейки в фильтрующем элементе, мм </span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,9x0,9</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,4x0,4</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Габаритные размеры, мм:<br>&nbsp; - диаметр корпуса <br>&nbsp; - высота </span></p></td>
+				<td colspan="2" width="40%"><p align="center"><span style="font-size: 10pt;"><br>219<br>1370</span></p></td>
+			</tr>
+			<tr>
+				<td width="60%"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+				<td colspan="2" width="246"><p align="center"><span style="font-size: 10pt;">107</span></p></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Пример условного обозначения: ФМ 25-30-65(240), где: </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 ФМ - фильтр мазута </p>
+	 
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 25 - рабочее давление, кгс/см<sup>2</sup> </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 30 - производительность по мазуту, т/час </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 65(240) – кол-во отверстий на 1 см<sup>2</sup> фильтрующей сетки </p>
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	2. Основные параметры и технические характеристики </span></p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	фильтров ФМ 25-30, ФМ 40-30, ФМ 10-60, ФМ 10-120, ФМ 10-240</span></p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="80%">
+		<tbody>
+			<tr>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">Тип фильтра</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">P раб. кгс/см<sup>2</sup></span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">Произв. т/ч</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">Поверхн.<br>фильтрац. м<sup>2</sup></span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">V<br>фильт. м<sup>3</sup></span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">t<br>мазута, <sup>o</sup>С</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">d,мм</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">H,мм</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">Масса, кг</span></p></td>
+			</tr>
+			<tr>
+				<td width="20%"><p><span style="font-size: 10pt;">ФМ-25-30-40(5)</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">0,07</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">325</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">1330</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">126</span></p></td>
+			</tr>
+			<tr>
+				<td width="20%"><p><span style="font-size: 10pt;">ФМ-40-30-40(5)</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">0,079</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">325</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1330</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">129</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-60-40(5)</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">60</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">0,51</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">0,158</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">426</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1670</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">248</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-120-40(5)</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1,22</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">0,45</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">630</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1980</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">447</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-240-40(5)</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">240</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1,95</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">0,95</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">820</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2375</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">810</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p align="center">
+	<img style="width:350px;height:432px;border:0;" src="pics/clip_image013.jpg"
+	 alt="Схема фильтра мазута ФМ. ФМ 40-30-40"></p>
+	 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Присоединительные размеры фильтра мазута ФМ:</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td width="25%"><p align="center"><span style="font-size: 10pt; ">Тип фильтра</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Вход<br>мазута, мм</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Выход мазута, мм</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Вход проду-вочного пара, мм</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Выход конденсата, мм</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Слив мазута, мм</span></p></td>
+     	</tr>
+     	<tr>
+     		<td width="20%"><p><span style="font-size: 10pt;">ФМ-25-30-40(5)</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">ФМ-40-30-40(5)</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="95"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-60-40(5)</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-120-40(5)</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p> </td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">ФМ-10-240-40(5)</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Пример условного обозначения: ФМ-25-30-5(40), где: </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	ФМ - фильтр мазута</p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	25 - рабочее давление, кгс/см<sup>2</sup></p>
+		
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	30 - производительность по мазуту, т/час</p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	5(40) - сетка, имеющая 5 отверстий (грубой очистки) или 40 отверстий (тонкой очистки) на 1 см<sup>2</sup></p>

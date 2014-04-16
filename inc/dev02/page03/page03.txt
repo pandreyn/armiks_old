@@ -1,0 +1,248 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Деаэраторы атмосферные ДА</span></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Деаэраторы предназначены для удаления коррозионно-агрессивных газов (кислорода и
+	свободной углекислоты) из питательной воды паровых котлов и подпиточной воды системы
+	теплоснабжения и горячего водоснабжения при одновременном ее нагреве.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Деаэратор состоит из деаэраторного бака, деаэрационной колонки и гидрозатвора.
+	Деаэраторный бак представляет собой горизонтальный цилиндрический сосуд с эллиптическими 
+	днищами и патрубками входа и выхода рабочей среды, трубопроводов для подключения и арматуры. 
+	Деаэратор установлен на опорах, одна из которых неподвижная. На баке размещена деаэрационная 
+	колонка, которая представляет собой цилиндрическую обечайку с эллиптическим днищем, с патрубками 
+	для подвода и отвода рабочей среды. Для обеспечения безопасной эксплуатации деаэратора
+	предусмотрено предохранительное устройство - гидрозатвор, защищающий его от опасного превышения 
+	давления и уровня воды в баке.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	В деаэраторах применена двухступенчатая схема дегазации: первая - струйная,
+	вторая - барботажная.</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+    	<td><p><img  style="width: 437px; height: 290px;" src="pics/clip_image006.jpg"
+    		 alt="Деаэратор атмосферного давления ДА" v:shapes="_x0000_i1025"></p>
+         <p align="center">Внешний вид деаэратора ДА (колонка КДА и бак БДА)</p>
+      </td>
+      <td width="274"><p>Деаэратор атмосферного давления:</p>
+      		<p>I - колонка деаэрационная;<br>
+      			 II - бак деаэраторный;<br>
+      			 III - опора подвижная;<br>
+      			 IV - опора неподвижная;<br>
+      			 1 - подвод пара на гидрозатвор;<br>
+      			 2 - выход пара;<br>
+      			 3 - рециркуляция питательных насосов;<br>
+      			 4 - перегретый конденсат;<br>
+      			 5 - подвод пара от сепаратора непрерывной продувки;<br>
+      			 6 - подвод основного пара;<br>
+      			 7 - отвод деаэрированной воды;<br>
+      			 8 - подвод конденсата от подогревателей;<br>
+      			 9 - подвод химически очищенной воды;<br>
+      			 10 - подвод конденсата от производства;<br>
+      			 11 - дренаж;<br>
+      			 12 - перелив.</span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Основные параметры и технические характеристики</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="80%">
+  	<tbody>
+    	<tr>
+      	<td width="366"><p><span style="font-size: 10pt;">&nbsp;</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">ДА-5</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">ДА-15</span></p></td>
+        <td width="73"><p align="center"<span style="font-size: 10pt;">ДА-25</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">ДА-50</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">ДА-100</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Ном. производительность, т/ч </span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+        <td width="73"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+      </tr>
+      <tr>
+        <td width="366"><p><span style="font-size: 10pt;">Диапазон изменения производи- тельности, %</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">30 - 120</span></p></td>
+      </tr>
+      <tr>
+        <td width="366"><p><span style="font-size: 10pt;">Давление рабочее, МПа (кгс/см2)</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">0,12 (1,2)</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Максим. допустимое давление при работе предохранительного устройства, МПа (кгс/см2)</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">0,17 (1,7)</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Температура деаэрирования воды, <sup>o</sup>С</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">104,25</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Нагрев воды в деаэраторе, <sup>o</sup>С:</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">-</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">-максимальный</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">-минимальный</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Начальное содержание растворенного 
+      		кислорода в деаэрируемой (исходной) воде, мг/кг</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Остаточное
+      		 содержание растворенного кислорода в деаэрированной воде, мкг/кг</span></p></td>
+      	<td colspan="5"><p align="center"><span style="font-size: 10pt;">20</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Содержание свободной углекислоты в 
+      		деаэрируемой (исходной) воде, мг/кг</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">20</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Содержание свободной углекислоты в деаэрированной 
+      		воде</span></p></td>
+        <td colspan="5"><p align="center"><span style="font-size: 10pt;">Следы</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Диаметр деаэрационной колонки, мм</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">512</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">512</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">512</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">720</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1016</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Полезная вместимость деаэраторного бака, м<sup>3</sup></span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">8</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">25</span></p></td>
+      </tr>
+      <tr>
+        <td width="366"><p><span style="font-size: 10pt;">Площадь поверхности охладителя выпара, м<sup>2</sup></span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">8</span></p></td>
+      </tr>
+      <tr>
+        <td width="366"><p><span style="font-size: 10pt;">Габаритные размеры деаэратора, мм</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">&nbsp;</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">&nbsp;</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">&nbsp;</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">&nbsp;</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">&nbsp;</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Длина</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2680</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4100</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4705</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5650</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7505</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Ширина</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1212</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1212</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1616</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2016</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2216</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Высота</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3640</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3760</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3690</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4350</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4570</span></p></td>
+      </tr>
+      <tr>
+      	<td width="366"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2020</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2260</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3100</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4990</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">8300</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<p>Принципиальная схема включения деаэрационной установки атмосферного давления:</p>
+<p><img style="width: 636px; height: 374px;" alt="" src="pics/clip_image007.jpg"></p>
+
+<p>1 - подвод химочищенной воды; 2 - охладитель выпара; 3,5 - выхлоп в атмосферу; 4 - клапан егулировки уровня; 
+	 6 - колонка; 7 - подвод основного конденсата; 8 - предохранительное устройство; 9 - деаэрационный бак;
+	 10 - подвод деаэрированной воды; 11 - манометр; 12 - клапан регулировки давления; 13 - подвод горячего пара;
+	 14 - отвод деаэрированной воды; 15 - охладитель проб воды; 16 - указатель уровня; 
+	 17 - дренаж; 18 - мановакууметр.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Комплектация деаэраторов ДА:</p>
+      
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="80%">
+  	<tbody>
+    	<tr>
+      	<td width="135"><p align="center"><span style="font-size: 10pt;">Деаэратор</span></p></td>
+        <td width="150"><p align="center"><span style="font-size: 10pt;">Колонка, т/ч</span></p></td>
+        <td width="122"><p align="center"><span style="font-size: 10pt;">Бак, м3</span></p></td>
+        <td width="114"><p align="center"><span style="font-size: 10pt;">Предохранитель (гидрозатвор)</span></p></td>
+        <td width="84"><p align="center"><span style="font-size: 10pt;">Охладитель выпара</span></p></td>
+      </tr>
+      <tr style="height: 17pt;">
+        <td width="135"><p align="center"><span style="font-size: 10pt;">ДА-5/2</span></p></td>
+        <td width="150"><p align="center"><span style="font-size: 10pt;">КДА-5</span></p></td>
+        <td width="122"><p align="center"><span style="font-size: 10pt;">БДА-2</span></p></td>
+        <td width="114"><p align="center"><span style="font-size: 10pt;">ДА-25</span></p></td>
+        <td width="84"><p align="center"><span style="font-size: 10pt;">ОВА-2</span></p></td>
+      </tr>
+      <tr>
+      	<td width="135"><p align="center"><span style="font-size: 10pt;">ДА-15/4</span></p></td>
+        <td width="150"><p align="center"><span style="font-size: 10pt;">КДА-15</span></p></td>
+        <td width="122"><p align="center"><span style="font-size: 10pt;">БДА-4</span></p></td>
+        <td width="114"><p align="center"><span style="font-size: 10pt;">ДА-25</span></p></td>
+        <td width="84"><p align="center"><span style="font-size: 10pt;">ОВА-2</span></p></td>
+      </tr>
+      <tr>
+        <td width="135"><p align="center"><span style="font-size: 10pt;">ДА-25/8</span></p></td>
+        <td width="150"><p align="center"><span style="font-size: 10pt;">КДА-25</span></p></td>
+        <td width="122"><p align="center"><span style="font-size: 10pt;">БДА-8</span></p></td>
+        <td width="114"><p align="center"><span style="font-size: 10pt;">ДА-25</span></p></td>
+        <td width="84"><p align="center"><span style="font-size: 10pt;">ОВА-2</span></p></td>
+      </tr>
+      <tr>
+        <td width="135"><p align="center"><span style="font-size: 10pt;">ДА-50/15</span></p></td>
+        <td width="150"><p align="center"><span style="font-size: 10pt;">КДА-50</span></p></td>
+        <td width="122"><p align="center"><span style="font-size: 10pt;">БДА-15</span></p></td>
+        <td width="114"><p align="center"><span style="font-size: 10pt;">ДА-50</span></p></td>
+        <td width="84"><p align="center"><span style="font-size: 10pt;">ОВА-2</span></p></td>
+      </tr>
+      <tr>
+        <td width="135"><p align="center"><span style="font-size: 10pt;">ДА-100/25</span></p></td>
+        <td width="150"><p align="center"><span style="font-size: 10pt;">КДА-100</span></p></td>
+        <td width="122"><p align="center"><span style="font-size: 10pt;">БДА-25</span></p></td>
+        <td width="114"><p align="center"><span style="font-size: 10pt;">ДА-100</span></p></td>
+        <td width="84"><p align="center"><span style="font-size: 10pt;">ОВА-8</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

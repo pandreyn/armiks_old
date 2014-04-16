@@ -1,0 +1,185 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватель сетевой воды типа ПСВ</span></p>
+
+<table width="95%">
+	<tr>
+		<td><img alt="" style="width: 404px; height: 427px;" src="pics/clip_image013.gif"></td>
+		<td><p>Подогреватели сетевой воды типа ПСВ предназначены для подогрева воды для отопительных, производственных 
+					и бытовых нужд. ПСВ представляет собой кожухотрубный теплообменник вертикального типа, состоящий из корпуса,
+					трубной системы с латунными трубками 19х1, верхней и нижней (плавающей) водяной камеры. </p>
+
+				<table border="1" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td width="118"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
+					    <td width="175"><p align="center"><span style="font-size: 10pt;">Наименование</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">А</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Вход сетевой воды</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">Б</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Выход сетевой воды</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">В</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Вход пара</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">Г</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Подвод конденсата</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">Д</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Выход конденсата</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">Е</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Отсос воздуха</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">Ж</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">Слив воды</span></p></td>
+					  </tr>
+					  <tr>
+					    <td width="118"><p align="center"><span style="font-size: 10pt;">К</span></p></td>
+					    <td width="175"><p><span style="font-size: 10pt;">к дифманометру</span></p></td>
+					  </tr>
+					</tbody>
+				</table>
+		</td>
+	</tr>
+</table>	
+
+<p>Основные параметры и технические характеристики:</p>
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="95%">
+  	<tbody>
+  		<tr>
+  			<td rowspan="2" width="15%"><p align="center"><span style="font-size: 10pt;">Марка<br>подогревателя</span></p></td>
+        <td rowspan="2" width="10%"><p align="center"><span style="font-size: 10pt;">Пов-ть теплообмена, м<sup>2</sup></span></p></td>
+        <td colspan="2"><p align="center"><span style="font-size: 10pt;">Рабочее избыт. давление, кгс/см<sup>2</sup></span></p></td>
+        <td rowspan="2"><p align="center"><span style="font-size: 10pt;">Номина-льный расход сетевой воды, т/ч</span></p></td>
+        <td rowspan="2"><p align="center"><span style="font-size: 10pt;">Кол-во ходов сетевой воды</span></p></td>
+        <td colspan="2"><p align="center"><span style="font-size: 10pt;">Габариты</span></p></td>
+        <td rowspan="2"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td rowspan="2"><p align="center"><span style="font-size: 10pt;">Расчетная теплопроизводительность,<br>Гкал/ч</span></p></td>
+      </tr>
+      <tr>
+        <td><p align="center"><span style="font-size: 10pt;">пара в корпусе</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">воды в трубной системе</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">диаметр, Dн, мм</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">высота,H, мм</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-45-7-15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">45</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">90</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">720</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4840</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2273</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7,2</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-63-7-15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">63</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">816</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5112</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2946</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">9,6</span></p></td>
+      </tr>
+      <tr>
+      	<td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-90-7-15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">90</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">175</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1020</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5432</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4202</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">14,0</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-125-7-15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">125</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1020</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5432</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4553</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">20,0</span></p></td>
+      </tr>
+      <tr>
+      	<td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-200-7-15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">400</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1232</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5724</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7444</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">32,5</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-315-3-23</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">315</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">725</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1524</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7700</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">12306</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">56,5</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-315-14-23</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">315</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">14</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1130</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1544</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7524</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">13650</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">45,2</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-500-3-23</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">500</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1150</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1624</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7920</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">14650</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">52,5</span></p></td>
+      </tr>
+      <tr>
+        <td width="15%"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;ПСВ-500-14-23</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">500</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">14</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">23</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1800</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1624</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">7920</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">16032</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">75,0</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+  

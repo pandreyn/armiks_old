@@ -1,0 +1,7 @@
+<table>
+	<tr>
+		<td><img src="pics/warning.gif"></td>
+		<td><span style="color: rgb(255, 0, 0); font-size: 16pt;">
+			«апрашиваема€ страница отсутствует на сервере!</span></td>
+	</tr>
+</table>

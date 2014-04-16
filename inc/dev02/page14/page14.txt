@@ -1,0 +1,174 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватели мазута  ПМ 25-6; ПМР 64-15; ПМР 64-30; ПМР 13-60 и др.</span></p>
+
+<p align="center"><img  style="width: 450px; height: 253px;" src="pics/clip_image011.jpg"
+	alt="Подогреватель мазута ПМР 64-60"></p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Подогреватели мазута предназначены для подогрева промышленного мазута перед подачей его в
+	форсунки горелок котлоагрегатов, устанавливаемых в системах мазутоподготовки стационарных котельных. <br>
+	nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Подогреватель мазута представляет собой горизонтальный аппарат, состоящий из корпуса, трубной системы
+	жесткой конструкции и 2-х крышек - передней и задней. В трубках движется мазут, в межтрубном пространстве - пар.</p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Подогреватели типа ПМ - горизонтальные аппараты с прямыми гладкими трубками или с U-образными
+	трубками. </p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Подогреватели типа ПМР - кожухотрубные аппараты с оребренными трубками. </p>
+<br>
+
+<p>Основные параметры и технические характеристики</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="90%">
+		<tbody>
+			<tr>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Обозна-чение</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">P мазута, МПа</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Расход мазута, т/ч</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Площадь теплообм., м<sup>2</sup></span></p></td>
+				<td colspan="2"><p align="center"><span style="font-size: 10pt;">t мазута, <sup>o</sup>С</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">t<br>пара, <sup>o</sup>С</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">P пара, МПа</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">D нар., мм</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Длина,<br>мм</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+			</tr>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">на входе</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">на выходе</span></p></td>
+      </tr>
+      <tr>
+        <td><p><span style="font-size: 10pt;">ПМ-25-6</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">6</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">13,5</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">115</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">325</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3615</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">666</span></p></td>
+      </tr>
+      <tr>
+        <td><p><span style="font-size: 10pt;">ПМ-40-15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4,0</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">95</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">426</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">6690</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1921</span></p></td>
+      </tr>
+      <tr>
+        <td><p><span style="font-size: 10pt;">ПМ-40-30</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">4,0</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">95</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">630</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">10840</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5006</span></p></td>
+      </tr>
+      <tr>
+	       <td><p><span style="font-size: 10pt;">ПМ-10-60</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">115</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">820</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;">10948</span></p></td>
+	       <td><p align="center"><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></p></td>
+      </tr>
+      <tr>
+          <td><p><span style="font-size: 10pt;">ПМР-64-15</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">6,4</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">44</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">300</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">426</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">5105</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1721</span></p></td>
+      </tr>
+      <tr>
+          <td><p><span style="font-size: 10pt;">ПМР-64-30</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">6,4</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">30</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">88</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">300</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">630</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">5105</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">3510</span></p></td>
+        </tr>
+        <tr>
+          <td><p><span style="font-size: 10pt;">ПМР-64-60</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">6,4</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">190</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">300</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">820</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">5560</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">5952</span></p></td>
+        </tr>
+        <tr>
+          <td><p><span style="font-size: 10pt;">ПМР-13-60</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">190</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">300</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">820</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">4985</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">4365</span></p></td>
+        </tr>
+        <tr>
+          <td><p><span style="font-size: 10pt;">ПМР-13-120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">370</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">300</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1220</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">5345</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">8571</span></p></td>
+        </tr>
+        <tr>
+          <td><p><span style="font-size: 10pt;">ПМР-13-240</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">240</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">765</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">70</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">300</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">1832</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">5655</span></p></td>
+          <td><p align="center"><span style="font-size: 10pt;">19295</span></p></td>
+        </tr>
+      </tbody>
+    </table>
+</div>

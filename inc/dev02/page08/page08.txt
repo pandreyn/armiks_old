@@ -1,0 +1,108 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Солерастворители</span></p>
+
+<p align="center"><span style="font-size: 16pt;">Солерастворители С-0,125-0,4; С-0,4-0,7; С-1,0-1,0</span></p>
+     
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Солерастворители предназначены для приготовления регенерационных растворов поваренной соли и 
+	сульфата аммония для катионитных фильтров, а также для осветления регенерационных растворов
+	реагентов на водоподготовительных установках небольшой производительности промышленных и 
+	отопительных котельных.</p>
+
+<p align="center">Схема работы солерастворителя</p>
+
+<p align="center">
+	<img style="width: 70px; height: 116px;" alt="" src="pics/clip_image009.gif">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img style="width: 227px; height: 422px;" alt="" src="pics/clip_image010.gif">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img style="width: 123px; height: 172px;" alt="" src="pics/clip_image011.gif"></p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td width="104"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
+        <td width="259"><p align="center"><span style="font-size: 10pt;">Наименование штуцеров</span></p></td>
+      </tr>
+      <tr>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">А</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Подвод воды для раствора соли</span></p></td>
+      </tr>
+      <tr>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Б</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Отвод раствора соли</span></p></td>
+      </tr>
+      <tr>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">В</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Подвод воды на промывку</span></p></td>
+      </tr>
+      <tr>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Г</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Дренаж</span></p></td>
+      </tr>
+      <tr>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Д</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Гидровыгрузка фильтрующего материала</span></p></td>
+      </tr>
+      <tr>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Е</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Лючок для загрузки</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <p>Основные параметры и технические характеристики</p>
+  
+  <table  border="1" cellpadding="0" cellspacing="0">
+  	<tbody>
+  		<tr>
+  			<td width="255"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">С-0,125- 0,4</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">С-0,4-0,7</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">С-1,0-1,0</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Вместимость, м<sup>3</sup></span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">0,125</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">0,4</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Давление рабочее, МПа (кгс/см<sup>2</sup>)</span></p></td>
+        <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">0,6 (6)</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Температура, <sup>o</sup>С</span></p></td>
+        <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Площадь фильтрования, м<sup>2</sup></span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">0,134</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">0,4</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Среда</span></p></td>
+        <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">антрацит, вода, соль (NaCl)</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Диаметр аппарата, мм</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">426</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">720</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">1020</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Высота аппарата, мм</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">1230</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">1650</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">1800</span></p></td>
+      </tr>
+      <tr>
+        <td width="255"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">151</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">238</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">440</span></p></td>
+      </tr>
+    <tbody>
+  </table> 
+</div>

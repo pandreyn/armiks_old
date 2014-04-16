@@ -1,0 +1,211 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Экономайзер чугунный блочный ЭБ</span></p>
+
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" width="80%">
+		<tr>
+			<td>
+				<img style="width:301px;height:314px;border:0;" src="pics/clip_image016.jpg"
+					alt="Схема экономайзера ЭБ">
+			</td>
+			<td>
+				<img style="width:276px;height:201px;border:0;" src="pics/clip_image017.jpg"
+				  alt="Экономайзер ЭБ чугунный блочный">
+			</td>
+		</tr>
+	</table>
+</div>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Экономайзеры чугунные блочные предназначены для нагревания питательной воды в
+	паровых и водогрейных стационарных котлах типа ДЕ, КЕ, ДКВР с рабочим давлением
+	до 2,4 МПа.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Экономайзеры состоят из пакетов труб с оребрением, соединенных между собой и
+	заключенных в каркас с теплоизоляционной обшивкой. </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Движение питательной воды в трубах, составляющих общую поверхность нагрева, - 
+	навстречу потоку дымовых газов. Применение чугуна в поверхностях нагрева и
+	соединительных деталях значительно увеличивает срок службы по сравнению со стальными
+	экономайзерами. Для очистки поверхности нагрева используется паровая (П) или газоимульсная (И) очистка. </p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Экономайзеры ЭБ2-94И – ЭБ2-236И поставляются одним блоком, ЭБ1-300И и ЭБ1-330И – 
+	двумя блоками, ЭБ1-646И и ЭБ1-808И – тремя блоками.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Основные параметры и технические характеристики :</p>
+
+<div align="center">
+	<table border="1"  cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td rowspan="2" width="20%"><p align="center"><span style="font-size: 10pt;">Параметры</span></p></td>
+				<td colspan="8" width="80%"><p align="center"><span style="font-size: 10pt;">Тип экономайзера</span></p></td>
+			</tr>
+			<tr>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">ЭБ2-94И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ2-142И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ2-200И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ2-236И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-З00И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-З30И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-646И</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-808И</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">Поверхность нагрева, м<sup>2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">94,4</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">141,6</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">201,6</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">236,0</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">302,4</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">330,4</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">646,0</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">808,0</span></p></td>
+      </tr>
+      <tr>
+      	<td width="20%"><p><span style="font-size: 10pt;">Число колонок</p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1</span></p></td>
+      </tr>
+      <tr>      	
+        <td width="20%"><p><span style="font-size: 10pt;">Длина экомайзерной трубы, м</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">t воды, мин. <sup>o</sup>С вх/вых</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/170</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">100/160</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">Номинальный расход воды, т/ч</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">4,4</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">7,15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">7,15</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">11,0</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">11,0</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">17,6</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">27,5</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">27,5</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">4000</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">5290</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">7200</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">8250</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">10650</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">11420</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">19750</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">24700</span></p></td>
+      </tr>
+      <tr>
+      	<td colspan="9" width="100%"><p><span style="font-size: 10pt;">Импульсная камера</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;диаметр, мм</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Кол-во</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
+      </tr>
+      <tr>
+        <td colspan="9" width="100%"><p><span style="font-size: 10pt;">Тип короба (рекомендуемый)</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;топливо-газ,мазут</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">01</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">02</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">03</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">03</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">07</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">07</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">-</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;топливо-кам.уголь</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">04</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">05</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">06</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">06</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">08</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">08</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">09 / 10</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">-</span></p></td>
+      </tr>
+      <tr>
+        <td colspan="9" width="100%"><p><span style="font-size: 10pt;">Габариты (без имп.камеры и короба)</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;длина</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3530</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3530</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ширина</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">870</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1180</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1485</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1785</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1178</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1328</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1620</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1620</span></p></td>
+      </tr>
+      <tr>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;высота</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3675</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3525</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">3518</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">4135</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

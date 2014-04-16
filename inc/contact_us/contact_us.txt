@@ -1,0 +1,11 @@
+<center>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Наши координаты</span></p> 
+<br>  
+<p>125480, г.Москва, а/я 100</p>
+<p>тел.: (495) 768-03-89</p>
+<p>тел/факс : (495) 926-76-50</p>
+<p><a href="mailto:info@armiks.ru?subject=from_web_page">info@armiks.ru</a></p>
+<p><a href="http://armiks.ru">http://armiks.ru</a></p>  
+<br>
+</center>
+ 

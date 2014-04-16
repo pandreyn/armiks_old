@@ -1,0 +1,359 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Теплообменники водоводяные (5 - 10 т/ч; 20 - 40 т/ч; 80-240 т/ч; 400 т/ч;)</span></p>
+
+<p align="center"><span style="font-size: 16pt;">1. Теплообменники водоводяные Q=5-10 т/ч; Q=20-40 т/ч;</span></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Теплообменники общего назначения изготовляются на массовые расходы нагреваемой воды 5-10,
+	20-40 т/ч и используются для подогрева подаваемой на фильтры химводоочистки воды за счет 
+	использования тепла продувочной воды паровых котлов и других горячих дренажей. В отдельных 
+	случаях они также используются для нагрева сетевой воды в небольших по мощности системах 
+	теплоснабжения.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Теплообменники представляют собой горизонтальный аппарат с жестким закреплением трубных досок.
+	Основными его узлами являются корпус, трубный пучок, две водяные камеры - распределительная
+	и поворотная. В корпусе установлены горизонтальная и вертикальная перегородки, которые 
+	расположены между передней и задней трубными решетками и образуют четыре хода воды в межтрубном 
+	пространстве. Трубный пучок состоит из прямых латунных трубок, концы трубок развальцованы в 
+	трубных досках.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Водяные камеры состоят из эллиптического (плоского) днища, обечайки, плоского фланца и
+	перегородок. Передняя распределительная камера имеет входной и выходной патрубки для воды.
+	Камера крепится болтами к трубной решетке.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Схема движения теплоносителей - противоточная. Греющая вода поступает в корпус, омывает наружную
+	поверхность трубок, отдавая нагреваемой воде теплоту, и отводится из корпуса.</p>
+
+<p align="center">Основные параметры и технические характеристики:</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Наименование показателя</span></p></td>
+      	<td colspan="2"><p align="center"><span style="font-size: 10pt;">Расход нагреваемой воды<br>в расчетном режиме, т/ч</span></p></td>
+    	</tr>
+    	<tr>
+      	<td><p align="center"><span style="font-size: 10pt;">Q=5-10</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Q=20-40</span></p></td>
+      </tr>
+      <tr>
+        <td><p><span style="font-size: 10pt;">Площадь поверхности теплообмена по наружному диаметру труб, м<sup>2</sup></span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1,6</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">5,6</span></p></td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">
+      		Рабочие параметры по греющей воде:<br>
+					&nbsp; - давление, МПа (кгс/см<sup>2</sup>)<br>
+					&nbsp; - температура на входе, <sup>o</sup>С<br>
+					&nbsp; - температура на выходе, <sup>o</sup>С<br>
+					по нагреваемой воде:<br>
+					&nbsp; - давление, МПа (кгс/см<sup>2</sup>)<br>
+					&nbsp; - температура на входе, <sup>o</sup>С<br>
+					&nbsp; - температура на выходе, <sup>o</sup>С</span></p>
+        </td>
+        <td><p align="center"><span style="font-size: 10pt;">
+        	<br>
+        	0,02 (0,2)<br>
+        	104,2<br>
+        	60<br>
+            <br>
+          0,7 (7,0)<br>
+          40<br>
+          50</span></p>
+        </td>
+        <td><p  align="center"><span style="font-size: 10pt;">
+        	<br>
+        	0,02 (0,2)<br>
+        	104,2<br>
+        	60<br>
+            <br>
+          0,7 (7,0)<br>
+          40<br>
+          50</span></p>
+        </td>
+      </tr>
+      <tr>
+        <td><p><span style="font-size: 10pt;">Пробное гидравлическое давление в трубном и межтрубном 
+        	пространствах, МПа (кгс/см<sup>2</sup>)</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1,0 (10)</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1,0 (10)</span></p></td>
+      </tr>
+      <tr>
+        <td><p><span style="font-size: 10pt;">
+        	Массовый расход воды в расчетном режиме, т/ч:<br>
+        	&nbsp; - греющей<br>
+        	&nbsp; - нагреваемой</span></p>
+        </td>
+        <td><p align="center"><span style="font-size: 10pt;">
+        	<br>
+        	2,5<br>
+        	10</span></p>
+        </td>
+        <td><p align="center"><span style="font-size: 10pt;">
+        	<br>
+        	10<br>
+        	40</span></p>
+        </td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">Число ходов воды в трубной системе:</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">4</span></p></td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">
+      		Размер трубки, мм:<br>
+      		&nbsp; - диаметр<br>
+      		&nbsp; - толщина стенок<br>
+      		&nbsp; - длина</span></p>
+      	</td>
+      	<td><p align="center"><span style="font-size: 10pt;">
+      		<br>
+      		16<br>
+      		1<br>
+      		1700</span></p>
+      	</td>
+      	<td><p align="center"><span style="font-size: 10pt;">
+      		<br>
+      		16<br>
+      		1<br>
+      		1400</span></p>
+      	</td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">Количество трубок:</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">40</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">84</span></p></td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">Масса теплообменника (без воды) , т</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">0,126</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">0,275</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br><br>
+<p align="center"><img  style="width: 550px; height: 281px;" src="pics/clip_image015.gif"
+	alt="Схема теплообменника"></p>
+
+<br>	
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Основные присоединительные и габаритные размеры (мм):</p>
+	
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="80%">
+		<tbody>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">
+					Массовый расход<br>
+					нагреваемой воды, т/ч</span></p>
+        </td>
+        <td><p align="center"><span style="font-size: 10pt;">Dн</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">б</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">б1</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">C</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">C1</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">C2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">C3</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">C4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">С5</span></p></td>
+      </tr>
+      <tr>
+      	<td><p align="center"><span style="font-size: 10pt;">5-10</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">7</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">10</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">2020</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">1694</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">130</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">1150</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+      </tr>
+      <tr>
+      	<td><p align="center"><span style="font-size: 10pt;">20-40</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">9</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">14</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">1754</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">1394</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">160</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">800</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<br>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="80%">
+		<tbody>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">Массовый расход<br>нагреваемой воды, т/ч</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">C6</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">d</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">a</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">b</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">H</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">H1</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">H2</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">И</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">М</span></p></td>
+			</tr>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">5-10</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">190</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">135</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">635</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">136</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">260</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">350</span></p></td>
+			</tr>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">20-40</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">230</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">180</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">195</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">695</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">195</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">180</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">260</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">350</span></p></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<br>
+
+
+<p align="center"><span style="font-size: 16pt;">2. Теплообменники водоводяные Q =80-240 т/ч;  Q=400 т/ч</span></p>
+
+<p align="center"><img  style="width: 330px; height: 139px;" src="pics/clip_image010.jpg"
+	alt="Теплообменник водоводяной"></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Теплообменники предназначены для нагрева химически очищенной воды за счет использования тепла
+	продувочной воды паровых котлов.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Теплообменники могут также использоваться для нагрева воды на теплоразборных пунктах (отопление,
+	горячее водоснабжение).
+	<br>
+	<br>
+</p>
+
+<p>Основные параметры и технические характеристики:</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" widyh="95%">
+		<tbody>
+			<tr>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Наименование показателя</span></p></td>
+				<td colspan="2"><p align="center"><span style="font-size: 10pt;">Тип теплообменника</span></p></td>
+			</tr>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">Q=80-240</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">Q=400</span></p></td>
+			</tr>
+			<tr>
+				<td><p><span style="font-size: 10pt;">Поверхность теплообмена, м<sup>2</sup></span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">21</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">31,2</span></p></td>
+			</tr>
+			<tr>
+				<td><p><span style="font-size: 10pt;">
+					Параметры греющей воды:<br>
+					&nbsp; - расход, т/ч<br>
+					&nbsp; - давление, МПа (кгс/см<sup>2</sup>)<br>
+					&nbsp; - температура на входе, <sup>o</sup>C<br>
+					&nbsp; - температура на выходе, <sup>o</sup>C</span></p>
+				</td>
+        <td><p align="center"><span style="font-size: 10pt;">
+        	<br>
+        	50<br>
+        	0,12 (1,2)<br>
+        	104<br>
+        	60</span></p>
+        </td>
+        <td><p align="center"><span style="font-size: 10pt;">
+        	<br>
+        	80<br>
+        	0,12 (1,2)<br>
+        	104<br>
+        	60</span></p>
+        </td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">
+      		Максимальная температура греющей воды, <sup>o</sup>С</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">160</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">160</span></p></td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">
+      		Максимальное давление греющей воды, МПа (кгс/см<sup>2</sup>)</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">0,78 (8)</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">0,78 (8)</span></p></td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">
+      		Параметры нагреваемой воды:<br>
+      		&nbsp; - расход, т/ч<br>
+      		&nbsp; - давление, МПа (кгс/см<sup>2</sup>)<br>
+      		&nbsp; - температура на входе, <sup>o</sup>C<br>
+      		&nbsp; - температура на выходе, <sup>o</sup>C</span></p>
+      	</td>
+        <td><p align="center"><span style="font-size: 10pt;">
+        	<br>
+        	240<br>
+        	0,78 (8)<br>
+        	40<br>
+        	48</span></p>
+        </td>
+      	<td><p align="center"><span style="font-size: 10pt;">
+      		<br>
+      		400<br>
+      		0,78 (8)<br>
+      		40<br>
+      		48</span></p>
+      	</td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">Максимальное давление нагреваемой воды, МПа (кгс/см<sup>2</sup>)</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">0,78 (8)</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">0,78 (8)</span></p></td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">
+      		Габариты, мм<br>
+      		&nbsp; - диаметр корпуса<br>
+      		&nbsp; - длина</span></p>
+      	</td>
+      	<td><p align="center"><span style="font-size: 10pt;">
+      		<br>
+      		478<br>
+      		2065</span></p>
+      	</td>
+      	<td><p align="center"><span style="font-size: 10pt;">
+      		<br>
+      		478<br>
+      		2665</span></p>
+      	</td>
+      </tr>
+      <tr>
+      	<td><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">640</span></p></td>
+      	<td><p align="center"><span style="font-size: 10pt;">784</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

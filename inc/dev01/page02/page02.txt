@@ -1,0 +1,402 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватели пароводяные ПП систем теплоснабжения</span></p>
+
+<p align="center"><span style="font-size: 16pt;">
+	Водоподогреватель пароводявой ПП систем теплоснабжения (ГОСТ 28679-90)</span></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Водоподогреватели пароводяные применяются в системах теплоснабжения, работающих в температурных
+	режимах 150-70, 130-70, 95-70 и служат для нагрева сетевой воды паром для использования ее в 
+	системах отопления и горячего водоснабжения зданий различного назначения.</p>
+
+<div align="center">
+<table width="95%">
+<tbody>
+	<tr style="">
+  	<td>
+    	<p align="center">
+    			<img style="width: 330px; height: 223px;"src="pics/clip_image001.jpg" alt="пароводяной подогреватель" v:shapes="_x0000_i1025">
+    	</p>
+    </td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+
+<p>Основные параметры и технические характеристики</p>
+<div align="center">
+<table  border="1" cellpadding="0" cellspacing="0" width="95%">
+<tbody>
+	<tr>
+  	<td width="12%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Наименование</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">S поверх-ностити нагрева, м<sup>2</sup></span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Тепло-производи-тельность номиналь-ная , Гкал/час</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Расход воды номи-наль-ный , т/ч</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Число ходов</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Давление греющего пара, МПа (кгс/см<sup>2</sup>)</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt; font-family: Symbol;">&#198;</span><br><div align="center"><span style="font-size: 9pt;">корпуса, мм</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Длина корпуса L, мм</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Длина трубок, мм</span</p>></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Кол-во трубок, шт.</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Масса подогрева-теля, кг</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Масса трубной системы (пучек), кг</span></p></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-6-2-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">6,3</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,583</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">29,2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,2 (2)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">325</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2606</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">68</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">390</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">82</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-9-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">9,5</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1,63</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">32,4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span> </td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">325</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3606</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">68</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">485</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">115</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-9-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">9,5</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1,13</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">16,1</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">325</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3606</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">68</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">485</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">115</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-11-2-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">11,4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1,07</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">53,4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,2 (2)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">426</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2650</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">124</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">600</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">157</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-17-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">17,2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2,98</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">69</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">426</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3650</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">124</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">730</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">215</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-17-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">17,2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2,08</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">29,4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">426</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3650</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">124</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">730</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">215</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-16-2-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">16,0</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1,52</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">76</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,2 (2)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">480</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2650</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">176</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">755</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">219</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-24-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">24,4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4,22</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">83,5</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">480</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3830</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">176</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">931</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">299</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-24-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">24,4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2,12%</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">41,7</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">480</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3830</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">176</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">931</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">299</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-21-2-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">21,2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1,99</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">103,5</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,2 (2)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">530</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2785</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">232</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">900</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">284</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-32-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">32,0</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">5,57</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">110,5</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">530</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3785</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">232</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1090</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-32-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">32,0</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3,88</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">55</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">530</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3785</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">232</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1090</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-35-2-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">35,3</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3,38</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">169</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,2 (2)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">630</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2885</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1290</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">481</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-53-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">53,9</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">9,2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">182</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">630</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3835</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1565</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">658</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-53-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">53,9</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">6,55</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">93</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">630</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3835</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1565</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">658</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-76-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">76,8</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">720</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3985</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">560</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">927</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-76-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">76,8</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">720</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3985</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">560</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">927</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-71-2-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">71,0</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,2 (2)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">820</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3135</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">792</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1615</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">678</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-108-7-II</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">108,0</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">820</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4135</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">792</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2600</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1292</span></div></td>
+  </tr>
+  <tr>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-108-7-IV</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">108,0</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">0,7 (7)</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">820</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">4135</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">3000</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">792</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">2600</span></div></td>
+    <td width="8%"><div align="center"><span style="font-size: 9pt;">1292</span></div></td>
+  </tr>
+</tbody>
+</table>
+</div>
+<br>
+ 
+ <p>Условное обозначение:</p>
+<table border="1" cellpadding="0" cellspacing="0" width="95%">
+<tbody>
+	<tr>
+  	<td width="18%"><div align="center"><span style="font-size: 9pt;">ХХХ-</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">ХХХ-</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">Х-</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">Х-</span></div></td>
+    <td width="28%"><div align="center"><span style="font-size: 9pt;">ХХХ(ХХ)</span></div></td>
+  </tr>
+  <tr>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">1</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">2</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">3</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">4</span></div></td>
+    <td width="28%"><div align="center"><span style="font-size: 9pt;">5</span></div></td>
+  </tr>
+  <tr>
+  	<td colspan="5" width="100%"><span style="font-size: 9pt;">
+    	<p>1 - тип подогревателя (ПП1 – подогреватель пароводяной с эллиптическими днищами, ПП2 – подогреватель
+				пароводяной с плоскими днищами)<br>
+				2 - площадь поверхности теплообмена, м<sup>2</sup><br>
+				3 - давление греющего пара, Мпа<br>
+				4 - число ходов сетевой воды, шт.<br>
+				5 -вид климатического исполнения</p>
+    </span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<p><u>Пример условного обозначения :</u></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   1. Подогреватель пароводяной с плоскими днищами, площадью поверхности теплообмена
+	 32,0 м<sup>2</sup>, с давлением греющего пара 0,7 (7) МПа (кгс/см<sup>2</sup>),
+	 двухходового по сетевой воде, климатического исполнения У4 - ПП1-32-7-II-У4</p>
+	 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  2. Подогреватель пароводяной с элиптическими днищами, площадью поверхности
+	теплообмена 53,9 м<sup>2</sup>,с давлением греющего пара 0,7 (7) МПа
+ (кгс/см<sup>2</sup>), четырехходового по сетевой воде, климатического исполнения У4 - 
+ ПП1-53-7-IV-У4</p>
+ 
+<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<u>График для выбора типоразмера пароводяного подогревателя:</u><br><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Требуемый размер подогревателя определяется заданным тепловым потоком и расходом нагреваемой сетевой
+			воды и температурным режимом его работы. Выбор подогревателя рекомендуется производить
+			по графику зависимости теплового потока от расхода нагреваемой сетевой воды при
+			нагреве ее по температурным графикам теплосети 70/150 <sup>0</sup>С, 70/130 <sup>0</sup>С,
+			70/95 <sup>0</sup>С.</p> 
+				
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <u>Пример 1</u><br>
+		Выбор подогревателя для температурного графика 70/150 <sup>0</sup>С
+		с тепловым потоком 6 Гкал/ч (7 Мвт). <br>
+		Из точки, соответствующей 6 Гкал/ч, проводим горизонтальную линию до
+		пересечения с линией температурного графика 70/150 <sup>0</sup>С.
+		Точке пересечения соответствует цифра 53,9 м<sup>2</sup>, что соответствует подогревателю
+		ПП1-53-7-IV.</p>
+		
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <u>Пример 2</u><br>
+	Выбор подогревателя для температурного графика 70/95 <sup>0</sup>С с
+	расходом нагреваемой воды 140 т/ч.<br>
+	Из точки, соответствующей 140 т/ч, проводим вертикальную линию до
+	пересечения с линией температурного графика 70/95 <sup>0</sup>С.
+	Точке пересечения соответствует цифра 35,3 м<sup>2</sup>, что соответствует подогревателю
+	ПП1-35-2-II. </p>
+<br>
+
+<p><img style="width: 256px; height: 329px;"  alt="Температурный график" src="pics/clip_image003.jpg"
+ 		v:shapes="_x0000_s1026" align="left" hspace="12"></p>
+<br>

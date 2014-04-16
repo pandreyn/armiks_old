@@ -1,0 +1,46 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Холодильник отбора проб двухточечный диаметром 133 мм</span></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Холодильник отбора проб предназначен для отбора проб пара и воды, необходимых для периодического контроля за
+	водно-химическим режимом паровых и водогрейных котлов, а также систем отопления и гор.водоснабжения.</p>
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Охлаждаемая вода поступает в змеевик сверху и отводится снизу через соответствующие патрубки. Охлаждающая вода
+	подается снизу через входной патрубок, омывает змеевик и отводится из холодильника через сливной патрубок.</p>
+	
+<p align="center"><img style="width: 187px; height: 436px;" alt="" src="pics/image002.jpg">&nbsp;
+	                <img style="width: 187px; height: 139px;" alt="" src="pics/image004.jpg"></p>
+	                
+<p align="left">Общий вид холодильника двухточечного: I - вход пробы (сверху); II - выход пробы (снизу).
+1 - патрубок подвода охлаждающей воды; 2 - змеевик; 3 - донышко; 4 – кольцо резиновое; 
+5 - корпус; 6 - направляющая труба; 7 - крышка; 8 - гайка; 9 - патрубок отвода охлаждающей воды.
+</p>	                
+
+<p align="center">Основные параметры и технические характеристики</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td width="372"><p><span style="font-size: 10pt;">Максимальное давление пробы, МПа (кгс/см<sup>2</sup>)</span></p></td>
+        <td width="67"><p align="center"><span style="font-size: 10pt;">4,0 (40)</span></p></td>
+      </tr>
+      <tr>
+        <td width="372"><p><span style="font-size: 10pt;">Давление охлаждающей воды, МПа (кгс/см<sup>2</sup>)</span></span></p></td>
+        <td width="67"><p align="center"><span style="font-size: 10pt;">0,1 (1,0)</span></p></td>
+      </tr>
+      <tr>
+        <td width="372"><p><span style="font-size: 10pt;">Сечение змеевика для прохода пробы, мм<sup>2</sup></span></p></td>
+        <td width="67"><p align="center"><span style="font-size: 10pt;">28,3</span></p></td>
+      </tr>
+      <tr>
+        <td width="372"><p><span style="font-size: 10pt;">Сечение трубы для прохода охлаждающей воды, мм<sup>2</sup></span></p></td>
+        <td width="67"><p align="center"><span style="font-size: 10pt;">125</span></p></td>
+      </tr>
+      <tr>
+        <td width="372"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td width="67"><p align="center"><span style="font-size: 10pt;">25,9</span></span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

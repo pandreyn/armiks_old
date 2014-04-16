@@ -1,0 +1,87 @@
+body {
+	margin:0;
+}
+
+.text_menu {
+        font-family: Verdana, Arial, Tahoma; font-size: 12px; font-style: normal; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #000000;
+}
+
+.text_neo {
+        font-family: Verdana, Arial, Tahoma; font-size: 17px; font-style: oblique; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #212F6E;
+}
+
+.text_descript {
+        font-family: Verdana, Arial, Tahoma; font-size: 10px; font-style: oblique; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #000000;
+}
+
+.text_header {
+        font-family: Verdana, Arial, Tahoma; font-size: 10px; font-style: normal; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #000000;
+}
+
+.text_bold {
+        font-family: Verdana, Arial, Tahoma; font-size: 10px; font-style: normal; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #0B1D6F;
+}
+
+.text {
+        font-family: Verdana, Arial, Tahoma; font-size: 11px; font-style: normal; font-weight: normal; line-height: normal; font-variant: normal; text-transform: none; color: #0B1D6F;
+}
+
+.TD1 {
+        BACKGROUND-COLOR: #8A93BD;
+}
+
+
+.TD2 {
+        BACKGROUND-COLOR: #F1F3FA;
+}
+
+.TD3 {
+        BACKGROUND-COLOR: #A1DE02;
+}
+
+.TD4 {
+        BACKGROUND-COLOR: #D6F79C;
+}
+
+.TD5 {
+        background:"../pics/tabl_border2.gif"
+}
+
+.TD6 {
+        height:20px;
+}
+.TD7 {
+        height: 65%;
+}
+
+.head_news {
+        font-family: Verdana, Arial, Tahoma; font-size: 10px; font-style: normal; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #ffffff;
+}
+
+.text_news {
+        font-family: Verdana, Arial, Tahoma; font-size: 9px; font-style: normal; font-weight: bold; line-height: normal; font-variant: normal; text-transform: none; color: #000000;
+}
+
+A:link {
+        COLOR: #627AED; TEXT-DECORATION: none;  font-weight: bold;
+}
+A:visited {
+        COLOR: #8A93BD; TEXT-DECORATION: none;  font-weight: bold;
+}
+A:hover {
+        COLOR: #627AED; TEXT-DECORATION: underline;  font-weight: bold;
+}
+
+LI {
+        MARGIN-TOP: 1pt; COLOR:#051665
+}
+
+p {
+ color: #444488;
+ font-size: 10pt;
+ font-family: verdana;
+ }
+
+td {
+ color: #444488;
+ }

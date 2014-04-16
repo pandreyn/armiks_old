@@ -1,0 +1,127 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватели пароводяные (ППВ – 25; Q – 50 т/ч; Q –100 т/ч; Q – 200 т/ч; Q – 400 т/ч)</span></p>
+
+<p align="center"><span style="font-size: 16pt;">1. Подогреватель пароводяной ППВ-25</span></p>
+
+<p align="center"><img style="width: 550px; height: 346px;" src="pics/clip_image014.gif"
+	alt="Схема подогревателя"></p>
+
+	
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Предназначен для подогрева воды, поступающей на химводоочистку в отопительных, отопительно-производственных
+	и производственных котельных. Представляет собой аппарат горизонтального типа, с неподвижными трубными 
+	решетками. Состоит из трубной системы, передней и задней крышек, арматуры и КИП. Греющий пар поступает 
+	в межтрубное пространство, разделенное горизонтальной перегородкой на две части, благодаря чему имеет два
+	хода. Нагреваемая вода движется по трубам трубной системы и за счет перегородок в передней и задней крышках 
+	имеет четыре хода. Коррозионно-стойкие латунные теплообменные трубки повышают надежность работы подогревателя.
+	Указатель уровня жидкости позволяет визуально наблюдать за уровнем конденсата в трубной системе, а 
+	термодинамический конденсатоотводчик служит для постоянного его отвода.</p>
+
+<p>Основные параметры и технические характеристики:</p>
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0" width="95%">
+		<tbody>
+			<tr>
+				<td rowspan="2" width="70"><p align="center"><span style="font-size: 10pt;">Наиме-нование</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">Среда</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">P пар/вода, МПа</span></p></td>
+        <td colspan="2" width="113"><p align="center"><span style="font-size: 10pt;">t&nbsp;среды,&nbsp;°С</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">Поверхн. нагрева, м<sup>2</sup></span></p></td>
+        <td colspan="4" width="227"><p align="center"><span style="font-size: 10pt;">Размеры, мм</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+      </tr>
+      <tr>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">на&nbsp;вх</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">на&nbsp;вых</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">наруж. диам.</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">длина</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">ширина</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">высота</span></p></td>
+      </tr>
+      <tr>
+        <td width="70"><p align="center"><span style="font-size: 10pt;">ППВ-25</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">пар/вода</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">0,2/0,6</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">43</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">3,97</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">1345</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">620</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">820</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">275</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<p align="center"><span style="font-size: 16pt;">2. Подогреватели пароводяные Q=50 т/ч; Q=100 т/ч; Q=200 т/ч; Q=400</span></p>
+      
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Подогреватели пароводяные предназначены для нагрева химически очищенной воды за счет использования
+	тепла греющего пара на тепловых электростанциях и котельных.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Подогреватели пароводяные могут также использоваться для нагрева воды на теплоразборных пунктах
+(отопление помещений, нагрев воды в бассейнах, душевых и т.п.).</p>
+
+<div align="center">
+	<table border="1" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<td><p align="center"><span style="font-size: 10pt;">Тип устройства</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Поверхность нагрева</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Давл.в греющей системе, МПа</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Давл.в греемой системе</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Темп. в греющей системе, <sup>o</sup>С</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Dm теплообменных труб, мм</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Диаметр корпуса, мм</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Длина, мм</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+      </tr>
+      <tr>
+        <td><p align="center"><span style="font-size: 10pt;">Q=50 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">8,4</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">180</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">16x1</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2403</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">330</span></p></td>
+      </tr>
+      <tr>
+        <td><p align="center"><span style="font-size: 10pt;">Q=100 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">15,6</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">180</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">16x1</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">478</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1665</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">560</span></p></td>
+      </tr>
+      <tr>
+        <td><p align="center"><span style="font-size: 10pt;">Q=200 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">31,2</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">180</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">16x1</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">478</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">2705</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">794</span></p></td>
+      </tr>
+      <tr>
+        <td><p align="center"><span style="font-size: 10pt;">Q=400 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">68,0</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">180</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">16x1</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">630</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">3180</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

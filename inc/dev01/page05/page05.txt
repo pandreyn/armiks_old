@@ -1,0 +1,148 @@
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">
+	Грязевики абонентские (трубопроводов теплосети)
+</span></p>	
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Грязевики предназначены для очистки воды от взвешенных частиц грязи и других примесей в системах водяного 
+	отопления с температурой теплоносителя до 150<sup>o</sup>С и рабочим давлением до 1,0 МПа (10 кгс/см<sup>2</sup>).
+	Устанавливается в элеваторных узлах, тепловых вводах зданий различного назначения и котельных.</p>
+
+<p align="center"><span style="font-size: 16pt;">Грязевик вертикальный</span></p>
+
+<p><img style="width: 299px; height: 308px;" src="pics/clip_image001.gif"  alt="Грязевик вертикальный" 
+	v:shapes="_x0000_i1025"></p>
+<br>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Основные параметры и технические характеристики</p>
+<br>
+
+<div align="center">
+<table border="1" width="100%">
+<tbody>
+	<tr>
+  	<td rowspan="2"  width="24%"><p align="center"><span style="font-size: 10pt;">Диаметр условный Ду, мм</span></p></td>
+    <td rowspan="2" width="24%"><p align="center"><span style="font-size: 10pt;">Диаметр наружный Дн, мм</span></p></td>
+    <td colspan="4" width="52%"><p align="center"><span style="font-size: 10pt;">Грязевик горизонтальный </span></p></td>
+  </tr>
+  <tr>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">Длина L, мм</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">Высота Н, мм</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">Давление Ру, кг/см<sup>2</sup></span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">108</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">308</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">217</span></p></td>
+    <td rowspan="8" width="91"><p align="center"><span style="font-size: 10pt;">10/16</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">16,83</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">359</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">259</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">29,18</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">80</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
+    <td width="87"> <p align="center"><span style="font-size: 10pt;">419</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">369</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">48,87</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">473</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">421</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">70,01</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">125</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">473</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">441</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">71,51</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">325</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">526</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">563</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">103,34</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">426</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">626</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">669</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">184,08</span></p></td>
+  </tr>
+  <tr>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+    <td width="24%"><p align="center"><span style="font-size: 10pt;">529</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">730</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">785</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">296,24</span></p></td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+<br>
+
+<p align="center"><span style="font-size: 16pt;">Грязевик горизонтальный</span></p>
+
+<p align="center"><img style="width: 413px; height: 276px;" src="pics/clip_image002.gif"
+ alt="Грязевик горизонтальный" v:shapes="_x0000_i1026"></p>
+<br> 
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	Основные параметры и технические характеристики</p>
+<br>
+
+<div align="center">
+<table border="1" width="100%">
+<tbody>
+	<tr>
+  	<td rowspan="2" width="137"><p align="center"><span style="font-size: 10pt;">Диаметр условный Ду, мм</span></p></td>
+    <td rowspan="2" width="137"><p align="center"><span style="font-size: 10pt;">Диаметр наружный Дн, мм</span></p></td>
+    <td colspan="4" width="356"><p align="center"><span style="font-size: 10pt;">Грязевик горизонтальный </span></p></td>
+  </tr>
+  <tr>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">Длина L, мм</span></p></td>
+    <td width="126"><p align="center"><span style="font-size: 10pt;">Высота Н, мм</span></p></td>
+    <td width="79"><p align="center"><span style="font-size: 10pt;">Давление Ру, кг/см<sup>2</sup></span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+  </tr>
+  <tr>
+    <td width="137"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
+    <td width="137"><p align="center"><span style="font-size: 10pt;">273</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">1082</span></p></td>
+    <td width="126"><p align="center"><span style="font-size: 10pt;">470</span></p></td>
+    <td rowspan="3" width="79"><p align="center"><span style="font-size: 10pt;">10/16</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">123,5</span></p></td>
+  </tr>
+  <tr>
+    <td width="137"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
+    <td width="137"><p align="center"><span style="font-size: 10pt;">325</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">1390</span></p></td>
+    <td width="126"><p align="center"><span style="font-size: 10pt;">570</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">189,3</span></p></td>
+  </tr>
+  <tr>
+    <td width="137"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
+    <td width="137"><p align="center"><span style="font-size: 10pt;">426</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">1485</span></p></td>
+    <td width="126"><p align="center"><span style="font-size: 10pt;">650</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">236</span></p>
+  </tr>
+</div>
+</table>
+</tbody> 
+<br>
+   

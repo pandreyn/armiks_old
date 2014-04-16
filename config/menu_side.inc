@@ -57,9 +57,24 @@
     	</td>
   	</tr>
 	</table>
-	<br>	
-	
-	<table width="95%" cellpadding="0" cellspacing="0">
+	<br>
+
+    <table width="95%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                &nbsp
+            </td>
+            <td>
+                <img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
+            </td>
+            <td  class="text_menu">
+                <a href="?topic=dev05">Трубы экономайзерные</a>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+    <table width="95%" cellpadding="0" cellspacing="0">
   	<tr>
   		<td>
   			&nbsp

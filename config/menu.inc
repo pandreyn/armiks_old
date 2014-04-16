@@ -16,8 +16,12 @@
 		<td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
 			<a href="?topic=dev02">Котельное<br>оборудование</a>
-		</td>  
-		<td class="text_menu">	
+		</td>
+        <td class="text_menu">
+            <img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
+            <a href="?topic=dev05">Трубы<br>экономайзерные</a>
+        </td>
+        <td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
 			<a href="?topic=dev03">Котлы паровые</a>
 		</td>  

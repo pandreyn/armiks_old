@@ -29,12 +29,11 @@
         <!--js=13//-->
     </script>
     <script language="JavaScript" type="text/javascript">
-        <!--d.write('<IMG src="http://d0.ca.bf.a0.top.list.ru/counter'+'?id=1024049;js='+js+a+
-        ';rand='+Math.random()+'" height=1 width=1/>') if(11<js)d.write('<'+'!-- ')//-->
+        <!--d.write('<IMG src="http://d0.ca.bf.a0.top.list.ru/counter?id=1024049;js='+js+a+
+        ';rand='+Math.random()+'height=1 width=1/>') if(11<js)d.write('<'+'!-- ')//-->
     </script>
     <noscript>
-        <img src="http://d0.ca.bf.a0.top.list.ru/counter?js=na;id=1024049"
-             height=1 width=1 alt=""/>
+        <img src="http://d0.ca.bf.a0.top.list.ru/counter?js=na;id=1024049" height="1" width="1" alt=""/>
     </noscript>
     <script language="JavaScript" type="text/javascript">
         <!--if(11<js)d.write('--'+'>')//-->

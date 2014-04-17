@@ -2,6 +2,60 @@
     Трубы экономайзерные</span>
 </p>
 
+<p><img alt="Труба  экономайзерная" src="pics/dev05_01.png"> </p>
+<p><img alt="Калач" src="pics/dev05_02.png"> </p>
+<p><img alt="Дуга" src="pics/dev05_03.png"> </p>
+
+<table>
+    <thead>
+        <th>Наименование</th>
+        <th>L, мм</th>
+        <th>N, мм</th>
+        <th>n</th>
+        <th>S, мм</th>
+        <th>Площадь поверхности нагрева трубы, м2</th>
+        <th>Масса, кг</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Труба L = 2 м</td>
+            <td>2000</td>
+            <td>1800</td>
+            <td>72</td>
+            <td>8</td>
+            <td>2,95</td>
+            <td>74,2</td>
+        </tr>
+        <tr>
+            <td>Труба L = 3 м</td>
+            <td>3000</td>
+            <td>2800</td>
+            <td>112</td>
+            <td>9</td>
+            <td>4,49</td>
+            <td>114,8</td>
+        </tr>
+        <tr>
+            <td>Дуга</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>9,6</td>
+        </tr>
+        <tr>
+            <td>Калач</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>17,3</td>
+        </tr>
+    </tbody>
+</table>
+
 <p>РАСПРОДАЖА
 
    ЭКОНОМАЙЗЕРНОЙ ТРУБЫ !

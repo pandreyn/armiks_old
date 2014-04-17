@@ -1,41 +1,41 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Узел тепловой элеваторный УТЭ</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РЈР·РµР» С‚РµРїР»РѕРІРѕР№ СЌР»РµРІР°С‚РѕСЂРЅС‹Р№ РЈРўР­</span></p>
 
-<p align="center"><span style="font-size: 16pt;">Узлы тепловые элеваторные (ТУ 400-28-111-91)</span></p>
+<p align="center"><span style="font-size: 16pt;">РЈР·Р»С‹ С‚РµРїР»РѕРІС‹Рµ СЌР»РµРІР°С‚РѕСЂРЅС‹Рµ (РўРЈ 400-28-111-91)</span></p>
 <br>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   Тепловые элеваторные узлы предназначены для присоединения местной системы отопления к источнику 
-   теплоснабжения (тепловым сетям) при необходимости снижения температуры воды, поступающей из тепловой сети, 
-   путем подмешивания к ней части обратной воды от системы отопления и располагаемом напоре перед
-   элеватором, достаточном для его работы, а также для контроля за параметрами работы местной системы отопления.<br>
+   РўРµРїР»РѕРІС‹Рµ СЌР»РµРІР°С‚РѕСЂРЅС‹Рµ СѓР·Р»С‹ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РїСЂРёСЃРѕРµРґРёРЅРµРЅРёСЏ РјРµСЃС‚РЅРѕР№ СЃРёСЃС‚РµРјС‹ РѕС‚РѕРїР»РµРЅРёСЏ Рє РёСЃС‚РѕС‡РЅРёРєСѓ 
+   С‚РµРїР»РѕСЃРЅР°Р±Р¶РµРЅРёСЏ (С‚РµРїР»РѕРІС‹Рј СЃРµС‚СЏРј) РїСЂРё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё СЃРЅРёР¶РµРЅРёСЏ С‚РµРјРїРµСЂР°С‚СѓСЂС‹ РІРѕРґС‹, РїРѕСЃС‚СѓРїР°СЋС‰РµР№ РёР· С‚РµРїР»РѕРІРѕР№ СЃРµС‚Рё, 
+   РїСѓС‚РµРј РїРѕРґРјРµС€РёРІР°РЅРёСЏ Рє РЅРµР№ С‡Р°СЃС‚Рё РѕР±СЂР°С‚РЅРѕР№ РІРѕРґС‹ РѕС‚ СЃРёСЃС‚РµРјС‹ РѕС‚РѕРїР»РµРЅРёСЏ Рё СЂР°СЃРїРѕР»Р°РіР°РµРјРѕРј РЅР°РїРѕСЂРµ РїРµСЂРµРґ
+   СЌР»РµРІР°С‚РѕСЂРѕРј, РґРѕСЃС‚Р°С‚РѕС‡РЅРѕРј РґР»СЏ РµРіРѕ СЂР°Р±РѕС‚С‹, Р° С‚Р°РєР¶Рµ РґР»СЏ РєРѕРЅС‚СЂРѕР»СЏ Р·Р° РїР°СЂР°РјРµС‚СЂР°РјРё СЂР°Р±РѕС‚С‹ РјРµСЃС‚РЅРѕР№ СЃРёСЃС‚РµРјС‹ РѕС‚РѕРїР»РµРЅРёСЏ.<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   На приведенной схеме показана базовая простейшая комплектация элеваторного узла. При необходимости
-   этот узел может быть дополнен различного рода регуляторами (расхода, подпора, перепада 
-   давления), ответвлениями первичного и вторичного теплоносителей к различным потребителям, фильтрами 
-   тонкой очистки, приборами учета теплоты и т.д. в соответствии с технической необходимостью и заданием заказчика.</p>
+   РќР° РїСЂРёРІРµРґРµРЅРЅРѕР№ СЃС…РµРјРµ РїРѕРєР°Р·Р°РЅР° Р±Р°Р·РѕРІР°СЏ РїСЂРѕСЃС‚РµР№С€Р°СЏ РєРѕРјРїР»РµРєС‚Р°С†РёСЏ СЌР»РµРІР°С‚РѕСЂРЅРѕРіРѕ СѓР·Р»Р°. РџСЂРё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё
+   СЌС‚РѕС‚ СѓР·РµР» РјРѕР¶РµС‚ Р±С‹С‚СЊ РґРѕРїРѕР»РЅРµРЅ СЂР°Р·Р»РёС‡РЅРѕРіРѕ СЂРѕРґР° СЂРµРіСѓР»СЏС‚РѕСЂР°РјРё (СЂР°СЃС…РѕРґР°, РїРѕРґРїРѕСЂР°, РїРµСЂРµРїР°РґР° 
+   РґР°РІР»РµРЅРёСЏ), РѕС‚РІРµС‚РІР»РµРЅРёСЏРјРё РїРµСЂРІРёС‡РЅРѕРіРѕ Рё РІС‚РѕСЂРёС‡РЅРѕРіРѕ С‚РµРїР»РѕРЅРѕСЃРёС‚РµР»РµР№ Рє СЂР°Р·Р»РёС‡РЅС‹Рј РїРѕС‚СЂРµР±РёС‚РµР»СЏРј, С„РёР»СЊС‚СЂР°РјРё 
+   С‚РѕРЅРєРѕР№ РѕС‡РёСЃС‚РєРё, РїСЂРёР±РѕСЂР°РјРё СѓС‡РµС‚Р° С‚РµРїР»РѕС‚С‹ Рё С‚.Рґ. РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃ С‚РµС…РЅРёС‡РµСЃРєРѕР№ РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚СЊСЋ Рё Р·Р°РґР°РЅРёРµРј Р·Р°РєР°Р·С‡РёРєР°.</p>
 
-<p align="center"><img style="width: 400px; height: 169px;" src="pics/clip_image004.jpg"  alt="тепловой узел" 
+<p align="center"><img style="width: 400px; height: 169px;" src="pics/clip_image004.jpg"  alt="С‚РµРїР»РѕРІРѕР№ СѓР·РµР»" 
 	v:shapes="_x0000_i1025"></p>
 <br>
 
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 <br>
 <div align="center">
 <table border="1" width="100%">
 <tbody>
 	<tr>
-  	<td width="13%"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
-    <td width="10%"><p align="center"><span style="font-size: 10pt;">d1, мм</span></p></td>
-    <td width="10%"><p align="center"><span style="font-size: 10pt;">d2, мм</span></p></td>
-    <td width="10%"><p align="center"><span style="font-size: 10pt;">D3, мм</span></p></td>
-    <td width="12%"><p align="center"><span style="font-size: 10pt;">L1, мм</span></p></td>
-    <td width="10%"><p align="center"><span style="font-size: 10pt;">L2, мм</span></p></td>
-    <td width="10%"><p align="center"><span style="font-size: 10pt;">L3, мм</span></p></td>
-    <td width="11%"><p align="center"><span style="font-size: 10pt;">Н, мм</span></p></td>
-    <td width="8%"><p align="center"><span style="font-size: 10pt;">h, мм</span></p></td>
+  	<td width="13%"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ</span></p></td>
+    <td width="10%"><p align="center"><span style="font-size: 10pt;">d1, РјРј</span></p></td>
+    <td width="10%"><p align="center"><span style="font-size: 10pt;">d2, РјРј</span></p></td>
+    <td width="10%"><p align="center"><span style="font-size: 10pt;">D3, РјРј</span></p></td>
+    <td width="12%"><p align="center"><span style="font-size: 10pt;">L1, РјРј</span></p></td>
+    <td width="10%"><p align="center"><span style="font-size: 10pt;">L2, РјРј</span></p></td>
+    <td width="10%"><p align="center"><span style="font-size: 10pt;">L3, РјРј</span></p></td>
+    <td width="11%"><p align="center"><span style="font-size: 10pt;">Рќ, РјРј</span></p></td>
+    <td width="8%"><p align="center"><span style="font-size: 10pt;">h, РјРј</span></p></td>
   </tr>
   <tr>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">УТЭ-1</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЈРўР­-1</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
@@ -46,7 +46,7 @@
     <td width="8%"><p align="center"><span style="font-size: 10pt;">110</span></p></td>
   </tr>
   <tr>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">УТЭ-2</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЈРўР­-2</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
@@ -57,7 +57,7 @@
     <td width="8%"><p align="center"><span style="font-size: 10pt;">110</span></p></td>
   </tr>
   <tr>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">УТЭ-3</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЈРўР­-3</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">80</span></p></td>
@@ -68,7 +68,7 @@
     <td width="8%"><p align="center"><span style="font-size: 10pt;">155</span></p></td>
   </tr>
   <tr>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">УТЭ-4</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЈРўР­-4</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">80</span></p></td>
@@ -79,7 +79,7 @@
     <td width="8%"><p align="center"><span style="font-size: 10pt;">155</span></p></td>
   </tr>
   <tr>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">УТЭ-5</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЈРўР­-5</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="10%"><p align="center"><span style="font-size: 10pt;">80</span></p></td>
@@ -94,31 +94,31 @@
 </div>
 <br>
 
-<p>Размер L1 учитывает использование чугунных задвижек отечественного производства.<br>
-	Размер H может быть сокращен по просьбе заказчика.</p>
+<p>Р Р°Р·РјРµСЂ L1 СѓС‡РёС‚С‹РІР°РµС‚ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ С‡СѓРіСѓРЅРЅС‹С… Р·Р°РґРІРёР¶РµРє РѕС‚РµС‡РµСЃС‚РІРµРЅРЅРѕРіРѕ РїСЂРѕРёР·РІРѕРґСЃС‚РІР°.<br>
+	Р Р°Р·РјРµСЂ H РјРѕР¶РµС‚ Р±С‹С‚СЊ СЃРѕРєСЂР°С‰РµРЅ РїРѕ РїСЂРѕСЃСЊР±Рµ Р·Р°РєР°Р·С‡РёРєР°.</p>
 
-<p>Могут быть изготовлены элеваторные узлы УТЭ-0 для систем отопления с малым расходом тепла.</p>
+<p>РњРѕРіСѓС‚ Р±С‹С‚СЊ РёР·РіРѕС‚РѕРІР»РµРЅС‹ СЌР»РµРІР°С‚РѕСЂРЅС‹Рµ СѓР·Р»С‹ РЈРўР­-0 РґР»СЏ СЃРёСЃС‚РµРј РѕС‚РѕРїР»РµРЅРёСЏ СЃ РјР°Р»С‹Рј СЂР°СЃС…РѕРґРѕРј С‚РµРїР»Р°.</p>
 
-<p>Рабочие параметры сред: условное давление - 1,6 МПа, температура греющей среды не более 150<sup>o</sup>С.</span></p>
+<p>Р Р°Р±РѕС‡РёРµ РїР°СЂР°РјРµС‚СЂС‹ СЃСЂРµРґ: СѓСЃР»РѕРІРЅРѕРµ РґР°РІР»РµРЅРёРµ - 1,6 РњРџР°, С‚РµРјРїРµСЂР°С‚СѓСЂР° РіСЂРµСЋС‰РµР№ СЃСЂРµРґС‹ РЅРµ Р±РѕР»РµРµ 150<sup>o</sup>РЎ.</span></p>
 <br>
 
 <table border="0" width="68%">
 <tbody>
 	<tr>
-  	<td  colspan="2"><p>Стандартная комплектация тепловых элеваторных узлов:</p></td>
+  	<td  colspan="2"><p>РЎС‚Р°РЅРґР°СЂС‚РЅР°СЏ РєРѕРјРїР»РµРєС‚Р°С†РёСЏ С‚РµРїР»РѕРІС‹С… СЌР»РµРІР°С‚РѕСЂРЅС‹С… СѓР·Р»РѕРІ:</p></td>
 	</tr>
   <tr>
   	<td width="60%">
-  		 	<p>- грязевик<br>- задвижка чугунная</p>
-				<p>- задвижка стальная<br>- кран 3-х ходовой</p>
-				<p>- кран шаровой<br>- манометр<br>- термометр</p>
-      	<p>- оправа для термометра</p>
+  		 	<p>- РіСЂСЏР·РµРІРёРє<br>- Р·Р°РґРІРёР¶РєР° С‡СѓРіСѓРЅРЅР°СЏ</p>
+				<p>- Р·Р°РґРІРёР¶РєР° СЃС‚Р°Р»СЊРЅР°СЏ<br>- РєСЂР°РЅ 3-С… С…РѕРґРѕРІРѕР№</p>
+				<p>- РєСЂР°РЅ С€Р°СЂРѕРІРѕР№<br>- РјР°РЅРѕРјРµС‚СЂ<br>- С‚РµСЂРјРѕРјРµС‚СЂ</p>
+      	<p>- РѕРїСЂР°РІР° РґР»СЏ С‚РµСЂРјРѕРјРµС‚СЂР°</p>
      </td>
      <td width="40%">
-     		<p>- 1 шт.<br>- 2 шт.</p> 
-     		<p>- 2 шт.<br>- 9 шт.</p>
-     		<p>- 2 шт.<br>- 3 шт.<br>	- 4 шт.</p>
-     		<p>- 4 шт.</p>
+     		<p>- 1 С€С‚.<br>- 2 С€С‚.</p> 
+     		<p>- 2 С€С‚.<br>- 9 С€С‚.</p>
+     		<p>- 2 С€С‚.<br>- 3 С€С‚.<br>	- 4 С€С‚.</p>
+     		<p>- 4 С€С‚.</p>
     </td>
 <tr>
 </tbody>	

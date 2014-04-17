@@ -8,7 +8,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-				<a href="?topic=index">О компании</a>
+				<a href="?topic=index">Рћ РєРѕРјРїР°РЅРёРё</a>
     	</td>
   	</tr>
 	</table>
@@ -23,7 +23,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-			<a href="?topic=price">Прайс-лист</a>
+			<a href="?topic=price">РџСЂР°Р№СЃ-Р»РёСЃС‚</a>
     	</td>
   	</tr>
 	</table>
@@ -38,7 +38,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-				<a href="?topic=dev01">Теплотехническое оборудование</a>
+				<a href="?topic=dev01">РўРµРїР»РѕС‚РµС…РЅРёС‡РµСЃРєРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ</a>
     	</td>
   	</tr>
 	</table>
@@ -53,7 +53,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-				<a href="?topic=dev02">Котельное оборудование</a>
+				<a href="?topic=dev02">РљРѕС‚РµР»СЊРЅРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ</a>
     	</td>
   	</tr>
 	</table>
@@ -68,7 +68,7 @@
                 <img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
             </td>
             <td  class="text_menu">
-                <a href="?topic=dev05">Трубы экономайзерные</a>
+                <a href="?topic=dev05">РўСЂСѓР±С‹ СЌРєРѕРЅРѕРјР°Р№Р·РµСЂРЅС‹Рµ</a>
             </td>
         </tr>
     </table>
@@ -83,7 +83,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-				<a href="?topic=dev03">Котлы паровые</a>
+				<a href="?topic=dev03">РљРѕС‚Р»С‹ РїР°СЂРѕРІС‹Рµ</a>
     	</td>
   	</tr>
 	</table>
@@ -98,7 +98,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-				<a href="?topic=dev04">Вентиляторы и отопительное оборудование</a>
+				<a href="?topic=dev04">Р’РµРЅС‚РёР»СЏС‚РѕСЂС‹ Рё РѕС‚РѕРїРёС‚РµР»СЊРЅРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ</a>
     	</td>
   	</tr>
 	</table>
@@ -113,7 +113,7 @@
   			<img src="../pics/sp.gif" width="4" height="6" hspace="3" align="middle" alt="">
   		</td>
     	<td  class="text_menu">
-				<a href="?topic=contact_us">Координаты</a>
+				<a href="?topic=contact_us">РљРѕРѕСЂРґРёРЅР°С‚С‹</a>
     	</td>
   	</tr>
 	</table>
@@ -124,16 +124,16 @@
 			<td align="center">
 				<br>
 				<br>
-				<img src="../pics/reclama_2.jpg" width="94" height="25" align="middle" alt="Реклама">
+				<img src="../pics/reclama_2.jpg" width="94" height="25" align="middle" alt="Р РµРєР»Р°РјР°">
 				<br>
 				<br>
 			</td>
 		</tr>
 		<tr>
 			<td>
-<!--------------------Здесь начинаются банеры------------------------------------------------------->
+<!--------------------Р—РґРµСЃСЊ РЅР°С‡РёРЅР°СЋС‚СЃСЏ Р±Р°РЅРµСЂС‹------------------------------------------------------->
       <? include ('config/hcntrs.inc'); ?>
-<!--------------------Конец текста банеров   ------------------------------------------------------->
+<!--------------------РљРѕРЅРµС† С‚РµРєСЃС‚Р° Р±Р°РЅРµСЂРѕРІ   ------------------------------------------------------->
 				<br>
 			</td>
 		</tr>

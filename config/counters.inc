@@ -4,7 +4,7 @@
 	<TD align="center">	
 		<a href="http://www.yandex.ru/cy?base=0&host=www.armiks.ru"> 
 			<img src="http://www.yandex.ru/cycounter?www.armiks.ru" width="88" height="31" 
-			alt="ßíäåêñ öèòèðîâàíèÿ" border="0"> 
+			alt="Ð¯Ð½Ð´ÐµÐºÑ Ñ†Ð¸Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ" border="0"> 
 		</a> 
  	
 	</td>
@@ -45,14 +45,14 @@
 			<!-- /HotLog -->
 	</TD>
 	<td>
-		<a href="http://stat.aport.ru/hit.pl?id=1760972"><img src="http://stat.aport.ru/show.pl?tp=26&id=1760972" height=31 width=88 border=0 alt="Íàõîäèòñÿ â êàòàëîãå Àïîðò"></a>
+		<a href="http://stat.aport.ru/hit.pl?id=1760972"><img src="http://stat.aport.ru/show.pl?tp=26&id=1760972" height=31 width=88 border=0 alt="ÐÐ°Ñ…Ð¾Ð´Ð¸Ñ‚ÑÑ Ð² ÐºÐ°Ñ‚Ð°Ð»Ð¾Ð³Ðµ ÐÐ¿Ð¾Ñ€Ñ‚"></a>
 	</td>
 	<TD align="center">
 		<!--Rating@Mail.ru LOGO--><a target=_top
 		href="http://top.mail.ru/jump?from=1024049"><img
 		SRC="http://d0.ca.bf.a0.top.list.ru/counter?id=1024049;t=49;l=1"
 		border=0 height=31 width=88
-		alt="Ðåéòèíã@Mail.ru"/></a><!--/LOGO-->
+		alt="Ð ÐµÐ¹Ñ‚Ð¸Ð½Ð³@Mail.ru"/></a><!--/LOGO-->
 	</td>
 	<TD align="center">
 			<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click" target=_blank><img

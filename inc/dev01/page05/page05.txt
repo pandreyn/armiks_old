@@ -1,36 +1,36 @@
 <p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">
-	Грязевики абонентские (трубопроводов теплосети)
+	Р“СЂСЏР·РµРІРёРєРё Р°Р±РѕРЅРµРЅС‚СЃРєРёРµ (С‚СЂСѓР±РѕРїСЂРѕРІРѕРґРѕРІ С‚РµРїР»РѕСЃРµС‚Рё)
 </span></p>	
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Грязевики предназначены для очистки воды от взвешенных частиц грязи и других примесей в системах водяного 
-	отопления с температурой теплоносителя до 150<sup>o</sup>С и рабочим давлением до 1,0 МПа (10 кгс/см<sup>2</sup>).
-	Устанавливается в элеваторных узлах, тепловых вводах зданий различного назначения и котельных.</p>
+	Р“СЂСЏР·РµРІРёРєРё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РѕС‡РёСЃС‚РєРё РІРѕРґС‹ РѕС‚ РІР·РІРµС€РµРЅРЅС‹С… С‡Р°СЃС‚РёС† РіСЂСЏР·Рё Рё РґСЂСѓРіРёС… РїСЂРёРјРµСЃРµР№ РІ СЃРёСЃС‚РµРјР°С… РІРѕРґСЏРЅРѕРіРѕ 
+	РѕС‚РѕРїР»РµРЅРёСЏ СЃ С‚РµРјРїРµСЂР°С‚СѓСЂРѕР№ С‚РµРїР»РѕРЅРѕСЃРёС‚РµР»СЏ РґРѕ 150<sup>o</sup>РЎ Рё СЂР°Р±РѕС‡РёРј РґР°РІР»РµРЅРёРµРј РґРѕ 1,0 РњРџР° (10 РєРіСЃ/СЃРј<sup>2</sup>).
+	РЈСЃС‚Р°РЅР°РІР»РёРІР°РµС‚СЃСЏ РІ СЌР»РµРІР°С‚РѕСЂРЅС‹С… СѓР·Р»Р°С…, С‚РµРїР»РѕРІС‹С… РІРІРѕРґР°С… Р·РґР°РЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ Рё РєРѕС‚РµР»СЊРЅС‹С….</p>
 
-<p align="center"><span style="font-size: 16pt;">Грязевик вертикальный</span></p>
+<p align="center"><span style="font-size: 16pt;">Р“СЂСЏР·РµРІРёРє РІРµСЂС‚РёРєР°Р»СЊРЅС‹Р№</span></p>
 
-<p><img style="width: 299px; height: 308px;" src="pics/clip_image001.gif"  alt="Грязевик вертикальный" 
+<p><img style="width: 299px; height: 308px;" src="pics/clip_image001.gif"  alt="Р“СЂСЏР·РµРІРёРє РІРµСЂС‚РёРєР°Р»СЊРЅС‹Р№" 
 	v:shapes="_x0000_i1025"></p>
 <br>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Основные параметры и технические характеристики</p>
+	РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 <br>
 
 <div align="center">
 <table border="1" width="100%">
 <tbody>
 	<tr>
-  	<td rowspan="2"  width="24%"><p align="center"><span style="font-size: 10pt;">Диаметр условный Ду, мм</span></p></td>
-    <td rowspan="2" width="24%"><p align="center"><span style="font-size: 10pt;">Диаметр наружный Дн, мм</span></p></td>
-    <td colspan="4" width="52%"><p align="center"><span style="font-size: 10pt;">Грязевик горизонтальный </span></p></td>
+  	<td rowspan="2"  width="24%"><p align="center"><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ СѓСЃР»РѕРІРЅС‹Р№ Р”Сѓ, РјРј</span></p></td>
+    <td rowspan="2" width="24%"><p align="center"><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ РЅР°СЂСѓР¶РЅС‹Р№ Р”РЅ, РјРј</span></p></td>
+    <td colspan="4" width="52%"><p align="center"><span style="font-size: 10pt;">Р“СЂСЏР·РµРІРёРє РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№ </span></p></td>
   </tr>
   <tr>
-    <td width="87"><p align="center"><span style="font-size: 10pt;">Длина L, мм</span></p></td>
-    <td width="84"><p align="center"><span style="font-size: 10pt;">Высота Н, мм</span></p></td>
-    <td width="91"><p align="center"><span style="font-size: 10pt;">Давление Ру, кг/см<sup>2</sup></span></p></td>
-    <td width="91"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+    <td width="87"><p align="center"><span style="font-size: 10pt;">Р”Р»РёРЅР° L, РјРј</span></p></td>
+    <td width="84"><p align="center"><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р° Рќ, РјРј</span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">Р”Р°РІР»РµРЅРёРµ Р Сѓ, РєРі/СЃРј<sup>2</sup></span></p></td>
+    <td width="91"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
   </tr>
   <tr>
     <td width="24%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
@@ -95,29 +95,29 @@
 
 <br>
 
-<p align="center"><span style="font-size: 16pt;">Грязевик горизонтальный</span></p>
+<p align="center"><span style="font-size: 16pt;">Р“СЂСЏР·РµРІРёРє РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№</span></p>
 
 <p align="center"><img style="width: 413px; height: 276px;" src="pics/clip_image002.gif"
- alt="Грязевик горизонтальный" v:shapes="_x0000_i1026"></p>
+ alt="Р“СЂСЏР·РµРІРёРє РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№" v:shapes="_x0000_i1026"></p>
 <br> 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Основные параметры и технические характеристики</p>
+	РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 <br>
 
 <div align="center">
 <table border="1" width="100%">
 <tbody>
 	<tr>
-  	<td rowspan="2" width="137"><p align="center"><span style="font-size: 10pt;">Диаметр условный Ду, мм</span></p></td>
-    <td rowspan="2" width="137"><p align="center"><span style="font-size: 10pt;">Диаметр наружный Дн, мм</span></p></td>
-    <td colspan="4" width="356"><p align="center"><span style="font-size: 10pt;">Грязевик горизонтальный </span></p></td>
+  	<td rowspan="2" width="137"><p align="center"><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ СѓСЃР»РѕРІРЅС‹Р№ Р”Сѓ, РјРј</span></p></td>
+    <td rowspan="2" width="137"><p align="center"><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ РЅР°СЂСѓР¶РЅС‹Р№ Р”РЅ, РјРј</span></p></td>
+    <td colspan="4" width="356"><p align="center"><span style="font-size: 10pt;">Р“СЂСЏР·РµРІРёРє РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№ </span></p></td>
   </tr>
   <tr>
-    <td width="76"><p align="center"><span style="font-size: 10pt;">Длина L, мм</span></p></td>
-    <td width="126"><p align="center"><span style="font-size: 10pt;">Высота Н, мм</span></p></td>
-    <td width="79"><p align="center"><span style="font-size: 10pt;">Давление Ру, кг/см<sup>2</sup></span></p></td>
-    <td width="76"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">Р”Р»РёРЅР° L, РјРј</span></p></td>
+    <td width="126"><p align="center"><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р° Рќ, РјРј</span></p></td>
+    <td width="79"><p align="center"><span style="font-size: 10pt;">Р”Р°РІР»РµРЅРёРµ Р Сѓ, РєРі/СЃРј<sup>2</sup></span></p></td>
+    <td width="76"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
   </tr>
   <tr>
     <td width="137"><p align="center"><span style="font-size: 10pt;">150</span></p></td>

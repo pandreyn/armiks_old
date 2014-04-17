@@ -1,74 +1,74 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Фильтры мазута ФМ</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Р¤РёР»СЊС‚СЂС‹ РјР°Р·СѓС‚Р° Р¤Рњ</span></p>
 
 <p align="center"><img  style="width:330px;height:297px;border:0;" src="pics/clip_image012.jpg"
-	alt="Фильтр мазута ФМ. ФМ 25-30-40(5)" v:shapes="_x0000_i1025"></p>
+	alt="Р¤РёР»СЊС‚СЂ РјР°Р·СѓС‚Р° Р¤Рњ. Р¤Рњ 25-30-40(5)" v:shapes="_x0000_i1025"></p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Фильтры мазута типа ФМ предназначены для грубой и тонкой очистки высоковязких топочных
-	мазутов от твердого остатка нефтяных фракций и механических примесей. Устанавливаются в 
-	системах мазутного хозяйства промышленных и отопительных котельных.<br>
+	Р¤РёР»СЊС‚СЂС‹ РјР°Р·СѓС‚Р° С‚РёРїР° Р¤Рњ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РіСЂСѓР±РѕР№ Рё С‚РѕРЅРєРѕР№ РѕС‡РёСЃС‚РєРё РІС‹СЃРѕРєРѕРІСЏР·РєРёС… С‚РѕРїРѕС‡РЅС‹С…
+	РјР°Р·СѓС‚РѕРІ РѕС‚ С‚РІРµСЂРґРѕРіРѕ РѕСЃС‚Р°С‚РєР° РЅРµС„С‚СЏРЅС‹С… С„СЂР°РєС†РёР№ Рё РјРµС…Р°РЅРёС‡РµСЃРєРёС… РїСЂРёРјРµСЃРµР№. РЈСЃС‚Р°РЅР°РІР»РёРІР°СЋС‚СЃСЏ РІ 
+	СЃРёСЃС‚РµРјР°С… РјР°Р·СѓС‚РЅРѕРіРѕ С…РѕР·СЏР№СЃС‚РІР° РїСЂРѕРјС‹С€Р»РµРЅРЅС‹С… Рё РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С….<br>
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Фильтры представляют собой вертикальный сварной цилиндрический сосуд с плоской крышкой,
-	эллиптическим нижним днищем. На опорах имеются отверстия для фундаментных болтов. На
-	корпусе установлены патрубки с фланцами для подвода и отвода мазута, подвода пара для
-	продувки, слива мазута. Внутри корпуса, между крышкой и опорным кольцом, крепится болтами 
-	фильтрующий элемент, представляющий собой металлический каркас с натянутой по нему сеткой 
-	из нержавеющей проволоки. Чистка фильтрующего элемента производится периодически на 
-	остановленном фильтре паром и задержанные фракции удаляются через специальный патрубок без 
-	разборки фильтра. Фильтры мазута не подлежат ведению органов Госгортехнадзора.</p>
+	Р¤РёР»СЊС‚СЂС‹ РїСЂРµРґСЃС‚Р°РІР»СЏСЋС‚ СЃРѕР±РѕР№ РІРµСЂС‚РёРєР°Р»СЊРЅС‹Р№ СЃРІР°СЂРЅРѕР№ С†РёР»РёРЅРґСЂРёС‡РµСЃРєРёР№ СЃРѕСЃСѓРґ СЃ РїР»РѕСЃРєРѕР№ РєСЂС‹С€РєРѕР№,
+	СЌР»Р»РёРїС‚РёС‡РµСЃРєРёРј РЅРёР¶РЅРёРј РґРЅРёС‰РµРј. РќР° РѕРїРѕСЂР°С… РёРјРµСЋС‚СЃСЏ РѕС‚РІРµСЂСЃС‚РёСЏ РґР»СЏ С„СѓРЅРґР°РјРµРЅС‚РЅС‹С… Р±РѕР»С‚РѕРІ. РќР°
+	РєРѕСЂРїСѓСЃРµ СѓСЃС‚Р°РЅРѕРІР»РµРЅС‹ РїР°С‚СЂСѓР±РєРё СЃ С„Р»Р°РЅС†Р°РјРё РґР»СЏ РїРѕРґРІРѕРґР° Рё РѕС‚РІРѕРґР° РјР°Р·СѓС‚Р°, РїРѕРґРІРѕРґР° РїР°СЂР° РґР»СЏ
+	РїСЂРѕРґСѓРІРєРё, СЃР»РёРІР° РјР°Р·СѓС‚Р°. Р’РЅСѓС‚СЂРё РєРѕСЂРїСѓСЃР°, РјРµР¶РґСѓ РєСЂС‹С€РєРѕР№ Рё РѕРїРѕСЂРЅС‹Рј РєРѕР»СЊС†РѕРј, РєСЂРµРїРёС‚СЃСЏ Р±РѕР»С‚Р°РјРё 
+	С„РёР»СЊС‚СЂСѓСЋС‰РёР№ СЌР»РµРјРµРЅС‚, РїСЂРµРґСЃС‚Р°РІР»СЏСЋС‰РёР№ СЃРѕР±РѕР№ РјРµС‚Р°Р»Р»РёС‡РµСЃРєРёР№ РєР°СЂРєР°СЃ СЃ РЅР°С‚СЏРЅСѓС‚РѕР№ РїРѕ РЅРµРјСѓ СЃРµС‚РєРѕР№ 
+	РёР· РЅРµСЂР¶Р°РІРµСЋС‰РµР№ РїСЂРѕРІРѕР»РѕРєРё. Р§РёСЃС‚РєР° С„РёР»СЊС‚СЂСѓСЋС‰РµРіРѕ СЌР»РµРјРµРЅС‚Р° РїСЂРѕРёР·РІРѕРґРёС‚СЃСЏ РїРµСЂРёРѕРґРёС‡РµСЃРєРё РЅР° 
+	РѕСЃС‚Р°РЅРѕРІР»РµРЅРЅРѕРј С„РёР»СЊС‚СЂРµ РїР°СЂРѕРј Рё Р·Р°РґРµСЂР¶Р°РЅРЅС‹Рµ С„СЂР°РєС†РёРё СѓРґР°Р»СЏСЋС‚СЃСЏ С‡РµСЂРµР· СЃРїРµС†РёР°Р»СЊРЅС‹Р№ РїР°С‚СЂСѓР±РѕРє Р±РµР· 
+	СЂР°Р·Р±РѕСЂРєРё С„РёР»СЊС‚СЂР°. Р¤РёР»СЊС‚СЂС‹ РјР°Р·СѓС‚Р° РЅРµ РїРѕРґР»РµР¶Р°С‚ РІРµРґРµРЅРёСЋ РѕСЂРіР°РЅРѕРІ Р“РѕСЃРіРѕСЂС‚РµС…РЅР°РґР·РѕСЂР°.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	1. Основные параметры и технические характеристики фильтров мазута ФМ 25-30-65 (240)</p>
+	1. РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё С„РёР»СЊС‚СЂРѕРІ РјР°Р·СѓС‚Р° Р¤Рњ 25-30-65 (240)</p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0" width="80%">
 		<tbody>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Наименование показателя</span></p></td>
-				<td width="20%"><p align="center"><span  style="font-size: 10pt;">ФМ 25-30-65<br>(грубая&nbsp;очистка)</span></p></td>
-				<td width="20%"><p align="center"><span style="font-size: 10pt;">ФМ 25-30-240<br>(тонкая&nbsp;очистка)</span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">РќР°РёРјРµРЅРѕРІР°РЅРёРµ РїРѕРєР°Р·Р°С‚РµР»СЏ</span></p></td>
+				<td width="20%"><p align="center"><span  style="font-size: 10pt;">Р¤Рњ 25-30-65<br>(РіСЂСѓР±Р°СЏ&nbsp;РѕС‡РёСЃС‚РєР°)</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">Р¤Рњ 25-30-240<br>(С‚РѕРЅРєР°СЏ&nbsp;РѕС‡РёСЃС‚РєР°)</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Производительность, т/ч</span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ, С‚/С‡</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Допускаемое рабочее давление, МПа </span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">Р”РѕРїСѓСЃРєР°РµРјРѕРµ СЂР°Р±РѕС‡РµРµ РґР°РІР»РµРЅРёРµ, РњРџР° </span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Температура среды, <sup>o</sup>С </span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">РўРµРјРїРµСЂР°С‚СѓСЂР° СЃСЂРµРґС‹, <sup>o</sup>РЎ </span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">60-200</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">60-200</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Площадь поверхности фильтрации, м<sup>2</sup></span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">РџР»РѕС‰Р°РґСЊ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё С„РёР»СЊС‚СЂР°С†РёРё, Рј<sup>2</sup></span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Количество отверстий на 1 см<sup>2</sup> фильтрующей сетки, шт </span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">РљРѕР»РёС‡РµСЃС‚РІРѕ РѕС‚РІРµСЂСЃС‚РёР№ РЅР° 1 СЃРј<sup>2</sup> С„РёР»СЊС‚СЂСѓСЋС‰РµР№ СЃРµС‚РєРё, С€С‚ </span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">65</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">240</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Гидравлическое сопротивление чистого фильтра, МПа, не более </span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">Р“РёРґСЂР°РІР»РёС‡РµСЃРєРѕРµ СЃРѕРїСЂРѕС‚РёРІР»РµРЅРёРµ С‡РёСЃС‚РѕРіРѕ С„РёР»СЊС‚СЂР°, РњРџР°, РЅРµ Р±РѕР»РµРµ </span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,010</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,015</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Размер ячейки в фильтрующем элементе, мм </span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">Р Р°Р·РјРµСЂ СЏС‡РµР№РєРё РІ С„РёР»СЊС‚СЂСѓСЋС‰РµРј СЌР»РµРјРµРЅС‚Рµ, РјРј </span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,9x0,9</span></p></td>
 				<td width="20%"><p align="center"><span style="font-size: 10pt;">0,4x0,4</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Габаритные размеры, мм:<br>&nbsp; - диаметр корпуса <br>&nbsp; - высота </span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">Р“Р°Р±Р°СЂРёС‚РЅС‹Рµ СЂР°Р·РјРµСЂС‹, РјРј:<br>&nbsp; - РґРёР°РјРµС‚СЂ РєРѕСЂРїСѓСЃР° <br>&nbsp; - РІС‹СЃРѕС‚Р° </span></p></td>
 				<td colspan="2" width="40%"><p align="center"><span style="font-size: 10pt;"><br>219<br>1370</span></p></td>
 			</tr>
 			<tr>
-				<td width="60%"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+				<td width="60%"><p><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
 				<td colspan="2" width="246"><p align="center"><span style="font-size: 10pt;">107</span></p></td>
 			</tr>
 		</tbody>
@@ -76,48 +76,48 @@
 </div>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Пример условного обозначения: ФМ 25-30-65(240), где: </p>
+	РџСЂРёРјРµСЂ СѓСЃР»РѕРІРЅРѕРіРѕ РѕР±РѕР·РЅР°С‡РµРЅРёСЏ: Р¤Рњ 25-30-65(240), РіРґРµ: </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	 ФМ - фильтр мазута </p>
+	 Р¤Рњ - С„РёР»СЊС‚СЂ РјР°Р·СѓС‚Р° </p>
 	 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	 25 - рабочее давление, кгс/см<sup>2</sup> </p>
+	 25 - СЂР°Р±РѕС‡РµРµ РґР°РІР»РµРЅРёРµ, РєРіСЃ/СЃРј<sup>2</sup> </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	 30 - производительность по мазуту, т/час </p>
+	 30 - РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ РїРѕ РјР°Р·СѓС‚Сѓ, С‚/С‡Р°СЃ </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	 65(240) – кол-во отверстий на 1 см<sup>2</sup> фильтрующей сетки </p>
+	 65(240) вЂ“ РєРѕР»-РІРѕ РѕС‚РІРµСЂСЃС‚РёР№ РЅР° 1 СЃРј<sup>2</sup> С„РёР»СЊС‚СЂСѓСЋС‰РµР№ СЃРµС‚РєРё </p>
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	2. Основные параметры и технические характеристики </span></p>
+	2. РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё </span></p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	фильтров ФМ 25-30, ФМ 40-30, ФМ 10-60, ФМ 10-120, ФМ 10-240</span></p>
+	С„РёР»СЊС‚СЂРѕРІ Р¤Рњ 25-30, Р¤Рњ 40-30, Р¤Рњ 10-60, Р¤Рњ 10-120, Р¤Рњ 10-240</span></p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0" width="80%">
 		<tbody>
 			<tr>
-				<td width="20%"><p align="center"><span style="font-size: 10pt;">Тип фильтра</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">P раб. кгс/см<sup>2</sup></span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">Произв. т/ч</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">Поверхн.<br>фильтрац. м<sup>2</sup></span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">V<br>фильт. м<sup>3</sup></span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">t<br>мазута, <sup>o</sup>С</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">d,мм</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">H,мм</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt; ">Масса, кг</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">РўРёРї С„РёР»СЊС‚СЂР°</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">P СЂР°Р±. РєРіСЃ/СЃРј<sup>2</sup></span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">РџСЂРѕРёР·РІ. С‚/С‡</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">РџРѕРІРµСЂС…РЅ.<br>С„РёР»СЊС‚СЂР°С†. Рј<sup>2</sup></span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">V<br>С„РёР»СЊС‚. Рј<sup>3</sup></span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">t<br>РјР°Р·СѓС‚Р°, <sup>o</sup>РЎ</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">d,РјРј</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">H,РјРј</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt; ">РњР°СЃСЃР°, РєРі</span></p></td>
 			</tr>
 			<tr>
-				<td width="20%"><p><span style="font-size: 10pt;">ФМ-25-30-40(5)</span></p></td>
+				<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-25-30-40(5)</span></p></td>
 				<td width="10%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
 				<td width="10%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
 				<td width="10%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
@@ -128,7 +128,7 @@
 				<td width="10%"><p align="center"><span style="font-size: 10pt;">126</span></p></td>
 			</tr>
 			<tr>
-				<td width="20%"><p><span style="font-size: 10pt;">ФМ-40-30-40(5)</span></p></td>
+				<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-40-30-40(5)</span></p></td>
 				<td width="10%"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">0,315</span></p></td>
@@ -139,7 +139,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">129</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-60-40(5)</span></p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-10-60-40(5)</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">60</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">0,51</span></p></td>
@@ -150,7 +150,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">248</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-120-40(5)</span></p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-10-120-40(5)</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">120</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1,22</span></p></td>
@@ -161,7 +161,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">447</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-240-40(5)</span></p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-10-240-40(5)</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">240</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1,95</span></p></td>
@@ -177,24 +177,24 @@
 
 <p align="center">
 	<img style="width:350px;height:432px;border:0;" src="pics/clip_image013.jpg"
-	 alt="Схема фильтра мазута ФМ. ФМ 40-30-40"></p>
+	 alt="РЎС…РµРјР° С„РёР»СЊС‚СЂР° РјР°Р·СѓС‚Р° Р¤Рњ. Р¤Рњ 40-30-40"></p>
 	 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Присоединительные размеры фильтра мазута ФМ:</p>
+	РџСЂРёСЃРѕРµРґРёРЅРёС‚РµР»СЊРЅС‹Рµ СЂР°Р·РјРµСЂС‹ С„РёР»СЊС‚СЂР° РјР°Р·СѓС‚Р° Р¤Рњ:</p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0">
 		<tbody>
 			<tr>
-				<td width="25%"><p align="center"><span style="font-size: 10pt; ">Тип фильтра</span></p></td>
-        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Вход<br>мазута, мм</span></p></td>
-        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Выход мазута, мм</span></p></td>
-        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Вход проду-вочного пара, мм</span></p></td>
-        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Выход конденсата, мм</span></p></td>
-        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Слив мазута, мм</span></p></td>
+				<td width="25%"><p align="center"><span style="font-size: 10pt; ">РўРёРї С„РёР»СЊС‚СЂР°</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Р’С…РѕРґ<br>РјР°Р·СѓС‚Р°, РјРј</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Р’С‹С…РѕРґ РјР°Р·СѓС‚Р°, РјРј</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Р’С…РѕРґ РїСЂРѕРґСѓ-РІРѕС‡РЅРѕРіРѕ РїР°СЂР°, РјРј</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">Р’С‹С…РѕРґ РєРѕРЅРґРµРЅСЃР°С‚Р°, РјРј</span></p></td>
+        <td width="15%"><p align="center"><span style="font-size: 10pt; ">РЎР»РёРІ РјР°Р·СѓС‚Р°, РјРј</span></p></td>
      	</tr>
      	<tr>
-     		<td width="20%"><p><span style="font-size: 10pt;">ФМ-25-30-40(5)</span></p></td>
+     		<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-25-30-40(5)</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
@@ -202,7 +202,7 @@
         <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">ФМ-40-30-40(5)</span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-40-30-40(5)</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">100</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
@@ -210,7 +210,7 @@
         <td width="95"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-60-40(5)</span></p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-10-60-40(5)</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
@@ -218,7 +218,7 @@
         <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">ФМ-10-120-40(5)</span></p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-10-120-40(5)</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">200</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p> </td>
@@ -226,7 +226,7 @@
         <td width="15%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">ФМ-10-240-40(5)</span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">Р¤Рњ-10-240-40(5)</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
         <td width="15%"><p align="center"><span style="font-size: 10pt;">25</span></p></td>
@@ -239,16 +239,16 @@
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Пример условного обозначения: ФМ-25-30-5(40), где: </p>
+	РџСЂРёРјРµСЂ СѓСЃР»РѕРІРЅРѕРіРѕ РѕР±РѕР·РЅР°С‡РµРЅРёСЏ: Р¤Рњ-25-30-5(40), РіРґРµ: </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	ФМ - фильтр мазута</p>
+	Р¤Рњ - С„РёР»СЊС‚СЂ РјР°Р·СѓС‚Р°</p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	25 - рабочее давление, кгс/см<sup>2</sup></p>
+	25 - СЂР°Р±РѕС‡РµРµ РґР°РІР»РµРЅРёРµ, РєРіСЃ/СЃРј<sup>2</sup></p>
 		
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	30 - производительность по мазуту, т/час</p>
+	30 - РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ РїРѕ РјР°Р·СѓС‚Сѓ, С‚/С‡Р°СЃ</p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	5(40) - сетка, имеющая 5 отверстий (грубой очистки) или 40 отверстий (тонкой очистки) на 1 см<sup>2</sup></p>
+	5(40) - СЃРµС‚РєР°, РёРјРµСЋС‰Р°СЏ 5 РѕС‚РІРµСЂСЃС‚РёР№ (РіСЂСѓР±РѕР№ РѕС‡РёСЃС‚РєРё) РёР»Рё 40 РѕС‚РІРµСЂСЃС‚РёР№ (С‚РѕРЅРєРѕР№ РѕС‡РёСЃС‚РєРё) РЅР° 1 СЃРј<sup>2</sup></p>

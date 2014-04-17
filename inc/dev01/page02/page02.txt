@@ -1,11 +1,11 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватели пароводяные ПП систем теплоснабжения</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІРѕРґСЏРЅС‹Рµ РџРџ СЃРёСЃС‚РµРј С‚РµРїР»РѕСЃРЅР°Р±Р¶РµРЅРёСЏ</span></p>
 
 <p align="center"><span style="font-size: 16pt;">
-	Водоподогреватель пароводявой ПП систем теплоснабжения (ГОСТ 28679-90)</span></p>
+	Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїР°СЂРѕРІРѕРґСЏРІРѕР№ РџРџ СЃРёСЃС‚РµРј С‚РµРїР»РѕСЃРЅР°Р±Р¶РµРЅРёСЏ (Р“РћРЎРў 28679-90)</span></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Водоподогреватели пароводяные применяются в системах теплоснабжения, работающих в температурных
-	режимах 150-70, 130-70, 95-70 и служат для нагрева сетевой воды паром для использования ее в 
-	системах отопления и горячего водоснабжения зданий различного назначения.</p>
+	Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІРѕРґСЏРЅС‹Рµ РїСЂРёРјРµРЅСЏСЋС‚СЃСЏ РІ СЃРёСЃС‚РµРјР°С… С‚РµРїР»РѕСЃРЅР°Р±Р¶РµРЅРёСЏ, СЂР°Р±РѕС‚Р°СЋС‰РёС… РІ С‚РµРјРїРµСЂР°С‚СѓСЂРЅС‹С…
+	СЂРµР¶РёРјР°С… 150-70, 130-70, 95-70 Рё СЃР»СѓР¶Р°С‚ РґР»СЏ РЅР°РіСЂРµРІР° СЃРµС‚РµРІРѕР№ РІРѕРґС‹ РїР°СЂРѕРј РґР»СЏ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ РµРµ РІ 
+	СЃРёСЃС‚РµРјР°С… РѕС‚РѕРїР»РµРЅРёСЏ Рё РіРѕСЂСЏС‡РµРіРѕ РІРѕРґРѕСЃРЅР°Р±Р¶РµРЅРёСЏ Р·РґР°РЅРёР№ СЂР°Р·Р»РёС‡РЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ.</p>
 
 <div align="center">
 <table width="95%">
@@ -13,7 +13,7 @@
 	<tr style="">
   	<td>
     	<p align="center">
-    			<img style="width: 330px; height: 223px;"src="pics/clip_image001.jpg" alt="пароводяной подогреватель" v:shapes="_x0000_i1025">
+    			<img style="width: 330px; height: 223px;"src="pics/clip_image001.jpg" alt="РїР°СЂРѕРІРѕРґСЏРЅРѕР№ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ" v:shapes="_x0000_i1025">
     	</p>
     </td>
   </tr>
@@ -22,26 +22,26 @@
 </div>
 
 
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 <div align="center">
 <table  border="1" cellpadding="0" cellspacing="0" width="95%">
 <tbody>
 	<tr>
-  	<td width="12%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Наименование</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">S поверх-ностити нагрева, м<sup>2</sup></span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Тепло-производи-тельность номиналь-ная , Гкал/час</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Расход воды номи-наль-ный , т/ч</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Число ходов</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Давление греющего пара, МПа (кгс/см<sup>2</sup>)</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt; font-family: Symbol;">&#198;</span><br><div align="center"><span style="font-size: 9pt;">корпуса, мм</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Длина корпуса L, мм</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Длина трубок, мм</span</p>></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Кол-во трубок, шт.</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Масса подогрева-теля, кг</span></p></td>
-    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Масса трубной системы (пучек), кг</span></p></td>
+  	<td width="12%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">РќР°РёРјРµРЅРѕРІР°РЅРёРµ</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">S РїРѕРІРµСЂС…-РЅРѕСЃС‚РёС‚Рё РЅР°РіСЂРµРІР°, Рј<sup>2</sup></span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">РўРµРїР»Рѕ-РїСЂРѕРёР·РІРѕРґРё-С‚РµР»СЊРЅРѕСЃС‚СЊ РЅРѕРјРёРЅР°Р»СЊ-РЅР°СЏ , Р“РєР°Р»/С‡Р°СЃ</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Р Р°СЃС…РѕРґ РІРѕРґС‹ РЅРѕРјРё-РЅР°Р»СЊ-РЅС‹Р№ , С‚/С‡</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Р§РёСЃР»Рѕ С…РѕРґРѕРІ</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Р”Р°РІР»РµРЅРёРµ РіСЂРµСЋС‰РµРіРѕ РїР°СЂР°, РњРџР° (РєРіСЃ/СЃРј<sup>2</sup>)</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt; font-family: Symbol;">&#198;</span><br><div align="center"><span style="font-size: 9pt;">РєРѕСЂРїСѓСЃР°, РјРј</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Р”Р»РёРЅР° РєРѕСЂРїСѓСЃР° L, РјРј</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">Р”Р»РёРЅР° С‚СЂСѓР±РѕРє, РјРј</span</p>></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">РљРѕР»-РІРѕ С‚СЂСѓР±РѕРє, С€С‚.</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">РњР°СЃСЃР° РїРѕРґРѕРіСЂРµРІР°-С‚РµР»СЏ, РєРі</span></p></td>
+    <td width="8%"><p style="text-align: center;" align="center"><span style="font-size: 9pt;">РњР°СЃСЃР° С‚СЂСѓР±РЅРѕР№ СЃРёСЃС‚РµРјС‹ (РїСѓС‡РµРє), РєРі</span></p></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-6-2-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-6-2-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">6,3</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">0,583</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">29,2</span></div></td>
@@ -55,7 +55,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">82</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-9-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-9-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">9,5</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">1,63</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">32,4</span></div></td>
@@ -69,7 +69,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">115</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-9-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-9-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">9,5</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">1,13</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">16,1</span></div></td>
@@ -83,7 +83,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">115</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-11-2-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-11-2-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">11,4</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">1,07</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">53,4</span></div></td>
@@ -97,7 +97,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">157</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-17-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-17-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">17,2</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">2,98</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">69</span></div></td>
@@ -111,7 +111,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">215</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-17-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-17-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">17,2</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">2,08</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">29,4</span></div></td>
@@ -125,7 +125,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">215</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-16-2-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-16-2-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">16,0</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">1,52</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">76</span></div></td>
@@ -139,7 +139,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">219</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-24-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-24-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">24,4</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">4,22</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">83,5</span></div></td>
@@ -153,7 +153,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">299</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 2-24-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 2-24-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">24,4</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">2,12%</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">41,7</span></div></td>
@@ -167,7 +167,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">299</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-21-2-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-21-2-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">21,2</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">1,99</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">103,5</span></div></td>
@@ -181,7 +181,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">284</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-32-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-32-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">32,0</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">5,57</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">110,5</span></div></td>
@@ -195,7 +195,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-32-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-32-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">32,0</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">3,88</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">55</span></div></td>
@@ -209,7 +209,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">392</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-35-2-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-35-2-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">35,3</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">3,38</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">169</span></div></td>
@@ -223,7 +223,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">481</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-53-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-53-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">53,9</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">9,2</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">182</span></div></td>
@@ -237,7 +237,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">658</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-53-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-53-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">53,9</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">6,55</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">93</span></div></td>
@@ -251,7 +251,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">658</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-76-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-76-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">76,8</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
@@ -265,7 +265,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">927</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-76-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-76-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">76,8</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
@@ -279,7 +279,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">927</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-71-2-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-71-2-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">71,0</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
@@ -293,7 +293,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">678</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-108-7-II</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-108-7-II</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">108,0</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
@@ -307,7 +307,7 @@
     <td width="8%"><div align="center"><span style="font-size: 9pt;">1292</span></div></td>
   </tr>
   <tr>
-    <td width="12%"><div align="center"><span style="font-size: 9pt;">ПП 1-108-7-IV</span></div></td>
+    <td width="12%"><div align="center"><span style="font-size: 9pt;">РџРџ 1-108-7-IV</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">108,0</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
     <td width="8%"><div align="center"><span style="font-size: 9pt;">&nbsp;</span></div></td>
@@ -325,15 +325,15 @@
 </div>
 <br>
  
- <p>Условное обозначение:</p>
+ <p>РЈСЃР»РѕРІРЅРѕРµ РѕР±РѕР·РЅР°С‡РµРЅРёРµ:</p>
 <table border="1" cellpadding="0" cellspacing="0" width="95%">
 <tbody>
 	<tr>
-  	<td width="18%"><div align="center"><span style="font-size: 9pt;">ХХХ-</span></div></td>
-    <td width="18%"><div align="center"><span style="font-size: 9pt;">ХХХ-</span></div></td>
-    <td width="18%"><div align="center"><span style="font-size: 9pt;">Х-</span></div></td>
-    <td width="18%"><div align="center"><span style="font-size: 9pt;">Х-</span></div></td>
-    <td width="28%"><div align="center"><span style="font-size: 9pt;">ХХХ(ХХ)</span></div></td>
+  	<td width="18%"><div align="center"><span style="font-size: 9pt;">РҐРҐРҐ-</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">РҐРҐРҐ-</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">РҐ-</span></div></td>
+    <td width="18%"><div align="center"><span style="font-size: 9pt;">РҐ-</span></div></td>
+    <td width="28%"><div align="center"><span style="font-size: 9pt;">РҐРҐРҐ(РҐРҐ)</span></div></td>
   </tr>
   <tr>
     <td width="18%"><div align="center"><span style="font-size: 9pt;">1</span></div></td>
@@ -344,59 +344,59 @@
   </tr>
   <tr>
   	<td colspan="5" width="100%"><span style="font-size: 9pt;">
-    	<p>1 - тип подогревателя (ПП1 – подогреватель пароводяной с эллиптическими днищами, ПП2 – подогреватель
-				пароводяной с плоскими днищами)<br>
-				2 - площадь поверхности теплообмена, м<sup>2</sup><br>
-				3 - давление греющего пара, Мпа<br>
-				4 - число ходов сетевой воды, шт.<br>
-				5 -вид климатического исполнения</p>
+    	<p>1 - С‚РёРї РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ (РџРџ1 вЂ“ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїР°СЂРѕРІРѕРґСЏРЅРѕР№ СЃ СЌР»Р»РёРїС‚РёС‡РµСЃРєРёРјРё РґРЅРёС‰Р°РјРё, РџРџ2 вЂ“ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ
+				РїР°СЂРѕРІРѕРґСЏРЅРѕР№ СЃ РїР»РѕСЃРєРёРјРё РґРЅРёС‰Р°РјРё)<br>
+				2 - РїР»РѕС‰Р°РґСЊ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё С‚РµРїР»РѕРѕР±РјРµРЅР°, Рј<sup>2</sup><br>
+				3 - РґР°РІР»РµРЅРёРµ РіСЂРµСЋС‰РµРіРѕ РїР°СЂР°, РњРїР°<br>
+				4 - С‡РёСЃР»Рѕ С…РѕРґРѕРІ СЃРµС‚РµРІРѕР№ РІРѕРґС‹, С€С‚.<br>
+				5 -РІРёРґ РєР»РёРјР°С‚РёС‡РµСЃРєРѕРіРѕ РёСЃРїРѕР»РЅРµРЅРёСЏ</p>
     </span></td>
   </tr>
 </tbody>
 </table>
 
 
-<p><u>Пример условного обозначения :</u></p>
+<p><u>РџСЂРёРјРµСЂ СѓСЃР»РѕРІРЅРѕРіРѕ РѕР±РѕР·РЅР°С‡РµРЅРёСЏ :</u></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   1. Подогреватель пароводяной с плоскими днищами, площадью поверхности теплообмена
-	 32,0 м<sup>2</sup>, с давлением греющего пара 0,7 (7) МПа (кгс/см<sup>2</sup>),
-	 двухходового по сетевой воде, климатического исполнения У4 - ПП1-32-7-II-У4</p>
+   1. РџРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїР°СЂРѕРІРѕРґСЏРЅРѕР№ СЃ РїР»РѕСЃРєРёРјРё РґРЅРёС‰Р°РјРё, РїР»РѕС‰Р°РґСЊСЋ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё С‚РµРїР»РѕРѕР±РјРµРЅР°
+	 32,0 Рј<sup>2</sup>, СЃ РґР°РІР»РµРЅРёРµРј РіСЂРµСЋС‰РµРіРѕ РїР°СЂР° 0,7 (7) РњРџР° (РєРіСЃ/СЃРј<sup>2</sup>),
+	 РґРІСѓС…С…РѕРґРѕРІРѕРіРѕ РїРѕ СЃРµС‚РµРІРѕР№ РІРѕРґРµ, РєР»РёРјР°С‚РёС‡РµСЃРєРѕРіРѕ РёСЃРїРѕР»РЅРµРЅРёСЏ РЈ4 - РџРџ1-32-7-II-РЈ4</p>
 	 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  2. Подогреватель пароводяной с элиптическими днищами, площадью поверхности
-	теплообмена 53,9 м<sup>2</sup>,с давлением греющего пара 0,7 (7) МПа
- (кгс/см<sup>2</sup>), четырехходового по сетевой воде, климатического исполнения У4 - 
- ПП1-53-7-IV-У4</p>
+  2. РџРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїР°СЂРѕРІРѕРґСЏРЅРѕР№ СЃ СЌР»РёРїС‚РёС‡РµСЃРєРёРјРё РґРЅРёС‰Р°РјРё, РїР»РѕС‰Р°РґСЊСЋ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё
+	С‚РµРїР»РѕРѕР±РјРµРЅР° 53,9 Рј<sup>2</sup>,СЃ РґР°РІР»РµРЅРёРµРј РіСЂРµСЋС‰РµРіРѕ РїР°СЂР° 0,7 (7) РњРџР°
+ (РєРіСЃ/СЃРј<sup>2</sup>), С‡РµС‚С‹СЂРµС…С…РѕРґРѕРІРѕРіРѕ РїРѕ СЃРµС‚РµРІРѕР№ РІРѕРґРµ, РєР»РёРјР°С‚РёС‡РµСЃРєРѕРіРѕ РёСЃРїРѕР»РЅРµРЅРёСЏ РЈ4 - 
+ РџРџ1-53-7-IV-РЈ4</p>
  
 <br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<u>График для выбора типоразмера пароводяного подогревателя:</u><br><br>
+			<u>Р“СЂР°С„РёРє РґР»СЏ РІС‹Р±РѕСЂР° С‚РёРїРѕСЂР°Р·РјРµСЂР° РїР°СЂРѕРІРѕРґСЏРЅРѕРіРѕ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ:</u><br><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Требуемый размер подогревателя определяется заданным тепловым потоком и расходом нагреваемой сетевой
-			воды и температурным режимом его работы. Выбор подогревателя рекомендуется производить
-			по графику зависимости теплового потока от расхода нагреваемой сетевой воды при
-			нагреве ее по температурным графикам теплосети 70/150 <sup>0</sup>С, 70/130 <sup>0</sup>С,
-			70/95 <sup>0</sup>С.</p> 
+      РўСЂРµР±СѓРµРјС‹Р№ СЂР°Р·РјРµСЂ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ РѕРїСЂРµРґРµР»СЏРµС‚СЃСЏ Р·Р°РґР°РЅРЅС‹Рј С‚РµРїР»РѕРІС‹Рј РїРѕС‚РѕРєРѕРј Рё СЂР°СЃС…РѕРґРѕРј РЅР°РіСЂРµРІР°РµРјРѕР№ СЃРµС‚РµРІРѕР№
+			РІРѕРґС‹ Рё С‚РµРјРїРµСЂР°С‚СѓСЂРЅС‹Рј СЂРµР¶РёРјРѕРј РµРіРѕ СЂР°Р±РѕС‚С‹. Р’С‹Р±РѕСЂ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ СЂРµРєРѕРјРµРЅРґСѓРµС‚СЃСЏ РїСЂРѕРёР·РІРѕРґРёС‚СЊ
+			РїРѕ РіСЂР°С„РёРєСѓ Р·Р°РІРёСЃРёРјРѕСЃС‚Рё С‚РµРїР»РѕРІРѕРіРѕ РїРѕС‚РѕРєР° РѕС‚ СЂР°СЃС…РѕРґР° РЅР°РіСЂРµРІР°РµРјРѕР№ СЃРµС‚РµРІРѕР№ РІРѕРґС‹ РїСЂРё
+			РЅР°РіСЂРµРІРµ РµРµ РїРѕ С‚РµРјРїРµСЂР°С‚СѓСЂРЅС‹Рј РіСЂР°С„РёРєР°Рј С‚РµРїР»РѕСЃРµС‚Рё 70/150 <sup>0</sup>РЎ, 70/130 <sup>0</sup>РЎ,
+			70/95 <sup>0</sup>РЎ.</p> 
 				
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <u>Пример 1</u><br>
-		Выбор подогревателя для температурного графика 70/150 <sup>0</sup>С
-		с тепловым потоком 6 Гкал/ч (7 Мвт). <br>
-		Из точки, соответствующей 6 Гкал/ч, проводим горизонтальную линию до
-		пересечения с линией температурного графика 70/150 <sup>0</sup>С.
-		Точке пересечения соответствует цифра 53,9 м<sup>2</sup>, что соответствует подогревателю
-		ПП1-53-7-IV.</p>
+    <u>РџСЂРёРјРµСЂ 1</u><br>
+		Р’С‹Р±РѕСЂ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ РґР»СЏ С‚РµРјРїРµСЂР°С‚СѓСЂРЅРѕРіРѕ РіСЂР°С„РёРєР° 70/150 <sup>0</sup>РЎ
+		СЃ С‚РµРїР»РѕРІС‹Рј РїРѕС‚РѕРєРѕРј 6 Р“РєР°Р»/С‡ (7 РњРІС‚). <br>
+		РР· С‚РѕС‡РєРё, СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РµР№ 6 Р“РєР°Р»/С‡, РїСЂРѕРІРѕРґРёРј РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅСѓСЋ Р»РёРЅРёСЋ РґРѕ
+		РїРµСЂРµСЃРµС‡РµРЅРёСЏ СЃ Р»РёРЅРёРµР№ С‚РµРјРїРµСЂР°С‚СѓСЂРЅРѕРіРѕ РіСЂР°С„РёРєР° 70/150 <sup>0</sup>РЎ.
+		РўРѕС‡РєРµ РїРµСЂРµСЃРµС‡РµРЅРёСЏ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ С†РёС„СЂР° 53,9 Рј<sup>2</sup>, С‡С‚Рѕ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЋ
+		РџРџ1-53-7-IV.</p>
 		
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <u>Пример 2</u><br>
-	Выбор подогревателя для температурного графика 70/95 <sup>0</sup>С с
-	расходом нагреваемой воды 140 т/ч.<br>
-	Из точки, соответствующей 140 т/ч, проводим вертикальную линию до
-	пересечения с линией температурного графика 70/95 <sup>0</sup>С.
-	Точке пересечения соответствует цифра 35,3 м<sup>2</sup>, что соответствует подогревателю
-	ПП1-35-2-II. </p>
+  <u>РџСЂРёРјРµСЂ 2</u><br>
+	Р’С‹Р±РѕСЂ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ РґР»СЏ С‚РµРјРїРµСЂР°С‚СѓСЂРЅРѕРіРѕ РіСЂР°С„РёРєР° 70/95 <sup>0</sup>РЎ СЃ
+	СЂР°СЃС…РѕРґРѕРј РЅР°РіСЂРµРІР°РµРјРѕР№ РІРѕРґС‹ 140 С‚/С‡.<br>
+	РР· С‚РѕС‡РєРё, СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓСЋС‰РµР№ 140 С‚/С‡, РїСЂРѕРІРѕРґРёРј РІРµСЂС‚РёРєР°Р»СЊРЅСѓСЋ Р»РёРЅРёСЋ РґРѕ
+	РїРµСЂРµСЃРµС‡РµРЅРёСЏ СЃ Р»РёРЅРёРµР№ С‚РµРјРїРµСЂР°С‚СѓСЂРЅРѕРіРѕ РіСЂР°С„РёРєР° 70/95 <sup>0</sup>РЎ.
+	РўРѕС‡РєРµ РїРµСЂРµСЃРµС‡РµРЅРёСЏ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ С†РёС„СЂР° 35,3 Рј<sup>2</sup>, С‡С‚Рѕ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЋ
+	РџРџ1-35-2-II. </p>
 <br>
 
-<p><img style="width: 256px; height: 329px;"  alt="Температурный график" src="pics/clip_image003.jpg"
+<p><img style="width: 256px; height: 329px;"  alt="РўРµРјРїРµСЂР°С‚СѓСЂРЅС‹Р№ РіСЂР°С„РёРє" src="pics/clip_image003.jpg"
  		v:shapes="_x0000_s1026" align="left" hspace="12"></p>
 <br>

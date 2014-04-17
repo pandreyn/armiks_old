@@ -1,42 +1,42 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Паровые котлы «Е», МЗК-7</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РџР°СЂРѕРІС‹Рµ РєРѕС‚Р»С‹ В«Р•В», РњР—Рљ-7</span></p>
 
-<p align="center"><span style="font-size: 16pt;">1. Котлы паровые серии «Е»</span></p>
+<p align="center"><span style="font-size: 16pt;">1. РљРѕС‚Р»С‹ РїР°СЂРѕРІС‹Рµ СЃРµСЂРёРё В«Р•В»</span></p>
       
 <center>
-<img style="width: 200px; height: 170px;" src="pics/clip_image016.gif" alt="паровой котел Е-1,0-0,9">
+<img style="width: 200px; height: 170px;" src="pics/clip_image016.gif" alt="РїР°СЂРѕРІРѕР№ РєРѕС‚РµР» Р•-1,0-0,9">
 <img style="width: 256px; height: 170px;" alt="" src="pics/clip_image017.gif">
 </center>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Паровые водотрубные котлы серии «Е» предназначены для выработки насыщенного пара рабочим
-	давлением 0,9 Мпа (9 кгс/см<sup>2</sup>) и температурой 175<sup>o</sup>С, используемого
-	для технологических и отопительных нужд. Модельный ряд паровых котлов рассчитан для работы на газе, 
-	каменном угле, мазуте, дизельном топливе. </p>
+	РџР°СЂРѕРІС‹Рµ РІРѕРґРѕС‚СЂСѓР±РЅС‹Рµ РєРѕС‚Р»С‹ СЃРµСЂРёРё В«Р•В» РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РІС‹СЂР°Р±РѕС‚РєРё РЅР°СЃС‹С‰РµРЅРЅРѕРіРѕ РїР°СЂР° СЂР°Р±РѕС‡РёРј
+	РґР°РІР»РµРЅРёРµРј 0,9 РњРїР° (9 РєРіСЃ/СЃРј<sup>2</sup>) Рё С‚РµРјРїРµСЂР°С‚СѓСЂРѕР№ 175<sup>o</sup>РЎ, РёСЃРїРѕР»СЊР·СѓРµРјРѕРіРѕ
+	РґР»СЏ С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёС… Рё РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С… РЅСѓР¶Рґ. РњРѕРґРµР»СЊРЅС‹Р№ СЂСЏРґ РїР°СЂРѕРІС‹С… РєРѕС‚Р»РѕРІ СЂР°СЃСЃС‡РёС‚Р°РЅ РґР»СЏ СЂР°Р±РѕС‚С‹ РЅР° РіР°Р·Рµ, 
+	РєР°РјРµРЅРЅРѕРј СѓРіР»Рµ, РјР°Р·СѓС‚Рµ, РґРёР·РµР»СЊРЅРѕРј С‚РѕРїР»РёРІРµ. </p>
 	
-<p>Паровые котлы поставляются единым транспортабельным блоком в собранном виде, в обмуровке
-	и обшивке. В комплект поставки котлов входит горелочное устройство, дымосос, вентилятор, комплект
-	средств управления, приборы контроля, питательный насос, лестница с площадкой.
+<p>РџР°СЂРѕРІС‹Рµ РєРѕС‚Р»С‹ РїРѕСЃС‚Р°РІР»СЏСЋС‚СЃСЏ РµРґРёРЅС‹Рј С‚СЂР°РЅСЃРїРѕСЂС‚Р°Р±РµР»СЊРЅС‹Рј Р±Р»РѕРєРѕРј РІ СЃРѕР±СЂР°РЅРЅРѕРј РІРёРґРµ, РІ РѕР±РјСѓСЂРѕРІРєРµ
+	Рё РѕР±С€РёРІРєРµ. Р’ РєРѕРјРїР»РµРєС‚ РїРѕСЃС‚Р°РІРєРё РєРѕС‚Р»РѕРІ РІС…РѕРґРёС‚ РіРѕСЂРµР»РѕС‡РЅРѕРµ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ, РґС‹РјРѕСЃРѕСЃ, РІРµРЅС‚РёР»СЏС‚РѕСЂ, РєРѕРјРїР»РµРєС‚
+	СЃСЂРµРґСЃС‚РІ СѓРїСЂР°РІР»РµРЅРёСЏ, РїСЂРёР±РѕСЂС‹ РєРѕРЅС‚СЂРѕР»СЏ, РїРёС‚Р°С‚РµР»СЊРЅС‹Р№ РЅР°СЃРѕСЃ, Р»РµСЃС‚РЅРёС†Р° СЃ РїР»РѕС‰Р°РґРєРѕР№.
 	<img style="width: 601px; height: 272px;" alt="" src="pics/clip_image018.jpg"></p>
 	
-<p>Функциональная схема котла (топливо-газ)</p>
+<p>Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅР°СЏ СЃС…РµРјР° РєРѕС‚Р»Р° (С‚РѕРїР»РёРІРѕ-РіР°Р·)</p>
   
-<p>Основные параметры и технические характеристики:</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё:</p>
 
 <table border="1" width="100%">
 <tbody>
 	<tr>
-  	<td rowspan="2"  width="210"><p><span style="font-size: 10pt;">Параметры</span></p></td>
-    <td colspan="5" width="489"><p align="center"><span style="font-size: 10pt;">Значение параметров</span></p></td>
+  	<td rowspan="2"  width="210"><p><span style="font-size: 10pt;">РџР°СЂР°РјРµС‚СЂС‹</span></p></td>
+    <td colspan="5" width="489"><p align="center"><span style="font-size: 10pt;">Р—РЅР°С‡РµРЅРёРµ РїР°СЂР°РјРµС‚СЂРѕРІ</span></p></td>
   </tr>
   <tr>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">Е-1,0-0,9 М-З</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">Е-1,0-0,9 Г-З</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">Е-1,0-0,9 Р-З</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">Е-1,6-0,9 ГМН</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">Е-2,5-0,9 ГМ</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">Р•-1,0-0,9 Рњ-Р—</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">Р•-1,0-0,9 Р“-Р—</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">Р•-1,0-0,9 Р -Р—</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">Р•-1,6-0,9 Р“РњРќ</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">Р•-2,5-0,9 Р“Рњ</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Номинальная паропроизводительность,т/ч не менее</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">РќРѕРјРёРЅР°Р»СЊРЅР°СЏ РїР°СЂРѕРїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ,С‚/С‡ РЅРµ РјРµРЅРµРµ</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
@@ -44,7 +44,7 @@
     <td width="98"><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Раб.давление пара на выходе,Мпа (кгс/см<sup>2</sup>),не более</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">Р Р°Р±.РґР°РІР»РµРЅРёРµ РїР°СЂР° РЅР° РІС‹С…РѕРґРµ,РњРїР° (РєРіСЃ/СЃРј<sup>2</sup>),РЅРµ Р±РѕР»РµРµ</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
@@ -52,36 +52,36 @@
     <td width="98"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Расчетное топливо</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">мазут</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">Газ</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">уголь</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">газ, мазут</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">газ, мазут</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">Р Р°СЃС‡РµС‚РЅРѕРµ С‚РѕРїР»РёРІРѕ</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">РјР°Р·СѓС‚</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">Р“Р°Р·</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">СѓРіРѕР»СЊ</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">РіР°Р·, РјР°Р·СѓС‚</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">РіР°Р·, РјР°Р·СѓС‚</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Расчетный расход топлива, не более</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">74,0 кг/ч</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">83,5 м<sup>3</sup>/ч</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">147 кг/ч</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">Р Р°СЃС‡РµС‚РЅС‹Р№ СЂР°СЃС…РѕРґ С‚РѕРїР»РёРІР°, РЅРµ Р±РѕР»РµРµ</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">74,0 РєРі/С‡</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">83,5 Рј<sup>3</sup>/С‡</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">147 РєРі/С‡</span></p></td>
     <td width="98">
-    	<p align="center"><span style="font-size: 10pt;">мазут-118кг/ч</span></p>
-      <p align="center"><span style="font-size: 10pt;">газ-130м<sup>3</sup>/ч</span></p>
+    	<p align="center"><span style="font-size: 10pt;">РјР°Р·СѓС‚-118РєРі/С‡</span></p>
+      <p align="center"><span style="font-size: 10pt;">РіР°Р·-130Рј<sup>3</sup>/С‡</span></p>
     </td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">мазут-190кг/ч<br>газ-210 м<sup>3</sup>/ч</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">РјР°Р·СѓС‚-190РєРі/С‡<br>РіР°Р·-210 Рј<sup>3</sup>/С‡</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Коэффициент полезного действия, % </span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">РљРѕСЌС„С„РёС†РёРµРЅС‚ РїРѕР»РµР·РЅРѕРіРѕ РґРµР№СЃС‚РІРёСЏ, % </span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">87,5</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">89</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">75</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">88-мазут</span></p>
-    							 <p align="center"><span style="font-size: 10pt;">89,5-газ</span></p>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">88-РјР°Р·СѓС‚</span></p>
+    							 <p align="center"><span style="font-size: 10pt;">89,5-РіР°Р·</span></p>
     </td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">87-мазут<br>91-газ</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">87-РјР°Р·СѓС‚<br>91-РіР°Р·</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Температура питательной воды (расчетная) котла, <sup>o</sup>С</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">РўРµРјРїРµСЂР°С‚СѓСЂР° РїРёС‚Р°С‚РµР»СЊРЅРѕР№ РІРѕРґС‹ (СЂР°СЃС‡РµС‚РЅР°СЏ) РєРѕС‚Р»Р°, <sup>o</sup>РЎ</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
@@ -89,7 +89,7 @@
     <td width="98"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Установленая электрическая мощность котла, квт</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">РЈСЃС‚Р°РЅРѕРІР»РµРЅР°СЏ СЌР»РµРєС‚СЂРёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ РєРѕС‚Р»Р°, РєРІС‚</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">6,0</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">6,0</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">6,0</span></p></td>
@@ -97,7 +97,7 @@
     <td width="98"><p align="center"><span style="font-size: 10pt;">12,0</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Масса котла, кг не более</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">РњР°СЃСЃР° РєРѕС‚Р»Р°, РєРі РЅРµ Р±РѕР»РµРµ</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">4300</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">4300</span></p></td>
     <td width="98"><p align="center"><span style="font-size: 10pt;">3800</span></p></td>
@@ -105,166 +105,166 @@
     <td width="98"><p align="center"><span style="font-size: 10pt;">8100</span></p></td>
   </tr>
   <tr>
-    <td width="210"><p><span style="font-size: 10pt;">Габариты котла (Д х Ш х В), мм</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">4,2х2,35х2,56</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">4,2х2,35х2,56</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">3,58х2,35х2,56</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">4,2х2,45х2,7</span></p></td>
-    <td width="98"><p align="center"><span style="font-size: 10pt;">4,88х2,45х3,1</span></p></td>
+    <td width="210"><p><span style="font-size: 10pt;">Р“Р°Р±Р°СЂРёС‚С‹ РєРѕС‚Р»Р° (Р” С… РЁ С… Р’), РјРј</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">4,2С…2,35С…2,56</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">4,2С…2,35С…2,56</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">3,58С…2,35С…2,56</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">4,2С…2,45С…2,7</span></p></td>
+    <td width="98"><p align="center"><span style="font-size: 10pt;">4,88С…2,45С…3,1</span></p></td>
   </tr>
 </tbody>
 </table>
 
-<p align="center"><span style="font-size: 16pt;">2. Котлы паровые МЗК-7</span></p>
+<p align="center"><span style="font-size: 16pt;">2. РљРѕС‚Р»С‹ РїР°СЂРѕРІС‹Рµ РњР—Рљ-7</span></p>
 
-<p>Паровые котлы МЗК-7 принадлежат к типу вертикально-водотрубных цилиндрических котлов с 
-	естественной циркуляцией и предназначены для выработки насыщенного пара с температурой 
-	175<sup>o</sup>С и абсолютным давле-нием 0,9 МПа, используемого в промышленности и в 
-	сельском хозяйстве для технологических, хозяйственных и бытовых нужд. </p>
+<p>РџР°СЂРѕРІС‹Рµ РєРѕС‚Р»С‹ РњР—Рљ-7 РїСЂРёРЅР°РґР»РµР¶Р°С‚ Рє С‚РёРїСѓ РІРµСЂС‚РёРєР°Р»СЊРЅРѕ-РІРѕРґРѕС‚СЂСѓР±РЅС‹С… С†РёР»РёРЅРґСЂРёС‡РµСЃРєРёС… РєРѕС‚Р»РѕРІ СЃ 
+	РµСЃС‚РµСЃС‚РІРµРЅРЅРѕР№ С†РёСЂРєСѓР»СЏС†РёРµР№ Рё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РІС‹СЂР°Р±РѕС‚РєРё РЅР°СЃС‹С‰РµРЅРЅРѕРіРѕ РїР°СЂР° СЃ С‚РµРјРїРµСЂР°С‚СѓСЂРѕР№ 
+	175<sup>o</sup>РЎ Рё Р°Р±СЃРѕР»СЋС‚РЅС‹Рј РґР°РІР»Рµ-РЅРёРµРј 0,9 РњРџР°, РёСЃРїРѕР»СЊР·СѓРµРјРѕРіРѕ РІ РїСЂРѕРјС‹С€Р»РµРЅРЅРѕСЃС‚Рё Рё РІ 
+	СЃРµР»СЊСЃРєРѕРј С…РѕР·СЏР№СЃС‚РІРµ РґР»СЏ С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёС…, С…РѕР·СЏР№СЃС‚РІРµРЅРЅС‹С… Рё Р±С‹С‚РѕРІС‹С… РЅСѓР¶Рґ. </p>
 	
-<p>Котлы МЗК-7 выполняются с облегченной теплоизоляцией из минеральной ваты и обшивкой из
-	тонколистовой стали. Поставляются единым транспор-табельным блоком в собранном виде в
-	обмуровке и обшивке, со вспомога-тельным оборудованием и системой автоматического
-	управления.</p>
+<p>РљРѕС‚Р»С‹ РњР—Рљ-7 РІС‹РїРѕР»РЅСЏСЋС‚СЃСЏ СЃ РѕР±Р»РµРіС‡РµРЅРЅРѕР№ С‚РµРїР»РѕРёР·РѕР»СЏС†РёРµР№ РёР· РјРёРЅРµСЂР°Р»СЊРЅРѕР№ РІР°С‚С‹ Рё РѕР±С€РёРІРєРѕР№ РёР·
+	С‚РѕРЅРєРѕР»РёСЃС‚РѕРІРѕР№ СЃС‚Р°Р»Рё. РџРѕСЃС‚Р°РІР»СЏСЋС‚СЃСЏ РµРґРёРЅС‹Рј С‚СЂР°РЅСЃРїРѕСЂ-С‚Р°Р±РµР»СЊРЅС‹Рј Р±Р»РѕРєРѕРј РІ СЃРѕР±СЂР°РЅРЅРѕРј РІРёРґРµ РІ
+	РѕР±РјСѓСЂРѕРІРєРµ Рё РѕР±С€РёРІРєРµ, СЃРѕ РІСЃРїРѕРјРѕРіР°-С‚РµР»СЊРЅС‹Рј РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµРј Рё СЃРёСЃС‚РµРјРѕР№ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРіРѕ
+	СѓРїСЂР°РІР»РµРЅРёСЏ.</p>
 	
-<p>Система автоматического управления предусматривает выполнение следующих функций:
-      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;автоматический пуск и остановка котла;
-      поддерживание в заданных пределах уровня воды в котле;<br>
-      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;двухпозиционное регулирование подачи воздуха в соответствии с подачей топлива;<br>
-      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;световую сигнализацию о нормальной работе котла;<br>
-      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;защиту котла при утечке воды, повышении давления пара выше допустимого, понижении 
-      	давления воздуха, изменении давления газа, погасании пламени горелки.<br>
+<p>РЎРёСЃС‚РµРјР° Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРіРѕ СѓРїСЂР°РІР»РµРЅРёСЏ РїСЂРµРґСѓСЃРјР°С‚СЂРёРІР°РµС‚ РІС‹РїРѕР»РЅРµРЅРёРµ СЃР»РµРґСѓСЋС‰РёС… С„СѓРЅРєС†РёР№:
+      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРёР№ РїСѓСЃРє Рё РѕСЃС‚Р°РЅРѕРІРєР° РєРѕС‚Р»Р°;
+      РїРѕРґРґРµСЂР¶РёРІР°РЅРёРµ РІ Р·Р°РґР°РЅРЅС‹С… РїСЂРµРґРµР»Р°С… СѓСЂРѕРІРЅСЏ РІРѕРґС‹ РІ РєРѕС‚Р»Рµ;<br>
+      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;РґРІСѓС…РїРѕР·РёС†РёРѕРЅРЅРѕРµ СЂРµРіСѓР»РёСЂРѕРІР°РЅРёРµ РїРѕРґР°С‡Рё РІРѕР·РґСѓС…Р° РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃ РїРѕРґР°С‡РµР№ С‚РѕРїР»РёРІР°;<br>
+      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;СЃРІРµС‚РѕРІСѓСЋ СЃРёРіРЅР°Р»РёР·Р°С†РёСЋ Рѕ РЅРѕСЂРјР°Р»СЊРЅРѕР№ СЂР°Р±РѕС‚Рµ РєРѕС‚Р»Р°;<br>
+      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;Р·Р°С‰РёС‚Сѓ РєРѕС‚Р»Р° РїСЂРё СѓС‚РµС‡РєРµ РІРѕРґС‹, РїРѕРІС‹С€РµРЅРёРё РґР°РІР»РµРЅРёСЏ РїР°СЂР° РІС‹С€Рµ РґРѕРїСѓСЃС‚РёРјРѕРіРѕ, РїРѕРЅРёР¶РµРЅРёРё 
+      	РґР°РІР»РµРЅРёСЏ РІРѕР·РґСѓС…Р°, РёР·РјРµРЅРµРЅРёРё РґР°РІР»РµРЅРёСЏ РіР°Р·Р°, РїРѕРіР°СЃР°РЅРёРё РїР»Р°РјРµРЅРё РіРѕСЂРµР»РєРё.<br>
 </p>
       
-<p>Котлы серии МЗК отличаются высокой степенью монтажной готовности и минимальными затратами на
-	пуско-наладочные работы, простотой и удобством в эксплуатации.</p>
+<p>РљРѕС‚Р»С‹ СЃРµСЂРёРё РњР—Рљ РѕС‚Р»РёС‡Р°СЋС‚СЃСЏ РІС‹СЃРѕРєРѕР№ СЃС‚РµРїРµРЅСЊСЋ РјРѕРЅС‚Р°Р¶РЅРѕР№ РіРѕС‚РѕРІРЅРѕСЃС‚Рё Рё РјРёРЅРёРјР°Р»СЊРЅС‹РјРё Р·Р°С‚СЂР°С‚Р°РјРё РЅР°
+	РїСѓСЃРєРѕ-РЅР°Р»Р°РґРѕС‡РЅС‹Рµ СЂР°Р±РѕС‚С‹, РїСЂРѕСЃС‚РѕС‚РѕР№ Рё СѓРґРѕР±СЃС‚РІРѕРј РІ СЌРєСЃРїР»СѓР°С‚Р°С†РёРё.</p>
 	
-<p>В комплект котла входит горелочное устройство, дутьевой вентилятор, автоматика, КИП, запорная 
-	арматура в пределах котла, насос.</p>
+<p>Р’ РєРѕРјРїР»РµРєС‚ РєРѕС‚Р»Р° РІС…РѕРґРёС‚ РіРѕСЂРµР»РѕС‡РЅРѕРµ СѓСЃС‚СЂРѕР№СЃС‚РІРѕ, РґСѓС‚СЊРµРІРѕР№ РІРµРЅС‚РёР»СЏС‚РѕСЂ, Р°РІС‚РѕРјР°С‚РёРєР°, РљРРџ, Р·Р°РїРѕСЂРЅР°СЏ 
+	Р°СЂРјР°С‚СѓСЂР° РІ РїСЂРµРґРµР»Р°С… РєРѕС‚Р»Р°, РЅР°СЃРѕСЃ.</p>
       
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Топки котлов серии «МЗК» работают под наддувом. Воздух подается дутьевым вентилятором в каналы
-	газоплотной обшивки котла, где, нагреваясь, поступает в горелку. Дымосос для этих
-	котлов в комплект по ставки не входит.</p>
+	РўРѕРїРєРё РєРѕС‚Р»РѕРІ СЃРµСЂРёРё В«РњР—РљВ» СЂР°Р±РѕС‚Р°СЋС‚ РїРѕРґ РЅР°РґРґСѓРІРѕРј. Р’РѕР·РґСѓС… РїРѕРґР°РµС‚СЃСЏ РґСѓС‚СЊРµРІС‹Рј РІРµРЅС‚РёР»СЏС‚РѕСЂРѕРј РІ РєР°РЅР°Р»С‹
+	РіР°Р·РѕРїР»РѕС‚РЅРѕР№ РѕР±С€РёРІРєРё РєРѕС‚Р»Р°, РіРґРµ, РЅР°РіСЂРµРІР°СЏСЃСЊ, РїРѕСЃС‚СѓРїР°РµС‚ РІ РіРѕСЂРµР»РєСѓ. Р”С‹РјРѕСЃРѕСЃ РґР»СЏ СЌС‚РёС…
+	РєРѕС‚Р»РѕРІ РІ РєРѕРјРїР»РµРєС‚ РїРѕ СЃС‚Р°РІРєРё РЅРµ РІС…РѕРґРёС‚.</p>
 
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 
 <table width = "100%" border="1" cellpadding="0" cellspacing="0">
 <tbody>
 	<tr>
-  	<td rowspan="2" width="315"><p><span style="font-size: 10pt;">Параметры</span></p></td>
-    <td colspan="2" width="271"><p><span style="font-size: 10pt;">Значение параметров</span></p></td>
+  	<td rowspan="2" width="315"><p><span style="font-size: 10pt;">РџР°СЂР°РјРµС‚СЂС‹</span></p></td>
+    <td colspan="2" width="271"><p><span style="font-size: 10pt;">Р—РЅР°С‡РµРЅРёРµ РїР°СЂР°РјРµС‚СЂРѕРІ</span></p></td>
   </tr>
   <tr>
-    <td width="133"><p align="center"><span style="font-size: 10pt;">МЗК-7 АГ</span></p></td>
-    <td width="138"><p align="center"><span style="font-size: 10pt;">МЗК-7 АЖ-2</span></p></td>
+    <td width="133"><p align="center"><span style="font-size: 10pt;">РњР—Рљ-7 РђР“</span></p></td>
+    <td width="138"><p align="center"><span style="font-size: 10pt;">РњР—Рљ-7 РђР–-2</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Номинальная производительность, т/ч</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">РќРѕРјРёРЅР°Р»СЊРЅР°СЏ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ, С‚/С‡</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Рабочее давление пара, МПа</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">Р Р°Р±РѕС‡РµРµ РґР°РІР»РµРЅРёРµ РїР°СЂР°, РњРџР°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Расчетное топливо</p></td>
-    <td width="133"><p align="center"><span style="font-size: 10pt;">природный газ</span></p></td>
-    <td width="138"><p align="center"><span style="font-size: 10pt;">диз. топливо</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">Р Р°СЃС‡РµС‚РЅРѕРµ С‚РѕРїР»РёРІРѕ</p></td>
+    <td width="133"><p align="center"><span style="font-size: 10pt;">РїСЂРёСЂРѕРґРЅС‹Р№ РіР°Р·</span></p></td>
+    <td width="138"><p align="center"><span style="font-size: 10pt;">РґРёР·. С‚РѕРїР»РёРІРѕ</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Расход топлива при номинальной нагрузке</span></p></td>
-    <td width="133"><p align="center"><span style="font-size: 10pt;">81 нм<sup>3</sup>/час</span></p></td>
-    <td width="138"><p align="center"><span style="font-size: 10pt;">70 кг/час</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">Р Р°СЃС…РѕРґ С‚РѕРїР»РёРІР° РїСЂРё РЅРѕРјРёРЅР°Р»СЊРЅРѕР№ РЅР°РіСЂСѓР·РєРµ</span></p></td>
+    <td width="133"><p align="center"><span style="font-size: 10pt;">81 РЅРј<sup>3</sup>/С‡Р°СЃ</span></p></td>
+    <td width="138"><p align="center"><span style="font-size: 10pt;">70 РєРі/С‡Р°СЃ</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">КПД, %, не менее</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">РљРџР”, %, РЅРµ РјРµРЅРµРµ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">89,0</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">87,0</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Установленная электрическая мощность, КВт</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">РЈСЃС‚Р°РЅРѕРІР»РµРЅРЅР°СЏ СЌР»РµРєС‚СЂРёС‡РµСЃРєР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ, РљР’С‚</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">2,6</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">3,7</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Расчетная температура насыщенного пара, <sup>o<.sup>С</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">Р Р°СЃС‡РµС‚РЅР°СЏ С‚РµРјРїРµСЂР°С‚СѓСЂР° РЅР°СЃС‹С‰РµРЅРЅРѕРіРѕ РїР°СЂР°, <sup>o<.sup>РЎ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">175</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">175</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Температура питательной воды, <sup>o<.sup>С</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">РўРµРјРїРµСЂР°С‚СѓСЂР° РїРёС‚Р°С‚РµР»СЊРЅРѕР№ РІРѕРґС‹, <sup>o<.sup>РЎ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">Масса котла, кг, не более</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">РњР°СЃСЃР° РєРѕС‚Р»Р°, РєРі, РЅРµ Р±РѕР»РµРµ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">2300</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">2500</span></p></td>
   </tr>
   <tr>
-    <td colspan="3" width="587"><p><span style="font-size: 10pt;">Габариты в смонтированном виде, мм, не более:</span></p></td>
+    <td colspan="3" width="587"><p><span style="font-size: 10pt;">Р“Р°Р±Р°СЂРёС‚С‹ РІ СЃРјРѕРЅС‚РёСЂРѕРІР°РЅРЅРѕРј РІРёРґРµ, РјРј, РЅРµ Р±РѕР»РµРµ:</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;длина</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РґР»РёРЅР°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">2300</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">2300</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ширина</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С€РёСЂРёРЅР°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">1600</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">1600</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;высота</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РІС‹СЃРѕС‚Р°</span></p></td>
     <td  width="133"><p align="center"><span style="font-size: 10pt;">2800</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">2800</span></p></td>
   </tr>
   <tr>
-    <td colspan="3" width="587"><p><span style="font-size: 10pt;">Габариты в транспортном положении, мм, не более:</span></p></td>
+    <td colspan="3" width="587"><p><span style="font-size: 10pt;">Р“Р°Р±Р°СЂРёС‚С‹ РІ С‚СЂР°РЅСЃРїРѕСЂС‚РЅРѕРј РїРѕР»РѕР¶РµРЅРёРё, РјРј, РЅРµ Р±РѕР»РµРµ:</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;длина</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РґР»РёРЅР°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">2280</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">2280</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ширина</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С€РёСЂРёРЅР°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">1350</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">1350</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;высота</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РІС‹СЃРѕС‚Р°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
   </tr>
   <tr>
-  	<td colspan="3" width="587"><p><span style="font-size: 10pt;">Поверхность нагрева котла, м<sup>2</sup>:</span></p></td>
+  	<td colspan="3" width="587"><p><span style="font-size: 10pt;">РџРѕРІРµСЂС…РЅРѕСЃС‚СЊ РЅР°РіСЂРµРІР° РєРѕС‚Р»Р°, Рј<sup>2</sup>:</span></p></td>
   </tr>
   <tr>
-  	<td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;собственного котла</span></p></td>
+  	<td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;СЃРѕР±СЃС‚РІРµРЅРЅРѕРіРѕ РєРѕС‚Р»Р°</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">17,1</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">17,1</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;экранная</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;СЌРєСЂР°РЅРЅР°СЏ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">15,0</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">15,0</span></p></td>
   </tr>
   <tr>
-    <td colspan="3" width="587"><p><span style="font-size: 10pt;">Объем, м<sup>3</sup>:</span></p></td>
+    <td colspan="3" width="587"><p><span style="font-size: 10pt;">РћР±СЉРµРј, Рј<sup>3</sup>:</span></p></td>
   </tr>
   <tr>
-    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;водяной при
-			максимально допустимом уровне воды в кольцевом коллекторе</span></p></td>
+    <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РІРѕРґСЏРЅРѕР№ РїСЂРё
+			РјР°РєСЃРёРјР°Р»СЊРЅРѕ РґРѕРїСѓСЃС‚РёРјРѕРј СѓСЂРѕРІРЅРµ РІРѕРґС‹ РІ РєРѕР»СЊС†РµРІРѕРј РєРѕР»Р»РµРєС‚РѕСЂРµ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">0,39</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">0,39</span></p></td>
   </tr>
   <tr>
     <td width="315"><p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    	паровой при максимально допустимом уровне воды в кольцевом коллекторе</span></p></td>
+    	РїР°СЂРѕРІРѕР№ РїСЂРё РјР°РєСЃРёРјР°Р»СЊРЅРѕ РґРѕРїСѓСЃС‚РёРјРѕРј СѓСЂРѕРІРЅРµ РІРѕРґС‹ РІ РєРѕР»СЊС†РµРІРѕРј РєРѕР»Р»РµРєС‚РѕСЂРµ</span></p></td>
     <td width="133"><p align="center"><span style="font-size: 10pt;">0,35</span></p></td>
     <td width="138"><p align="center"><span style="font-size: 10pt;">0,35</span></p>
   </tr>

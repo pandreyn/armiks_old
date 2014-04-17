@@ -1,35 +1,35 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Гидрозатвор</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Р“РёРґСЂРѕР·Р°С‚РІРѕСЂ</span></p>
 
-<p align="center"><img  style="width: 274px; height: 173px;" src="pics/clip_image008.jpg" alt="Гидрозатвор"></p>
+<p align="center"><img  style="width: 274px; height: 173px;" src="pics/clip_image008.jpg" alt="Р“РёРґСЂРѕР·Р°С‚РІРѕСЂ"></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Для обеспечения безопасной эксплуатации деаэратора предусматривается предохранительное
-	устройство - гидрозатвор, защищающий его от опасного превышения давления и уровня воды в баке.</p>
+	Р”Р»СЏ РѕР±РµСЃРїРµС‡РµРЅРёСЏ Р±РµР·РѕРїР°СЃРЅРѕР№ СЌРєСЃРїР»СѓР°С‚Р°С†РёРё РґРµР°СЌСЂР°С‚РѕСЂР° РїСЂРµРґСѓСЃРјР°С‚СЂРёРІР°РµС‚СЃСЏ РїСЂРµРґРѕС…СЂР°РЅРёС‚РµР»СЊРЅРѕРµ
+	СѓСЃС‚СЂРѕР№СЃС‚РІРѕ - РіРёРґСЂРѕР·Р°С‚РІРѕСЂ, Р·Р°С‰РёС‰Р°СЋС‰РёР№ РµРіРѕ РѕС‚ РѕРїР°СЃРЅРѕРіРѕ РїСЂРµРІС‹С€РµРЅРёСЏ РґР°РІР»РµРЅРёСЏ Рё СѓСЂРѕРІРЅСЏ РІРѕРґС‹ РІ Р±Р°РєРµ.</p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Основные параметры и технические характеристики</span></p>
+	РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</span></p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0" width="95%">
 		<tbody>
 			<tr>
-				<td width="29%"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">P, МПа</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Среда</span></p></td>
-        <td width="29%"><p align="center"><span style="font-size: 10pt;">Габариты (ДxШxВ), мм</span></p></td>
-        <td width="13%"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+				<td width="29%"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">P, РњРџР°</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РЎСЂРµРґР°</span></p></td>
+        <td width="29%"><p align="center"><span style="font-size: 10pt;">Р“Р°Р±Р°СЂРёС‚С‹ (Р”xРЁxР’), РјРј</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
       </tr>
       <tr>
-        <td width="29%"><p><span style="font-size: 10pt;">Гидрозатвор для ДА 5-25</span></p></td>
+        <td width="29%"><p><span style="font-size: 10pt;">Р“РёРґСЂРѕР·Р°С‚РІРѕСЂ РґР»СЏ Р”Рђ 5-25</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,12</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">вода, пар</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РІРѕРґР°, РїР°СЂ</span></p></td>
         <td width="29%"><p align="center"><span style="font-size: 10pt;">1460x495x5930</span></p></td>
         <td width="13%"><p align="center"><span style="font-size: 10pt;">183</span></p></td>
       </tr>
       <tr>
-        <td width="29%"><p><span style="font-size: 10pt;">Гидрозатвор для ДА 50-100</span></p></td>
+        <td width="29%"><p><span style="font-size: 10pt;">Р“РёРґСЂРѕР·Р°С‚РІРѕСЂ РґР»СЏ Р”Рђ 50-100</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,12</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">вода, пар</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РІРѕРґР°, РїР°СЂ</span></p></td>
         <td width="29%"><p align="center"><span style="font-size: 10pt;">1500x495x5950</span></p></td>
         <td width="13%"><p align="center"><span style="font-size: 10pt;">297</span></p></td>
       </tr>

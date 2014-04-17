@@ -1,40 +1,40 @@
 <p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">
-	Водоподогреватели паровые, емкие, горизонтальные (СТД).</span></p>
+	Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІС‹Рµ, РµРјРєРёРµ, РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Рµ (РЎРўР”).</span></p>
 <br>	
 
-<p align="center"><span style="font-size: 16pt;">Водоподогреватели паровые, ёмкие, горизонтальные (СТД)</span></p>
+<p align="center"><span style="font-size: 16pt;">Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІС‹Рµ, С‘РјРєРёРµ, РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Рµ (РЎРўР”)</span></p>
 <br><br>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody>
 	<tr>
   	<td width="28%"><p><span style="font-size: 10pt;">
   		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Водоподогреватель предназначен для производства горячей воды на бытовые и промышленные нужды.</span></p>
-      <p><span style="font-size: 10pt;">&nbsp;&nbsp; Водоподогреватель состоит из стального 
-      цилиндрического корпуса со сферическими днищами, змеевика, подводящих и отводящих труб 
-      с фланцами.</span></p></td>
+      Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РїСЂРѕРёР·РІРѕРґСЃС‚РІР° РіРѕСЂСЏС‡РµР№ РІРѕРґС‹ РЅР° Р±С‹С‚РѕРІС‹Рµ Рё РїСЂРѕРјС‹С€Р»РµРЅРЅС‹Рµ РЅСѓР¶РґС‹.</span></p>
+      <p><span style="font-size: 10pt;">&nbsp;&nbsp; Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ СЃРѕСЃС‚РѕРёС‚ РёР· СЃС‚Р°Р»СЊРЅРѕРіРѕ 
+      С†РёР»РёРЅРґСЂРёС‡РµСЃРєРѕРіРѕ РєРѕСЂРїСѓСЃР° СЃРѕ СЃС„РµСЂРёС‡РµСЃРєРёРјРё РґРЅРёС‰Р°РјРё, Р·РјРµРµРІРёРєР°, РїРѕРґРІРѕРґСЏС‰РёС… Рё РѕС‚РІРѕРґСЏС‰РёС… С‚СЂСѓР± 
+      СЃ С„Р»Р°РЅС†Р°РјРё.</span></p></td>
    	<td width="72%"><p align="center"><img style="width: 500px; height: 251px;" src="pics/clip_image005.jpg"
-   		alt="Водоподогреватель паровой" v:shapes="_x0000_s1026" align="right" hspace="12"></p></td>
+   		alt="Р’РѕРґРѕРїРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїР°СЂРѕРІРѕР№" v:shapes="_x0000_s1026" align="right" hspace="12"></p></td>
   </tr>
 </tbody>
 </table>
 <br><br>
 
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 <div align="center">
 <table border="1" width="100%">
 <tbody>
 	<tr>
-  	<td  width="22%"> <p><span style="font-size: 10pt;">Обозначение</span></p> </td>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">СТД-3073</span></p></td>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">СТД-3074</span></p></td>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">СТД-3068</span></p></td>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">СТД-3069</span></p></td>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">СТД-3070</span></p></td>
-    <td width="13%"><p align="center"><span style="font-size: 10pt;">СТД-3071</span></p></td>
+  	<td  width="22%"> <p><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ</span></p> </td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЎРўР”-3073</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЎРўР”-3074</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЎРўР”-3068</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЎРўР”-3069</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЎРўР”-3070</span></p></td>
+    <td width="13%"><p align="center"><span style="font-size: 10pt;">РЎРўР”-3071</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">Рабочий объем, м<sup>3</sup></span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">Р Р°Р±РѕС‡РёР№ РѕР±СЉРµРј, Рј<sup>3</sup></span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">0,4</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">0,64</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
@@ -43,15 +43,15 @@
     <td width="13%"><p align="center"><span style="font-size: 10pt;">4,0</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">Теплоноситель</span></p></td>
-    <td colspan="6" width="529"><p align="center"><span style="font-size: 10pt;">&nbsp;пар Р=5 атм</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">РўРµРїР»РѕРЅРѕСЃРёС‚РµР»СЊ</span></p></td>
+    <td colspan="6" width="529"><p align="center"><span style="font-size: 10pt;">&nbsp;РїР°СЂ Р =5 Р°С‚Рј</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">Температура воды максимальная </span></p></td>
-    <td colspan="6" width="529"><p align="center"><span style="font-size: 10pt;">75 <sup>0</sup>С</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">РўРµРјРїРµСЂР°С‚СѓСЂР° РІРѕРґС‹ РјР°РєСЃРёРјР°Р»СЊРЅР°СЏ </span></p></td>
+    <td colspan="6" width="529"><p align="center"><span style="font-size: 10pt;">75 <sup>0</sup>РЎ</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">Общий вес, кг</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">РћР±С‰РёР№ РІРµСЃ, РєРі</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">235</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">280</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">401</span></p></td>
@@ -60,7 +60,7 @@
     <td width="13%"><p align="center"><span style="font-size: 10pt;">956</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">L, мм3</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">L, РјРј3</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1535</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">2175</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">2280</span></p></td>
@@ -69,7 +69,7 @@
     <td width="13%"><p align="center"><span style="font-size: 10pt;">4432</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">H, мм</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">H, РјРј</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1250</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1250</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1491</span></p></td>
@@ -78,7 +78,7 @@
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1771</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">D, мм</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">D, РјРј</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">712</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">712</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">916</span></p></td>
@@ -87,7 +87,7 @@
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1220</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">A, мм</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">A, РјРј</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">912</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">912</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1130</span></p></td>
@@ -96,7 +96,7 @@
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1430</span></p></td>
   </tr>
   <tr>
-    <td width="22%"><p><span style="font-size: 10pt;">K, мм</span></p></td>
+    <td width="22%"><p><span style="font-size: 10pt;">K, РјРј</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1380</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1975</span></p></td>
     <td width="13%"><p align="center"><span style="font-size: 10pt;">1558</span></p></td>
@@ -108,28 +108,28 @@
 </table>
 </div>
 <br>
-<p>Время нагрева воды от + 5 <sup>0</sup>С до + 75 <sup>0</sup>С при давлении пара :</p>
+<p>Р’СЂРµРјСЏ РЅР°РіСЂРµРІР° РІРѕРґС‹ РѕС‚ + 5 <sup>0</sup>РЎ РґРѕ + 75 <sup>0</sup>РЎ РїСЂРё РґР°РІР»РµРЅРёРё РїР°СЂР° :</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   - Р = 0,5 МПа 
+   - Р  = 0,5 РњРџР° 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   - 1 час</p>
+   - 1 С‡Р°СЃ</p>
 
    
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   - Р = 0,2 МПа 
+   - Р  = 0,2 РњРџР° 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   - 1 час 15 мин.</p>
+   - 1 С‡Р°СЃ 15 РјРёРЅ.</p>
    
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   - Р = 0,07 МПа
+   - Р  = 0,07 РњРџР°
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   - 1 час 35 мин.</p>
+   - 1 С‡Р°СЃ 35 РјРёРЅ.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	- Р = 0,02 МПа 
+	- Р  = 0,02 РњРџР° 
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  - 1 час 50 мин.</p>
+  - 1 С‡Р°СЃ 50 РјРёРЅ.</p>

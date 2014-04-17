@@ -1,46 +1,46 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Охладители выпара ОВА</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РћС…Р»Р°РґРёС‚РµР»Рё РІС‹РїР°СЂР° РћР’Рђ</span></p>
 
 <p align="center"><img  style="width: 500px; height: 173px;" src="pics/clip_image008.gif"
-	alt="Охладители выпара"></p>
+	alt="РћС…Р»Р°РґРёС‚РµР»Рё РІС‹РїР°СЂР°"></p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Охладители выпара атмосферных деаэраторов (ОВА) предназначены для конденсации максимального
-	количества пара из отводимой от деаэратора паро-газовой смеси (выпара) с утилизацией тепла. 
-	Охладители выпара состоят из горизонтального цилиндрического корпуса и размещенной в нем 
-	трубной системы. Химочищенная вода, проходит внутри трубок, нагревается и затем поступает в 
-	деаэрационную колонку. Парогазовая смесь (выпар) поступает в межтрубное пространство, где пар из нее 
-	практически полностью конденсируется. Оставшиеся газы отводятся в атмосферу, конденсат пара сливается в деаэратор.</p>
+	РћС…Р»Р°РґРёС‚РµР»Рё РІС‹РїР°СЂР° Р°С‚РјРѕСЃС„РµСЂРЅС‹С… РґРµР°СЌСЂР°С‚РѕСЂРѕРІ (РћР’Рђ) РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РєРѕРЅРґРµРЅСЃР°С†РёРё РјР°РєСЃРёРјР°Р»СЊРЅРѕРіРѕ
+	РєРѕР»РёС‡РµСЃС‚РІР° РїР°СЂР° РёР· РѕС‚РІРѕРґРёРјРѕР№ РѕС‚ РґРµР°СЌСЂР°С‚РѕСЂР° РїР°СЂРѕ-РіР°Р·РѕРІРѕР№ СЃРјРµСЃРё (РІС‹РїР°СЂР°) СЃ СѓС‚РёР»РёР·Р°С†РёРµР№ С‚РµРїР»Р°. 
+	РћС…Р»Р°РґРёС‚РµР»Рё РІС‹РїР°СЂР° СЃРѕСЃС‚РѕСЏС‚ РёР· РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅРѕРіРѕ С†РёР»РёРЅРґСЂРёС‡РµСЃРєРѕРіРѕ РєРѕСЂРїСѓСЃР° Рё СЂР°Р·РјРµС‰РµРЅРЅРѕР№ РІ РЅРµРј 
+	С‚СЂСѓР±РЅРѕР№ СЃРёСЃС‚РµРјС‹. РҐРёРјРѕС‡РёС‰РµРЅРЅР°СЏ РІРѕРґР°, РїСЂРѕС…РѕРґРёС‚ РІРЅСѓС‚СЂРё С‚СЂСѓР±РѕРє, РЅР°РіСЂРµРІР°РµС‚СЃСЏ Рё Р·Р°С‚РµРј РїРѕСЃС‚СѓРїР°РµС‚ РІ 
+	РґРµР°СЌСЂР°С†РёРѕРЅРЅСѓСЋ РєРѕР»РѕРЅРєСѓ. РџР°СЂРѕРіР°Р·РѕРІР°СЏ СЃРјРµСЃСЊ (РІС‹РїР°СЂ) РїРѕСЃС‚СѓРїР°РµС‚ РІ РјРµР¶С‚СЂСѓР±РЅРѕРµ РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРѕ, РіРґРµ РїР°СЂ РёР· РЅРµРµ 
+	РїСЂР°РєС‚РёС‡РµСЃРєРё РїРѕР»РЅРѕСЃС‚СЊСЋ РєРѕРЅРґРµРЅСЃРёСЂСѓРµС‚СЃСЏ. РћСЃС‚Р°РІС€РёРµСЃСЏ РіР°Р·С‹ РѕС‚РІРѕРґСЏС‚СЃСЏ РІ Р°С‚РјРѕСЃС„РµСЂСѓ, РєРѕРЅРґРµРЅСЃР°С‚ РїР°СЂР° СЃР»РёРІР°РµС‚СЃСЏ РІ РґРµР°СЌСЂР°С‚РѕСЂ.</p>
 
 	
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0">
 		<tbody>
 			<tr>
-				<td width="20%"><p align="center"><span style="font-size: 10pt;">Наименование изделия</span></p></td>
-        <td width="12%"><p align="center"><span style="font-size: 10pt;">Пов-сть охладителя, м<sup>2</sup></span></p></td>
-        <td width="16%"><p align="center"><span style="font-size: 10pt;">Давление, МПа</span></p></td>
-        <td width="6%"><p align="center"><span style="font-size: 10pt;">Среда</span></p></td>
-        <td width="17%"><p align="center"><span style="font-size: 10pt;">t среды,<br><sup>o</sup>С</span></p></td>
-        <td width="10%"><p align="center"><span style="font-size: 10pt;">(ДxШxВ), мм</span></p></td>
-        <td width="7%"><p align="center"><span style="font-size: 10pt;">Масса,<br>кг</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">РќР°РёРјРµРЅРѕРІР°РЅРёРµ РёР·РґРµР»РёСЏ</span></p></td>
+        <td width="12%"><p align="center"><span style="font-size: 10pt;">РџРѕРІ-СЃС‚СЊ РѕС…Р»Р°РґРёС‚РµР»СЏ, Рј<sup>2</sup></span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">Р”Р°РІР»РµРЅРёРµ, РњРџР°</span></p></td>
+        <td width="6%"><p align="center"><span style="font-size: 10pt;">РЎСЂРµРґР°</span></p></td>
+        <td width="17%"><p align="center"><span style="font-size: 10pt;">t СЃСЂРµРґС‹,<br><sup>o</sup>РЎ</span></p></td>
+        <td width="10%"><p align="center"><span style="font-size: 10pt;">(Р”xРЁxР’), РјРј</span></p></td>
+        <td width="7%"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°,<br>РєРі</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">Охладитель выпара ОВА-2 </span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">РћС…Р»Р°РґРёС‚РµР»СЊ РІС‹РїР°СЂР° РћР’Рђ-2 </span></p></td>
         <td width="12%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
-        <td width="16%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 0,5;<br>в корп. 0,12</span></p></td>
-        <td width="6%"><p align="center"><span style="font-size: 10pt;">вода,<br>пар</span></p></td>
-        <td width="17%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 40-50;<br>в корп. 104,2</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">РІ С‚СЂСѓР±РЅ. СЃРёСЃС‚. 0,5;<br>РІ РєРѕСЂРї. 0,12</span></p></td>
+        <td width="6%"><p align="center"><span style="font-size: 10pt;">РІРѕРґР°,<br>РїР°СЂ</span></p></td>
+        <td width="17%"><p align="center"><span style="font-size: 10pt;">РІ С‚СЂСѓР±РЅ. СЃРёСЃС‚. 40-50;<br>РІ РєРѕСЂРї. 104,2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1150<br>516<br>580</span></p></td>
         <td width="7%"><p align="center"><span style="font-size: 10pt;">229</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">Охладитель выпара ОВА-8 </span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">РћС…Р»Р°РґРёС‚РµР»СЊ РІС‹РїР°СЂР° РћР’Рђ-8 </span></p></td>
         <td width="12%"><p align="center"><span style="font-size: 10pt;">8</span></p></td>
-        <td width="16%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 0,5;<br>в корп. 0,12</span></p></td>
-        <td width="6%"><p align="center"><span style="font-size: 10pt;">вода,<br>пар</span></p></td>
-        <td width="17%"><p align="center"><span style="font-size: 10pt;">в трубн. сист. 40-50;<br>в корп. 104,2</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">РІ С‚СЂСѓР±РЅ. СЃРёСЃС‚. 0,5;<br>РІ РєРѕСЂРї. 0,12</span></p></td>
+        <td width="6%"><p align="center"><span style="font-size: 10pt;">РІРѕРґР°,<br>РїР°СЂ</span></p></td>
+        <td width="17%"><p align="center"><span style="font-size: 10pt;">РІ С‚СЂСѓР±РЅ. СЃРёСЃС‚. 40-50;<br>РІ РєРѕСЂРї. 104,2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2860<br>516<br>580</span></p></td>
         <td width="7%"><p align="center"><span style="font-size: 10pt;">355</span></p></td>
       </tr>

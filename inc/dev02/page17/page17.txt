@@ -1,61 +1,61 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Экономайзер чугунный блочный ЭБ</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Р­РєРѕРЅРѕРјР°Р№Р·РµСЂ С‡СѓРіСѓРЅРЅС‹Р№ Р±Р»РѕС‡РЅС‹Р№ Р­Р‘</span></p>
 
 <div align="center">
 	<table border="0" cellpadding="0" cellspacing="0" width="80%">
 		<tr>
 			<td>
 				<img style="width:301px;height:314px;border:0;" src="pics/clip_image016.jpg"
-					alt="Схема экономайзера ЭБ">
+					alt="РЎС…РµРјР° СЌРєРѕРЅРѕРјР°Р№Р·РµСЂР° Р­Р‘">
 			</td>
 			<td>
 				<img style="width:276px;height:201px;border:0;" src="pics/clip_image017.jpg"
-				  alt="Экономайзер ЭБ чугунный блочный">
+				  alt="Р­РєРѕРЅРѕРјР°Р№Р·РµСЂ Р­Р‘ С‡СѓРіСѓРЅРЅС‹Р№ Р±Р»РѕС‡РЅС‹Р№">
 			</td>
 		</tr>
 	</table>
 </div>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Экономайзеры чугунные блочные предназначены для нагревания питательной воды в
-	паровых и водогрейных стационарных котлах типа ДЕ, КЕ, ДКВР с рабочим давлением
-	до 2,4 МПа.</p>
+	Р­РєРѕРЅРѕРјР°Р№Р·РµСЂС‹ С‡СѓРіСѓРЅРЅС‹Рµ Р±Р»РѕС‡РЅС‹Рµ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РЅР°РіСЂРµРІР°РЅРёСЏ РїРёС‚Р°С‚РµР»СЊРЅРѕР№ РІРѕРґС‹ РІ
+	РїР°СЂРѕРІС‹С… Рё РІРѕРґРѕРіСЂРµР№РЅС‹С… СЃС‚Р°С†РёРѕРЅР°СЂРЅС‹С… РєРѕС‚Р»Р°С… С‚РёРїР° Р”Р•, РљР•, Р”РљР’Р  СЃ СЂР°Р±РѕС‡РёРј РґР°РІР»РµРЅРёРµРј
+	РґРѕ 2,4 РњРџР°.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Экономайзеры состоят из пакетов труб с оребрением, соединенных между собой и
-	заключенных в каркас с теплоизоляционной обшивкой. </p>
+	Р­РєРѕРЅРѕРјР°Р№Р·РµСЂС‹ СЃРѕСЃС‚РѕСЏС‚ РёР· РїР°РєРµС‚РѕРІ С‚СЂСѓР± СЃ РѕСЂРµР±СЂРµРЅРёРµРј, СЃРѕРµРґРёРЅРµРЅРЅС‹С… РјРµР¶РґСѓ СЃРѕР±РѕР№ Рё
+	Р·Р°РєР»СЋС‡РµРЅРЅС‹С… РІ РєР°СЂРєР°СЃ СЃ С‚РµРїР»РѕРёР·РѕР»СЏС†РёРѕРЅРЅРѕР№ РѕР±С€РёРІРєРѕР№. </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Движение питательной воды в трубах, составляющих общую поверхность нагрева, - 
-	навстречу потоку дымовых газов. Применение чугуна в поверхностях нагрева и
-	соединительных деталях значительно увеличивает срок службы по сравнению со стальными
-	экономайзерами. Для очистки поверхности нагрева используется паровая (П) или газоимульсная (И) очистка. </p>
+	Р”РІРёР¶РµРЅРёРµ РїРёС‚Р°С‚РµР»СЊРЅРѕР№ РІРѕРґС‹ РІ С‚СЂСѓР±Р°С…, СЃРѕСЃС‚Р°РІР»СЏСЋС‰РёС… РѕР±С‰СѓСЋ РїРѕРІРµСЂС…РЅРѕСЃС‚СЊ РЅР°РіСЂРµРІР°, - 
+	РЅР°РІСЃС‚СЂРµС‡Сѓ РїРѕС‚РѕРєСѓ РґС‹РјРѕРІС‹С… РіР°Р·РѕРІ. РџСЂРёРјРµРЅРµРЅРёРµ С‡СѓРіСѓРЅР° РІ РїРѕРІРµСЂС…РЅРѕСЃС‚СЏС… РЅР°РіСЂРµРІР° Рё
+	СЃРѕРµРґРёРЅРёС‚РµР»СЊРЅС‹С… РґРµС‚Р°Р»СЏС… Р·РЅР°С‡РёС‚РµР»СЊРЅРѕ СѓРІРµР»РёС‡РёРІР°РµС‚ СЃСЂРѕРє СЃР»СѓР¶Р±С‹ РїРѕ СЃСЂР°РІРЅРµРЅРёСЋ СЃРѕ СЃС‚Р°Р»СЊРЅС‹РјРё
+	СЌРєРѕРЅРѕРјР°Р№Р·РµСЂР°РјРё. Р”Р»СЏ РѕС‡РёСЃС‚РєРё РїРѕРІРµСЂС…РЅРѕСЃС‚Рё РЅР°РіСЂРµРІР° РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РїР°СЂРѕРІР°СЏ (Рџ) РёР»Рё РіР°Р·РѕРёРјСѓР»СЊСЃРЅР°СЏ (Р) РѕС‡РёСЃС‚РєР°. </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Экономайзеры ЭБ2-94И – ЭБ2-236И поставляются одним блоком, ЭБ1-300И и ЭБ1-330И – 
-	двумя блоками, ЭБ1-646И и ЭБ1-808И – тремя блоками.</p>
+	Р­РєРѕРЅРѕРјР°Р№Р·РµСЂС‹ Р­Р‘2-94Р вЂ“ Р­Р‘2-236Р РїРѕСЃС‚Р°РІР»СЏСЋС‚СЃСЏ РѕРґРЅРёРј Р±Р»РѕРєРѕРј, Р­Р‘1-300Р Рё Р­Р‘1-330Р вЂ“ 
+	РґРІСѓРјСЏ Р±Р»РѕРєР°РјРё, Р­Р‘1-646Р Рё Р­Р‘1-808Р вЂ“ С‚СЂРµРјСЏ Р±Р»РѕРєР°РјРё.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Основные параметры и технические характеристики :</p>
+	РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё :</p>
 
 <div align="center">
 	<table border="1"  cellpadding="0" cellspacing="0">
 		<tbody>
 			<tr>
-				<td rowspan="2" width="20%"><p align="center"><span style="font-size: 10pt;">Параметры</span></p></td>
-				<td colspan="8" width="80%"><p align="center"><span style="font-size: 10pt;">Тип экономайзера</span></p></td>
+				<td rowspan="2" width="20%"><p align="center"><span style="font-size: 10pt;">РџР°СЂР°РјРµС‚СЂС‹</span></p></td>
+				<td colspan="8" width="80%"><p align="center"><span style="font-size: 10pt;">РўРёРї СЌРєРѕРЅРѕРјР°Р№Р·РµСЂР°</span></p></td>
 			</tr>
 			<tr>
-				<td width="20%"><p align="center"><span style="font-size: 10pt;">ЭБ2-94И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ2-142И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ2-200И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ2-236И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-З00И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-З30И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-646И</span></p></td>
-				<td width="10%"><p align="center"><span style="font-size: 10pt;">ЭБ1-808И</span></p></td>
+				<td width="20%"><p align="center"><span style="font-size: 10pt;">Р­Р‘2-94Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘2-142Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘2-200Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘2-236Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘1-Р—00Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘1-Р—30Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘1-646Р</span></p></td>
+				<td width="10%"><p align="center"><span style="font-size: 10pt;">Р­Р‘1-808Р</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">Поверхность нагрева, м<sup>2</span></p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">РџРѕРІРµСЂС…РЅРѕСЃС‚СЊ РЅР°РіСЂРµРІР°, Рј<sup>2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">94,4</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">141,6</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">201,6</span></p></td>
@@ -66,7 +66,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">808,0</span></p></td>
       </tr>
       <tr>
-      	<td width="20%"><p><span style="font-size: 10pt;">Число колонок</p></td>
+      	<td width="20%"><p><span style="font-size: 10pt;">Р§РёСЃР»Рѕ РєРѕР»РѕРЅРѕРє</p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
@@ -77,7 +77,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1</span></p></td>
       </tr>
       <tr>      	
-        <td width="20%"><p><span style="font-size: 10pt;">Длина экомайзерной трубы, м</span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">Р”Р»РёРЅР° СЌРєРѕРјР°Р№Р·РµСЂРЅРѕР№ С‚СЂСѓР±С‹, Рј</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
@@ -88,7 +88,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">3</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">t воды, мин. <sup>o</sup>С вх/вых</span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">t РІРѕРґС‹, РјРёРЅ. <sup>o</sup>РЎ РІС…/РІС‹С…</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">100/140</span></p></td>
@@ -99,7 +99,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">100/160</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">Номинальный расход воды, т/ч</span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">РќРѕРјРёРЅР°Р»СЊРЅС‹Р№ СЂР°СЃС…РѕРґ РІРѕРґС‹, С‚/С‡</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">4,4</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">7,15</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">7,15</span></p></td>
@@ -110,7 +110,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">27,5</span></p></td>
       </tr>
       <tr>
-        <td width="20%"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td width="20%"><p><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">4000</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">5290</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">7200</span></p></td>
@@ -121,10 +121,10 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">24700</span></p></td>
       </tr>
       <tr>
-      	<td colspan="9" width="100%"><p><span style="font-size: 10pt;">Импульсная камера</span></p></td>
+      	<td colspan="9" width="100%"><p><span style="font-size: 10pt;">РРјРїСѓР»СЊСЃРЅР°СЏ РєР°РјРµСЂР°</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;диаметр, мм</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РґРёР°РјРµС‚СЂ, РјРј</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">159</span></p></td>
@@ -135,7 +135,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">219</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Кол-во</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РљРѕР»-РІРѕ</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
@@ -146,10 +146,10 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2</span></p></td>
       </tr>
       <tr>
-        <td colspan="9" width="100%"><p><span style="font-size: 10pt;">Тип короба (рекомендуемый)</span></p></td>
+        <td colspan="9" width="100%"><p><span style="font-size: 10pt;">РўРёРї РєРѕСЂРѕР±Р° (СЂРµРєРѕРјРµРЅРґСѓРµРјС‹Р№)</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;топливо-газ,мазут</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С‚РѕРїР»РёРІРѕ-РіР°Р·,РјР°Р·СѓС‚</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">01</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">02</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">03</span></p></td>
@@ -160,7 +160,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;топливо-кам.уголь</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С‚РѕРїР»РёРІРѕ-РєР°Рј.СѓРіРѕР»СЊ</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">04</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">05</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">06</span></p></td>
@@ -171,10 +171,10 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">-</span></p></td>
       </tr>
       <tr>
-        <td colspan="9" width="100%"><p><span style="font-size: 10pt;">Габариты (без имп.камеры и короба)</span></p></td>
+        <td colspan="9" width="100%"><p><span style="font-size: 10pt;">Р“Р°Р±Р°СЂРёС‚С‹ (Р±РµР· РёРјРї.РєР°РјРµСЂС‹ Рё РєРѕСЂРѕР±Р°)</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;длина</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РґР»РёРЅР°</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">2530</span></p></td>
@@ -185,7 +185,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">3530</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ширина</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С€РёСЂРёРЅР°</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">870</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1180</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1485</span></p></td>
@@ -196,7 +196,7 @@
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1620</span></p></td>
       </tr>
       <tr>
-        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;высота</span></p></td>
+        <td width="20%" <p><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;РІС‹СЃРѕС‚Р°</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>
         <td width="10%"><p align="center"><span style="font-size: 10pt;">1970</span></p></td>

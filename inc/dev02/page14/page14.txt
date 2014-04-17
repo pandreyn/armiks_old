@@ -1,46 +1,46 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватели мазута  ПМ 25-6; ПМР 64-15; ПМР 64-30; ПМР 13-60 и др.</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РјР°Р·СѓС‚Р°  РџРњ 25-6; РџРњР  64-15; РџРњР  64-30; РџРњР  13-60 Рё РґСЂ.</span></p>
 
 <p align="center"><img  style="width: 450px; height: 253px;" src="pics/clip_image011.jpg"
-	alt="Подогреватель мазута ПМР 64-60"></p>
+	alt="РџРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РјР°Р·СѓС‚Р° РџРњР  64-60"></p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Подогреватели мазута предназначены для подогрева промышленного мазута перед подачей его в
-	форсунки горелок котлоагрегатов, устанавливаемых в системах мазутоподготовки стационарных котельных. <br>
+	РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РјР°Р·СѓС‚Р° РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РїРѕРґРѕРіСЂРµРІР° РїСЂРѕРјС‹С€Р»РµРЅРЅРѕРіРѕ РјР°Р·СѓС‚Р° РїРµСЂРµРґ РїРѕРґР°С‡РµР№ РµРіРѕ РІ
+	С„РѕСЂСЃСѓРЅРєРё РіРѕСЂРµР»РѕРє РєРѕС‚Р»РѕР°РіСЂРµРіР°С‚РѕРІ, СѓСЃС‚Р°РЅР°РІР»РёРІР°РµРјС‹С… РІ СЃРёСЃС‚РµРјР°С… РјР°Р·СѓС‚РѕРїРѕРґРіРѕС‚РѕРІРєРё СЃС‚Р°С†РёРѕРЅР°СЂРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С…. <br>
 	nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Подогреватель мазута представляет собой горизонтальный аппарат, состоящий из корпуса, трубной системы
-	жесткой конструкции и 2-х крышек - передней и задней. В трубках движется мазут, в межтрубном пространстве - пар.</p>
+	РџРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РјР°Р·СѓС‚Р° РїСЂРµРґСЃС‚Р°РІР»СЏРµС‚ СЃРѕР±РѕР№ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Р№ Р°РїРїР°СЂР°С‚, СЃРѕСЃС‚РѕСЏС‰РёР№ РёР· РєРѕСЂРїСѓСЃР°, С‚СЂСѓР±РЅРѕР№ СЃРёСЃС‚РµРјС‹
+	Р¶РµСЃС‚РєРѕР№ РєРѕРЅСЃС‚СЂСѓРєС†РёРё Рё 2-С… РєСЂС‹С€РµРє - РїРµСЂРµРґРЅРµР№ Рё Р·Р°РґРЅРµР№. Р’ С‚СЂСѓР±РєР°С… РґРІРёР¶РµС‚СЃСЏ РјР°Р·СѓС‚, РІ РјРµР¶С‚СЂСѓР±РЅРѕРј РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРµ - РїР°СЂ.</p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Подогреватели типа ПМ - горизонтальные аппараты с прямыми гладкими трубками или с U-образными
-	трубками. </p>
+	РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё С‚РёРїР° РџРњ - РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅС‹Рµ Р°РїРїР°СЂР°С‚С‹ СЃ РїСЂСЏРјС‹РјРё РіР»Р°РґРєРёРјРё С‚СЂСѓР±РєР°РјРё РёР»Рё СЃ U-РѕР±СЂР°Р·РЅС‹РјРё
+	С‚СЂСѓР±РєР°РјРё. </p>
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Подогреватели типа ПМР - кожухотрубные аппараты с оребренными трубками. </p>
+	РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё С‚РёРїР° РџРњР  - РєРѕР¶СѓС…РѕС‚СЂСѓР±РЅС‹Рµ Р°РїРїР°СЂР°С‚С‹ СЃ РѕСЂРµР±СЂРµРЅРЅС‹РјРё С‚СЂСѓР±РєР°РјРё. </p>
 <br>
 
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0" width="90%">
 		<tbody>
 			<tr>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Обозна-чение</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">P мазута, МПа</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Расход мазута, т/ч</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Площадь теплообм., м<sup>2</sup></span></p></td>
-				<td colspan="2"><p align="center"><span style="font-size: 10pt;">t мазута, <sup>o</sup>С</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">t<br>пара, <sup>o</sup>С</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">P пара, МПа</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">D нар., мм</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Длина,<br>мм</span></p></td>
-				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°-С‡РµРЅРёРµ</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">P РјР°Р·СѓС‚Р°, РњРџР°</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Р Р°СЃС…РѕРґ РјР°Р·СѓС‚Р°, С‚/С‡</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">РџР»РѕС‰Р°РґСЊ С‚РµРїР»РѕРѕР±Рј., Рј<sup>2</sup></span></p></td>
+				<td colspan="2"><p align="center"><span style="font-size: 10pt;">t РјР°Р·СѓС‚Р°, <sup>o</sup>РЎ</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">t<br>РїР°СЂР°, <sup>o</sup>РЎ</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">P РїР°СЂР°, РњРџР°</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">D РЅР°СЂ., РјРј</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">Р”Р»РёРЅР°,<br>РјРј</span></p></td>
+				<td rowspan="2"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
 			</tr>
 			<tr>
-				<td><p align="center"><span style="font-size: 10pt;">на входе</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">на выходе</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">РЅР° РІС…РѕРґРµ</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РЅР° РІС‹С…РѕРґРµ</span></p></td>
       </tr>
       <tr>
-        <td><p><span style="font-size: 10pt;">ПМ-25-6</span></p></td>
+        <td><p><span style="font-size: 10pt;">РџРњ-25-6</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">2,5</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">6</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">13,5</span></p></td>
@@ -53,7 +53,7 @@
         <td><p align="center"><span style="font-size: 10pt;">666</span></p></td>
       </tr>
       <tr>
-        <td><p><span style="font-size: 10pt;">ПМ-40-15</span></p></td>
+        <td><p><span style="font-size: 10pt;">РџРњ-40-15</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">4,0</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">30</span></p></td>
@@ -66,7 +66,7 @@
         <td><p align="center"><span style="font-size: 10pt;">1921</span></p></td>
       </tr>
       <tr>
-        <td><p><span style="font-size: 10pt;">ПМ-40-30</span></p></td>
+        <td><p><span style="font-size: 10pt;">РџРњ-40-30</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">4,0</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">30</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">100</span></p></td>
@@ -79,7 +79,7 @@
         <td><p align="center"><span style="font-size: 10pt;">5006</span></p></td>
       </tr>
       <tr>
-	       <td><p><span style="font-size: 10pt;">ПМ-10-60</span></p></td>
+	       <td><p><span style="font-size: 10pt;">РџРњ-10-60</span></p></td>
 	       <td><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
 	       <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
 	       <td><p align="center"><span style="font-size: 10pt;">200</span></p></td>
@@ -92,7 +92,7 @@
 	       <td><p align="center"><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></p></td>
       </tr>
       <tr>
-          <td><p><span style="font-size: 10pt;">ПМР-64-15</span></p></td>
+          <td><p><span style="font-size: 10pt;">РџРњР -64-15</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">6,4</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">15</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">44</span></p></td>
@@ -105,7 +105,7 @@
           <td><p align="center"><span style="font-size: 10pt;">1721</span></p></td>
       </tr>
       <tr>
-          <td><p><span style="font-size: 10pt;">ПМР-64-30</span></p></td>
+          <td><p><span style="font-size: 10pt;">РџРњР -64-30</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">6,4</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">30</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">88</span></p></td>
@@ -118,7 +118,7 @@
           <td><p align="center"><span style="font-size: 10pt;">3510</span></p></td>
         </tr>
         <tr>
-          <td><p><span style="font-size: 10pt;">ПМР-64-60</span></p></td>
+          <td><p><span style="font-size: 10pt;">РџРњР -64-60</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">6,4</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">190</span></p></td>
@@ -131,7 +131,7 @@
           <td><p align="center"><span style="font-size: 10pt;">5952</span></p></td>
         </tr>
         <tr>
-          <td><p><span style="font-size: 10pt;">ПМР-13-60</span></p></td>
+          <td><p><span style="font-size: 10pt;">РџРњР -13-60</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">60</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">190</span></p></td>
@@ -144,7 +144,7 @@
           <td><p align="center"><span style="font-size: 10pt;">4365</span></p></td>
         </tr>
         <tr>
-          <td><p><span style="font-size: 10pt;">ПМР-13-120</span></p></td>
+          <td><p><span style="font-size: 10pt;">РџРњР -13-120</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">120</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">370</span></p></td>
@@ -157,7 +157,7 @@
           <td><p align="center"><span style="font-size: 10pt;">8571</span></p></td>
         </tr>
         <tr>
-          <td><p><span style="font-size: 10pt;">ПМР-13-240</span></p></td>
+          <td><p><span style="font-size: 10pt;">РџРњР -13-240</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">1,3</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">240</span></p></td>
           <td><p align="center"><span style="font-size: 10pt;">765</span></p></td>

@@ -28,4 +28,3 @@ include ("config/header.inc");
    }
 
 include ("config/footer.inc");
-?>

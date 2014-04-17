@@ -1,20 +1,20 @@
 <p class="MsoNormal" style="text-align: center;" align="center"><b><span
- style="color: rgb(255, 0, 0);">КЛАПАН
-ЗАПОРНЫЙ
-СОЛЕНОИДНЫЙ СЕРИИ ЗСК</span><o:p></o:p></b></p>
+ style="color: rgb(255, 0, 0);">РљР›РђРџРђРќ
+Р—РђРџРћР РќР«Р™
+РЎРћР›Р•РќРћРР”РќР«Р™ РЎР•Р РР Р—РЎРљ</span><o:p></o:p></b></p>
       <p class="MsoNormal"><b><o:p>&nbsp;</o:p></b></p>
       <p class="MsoNormal" style="text-align: center;" align="center"><img
  style="width: 200px; height: 194px;" src="pics/clip_image014.jpg"
- alt="Клапан запорный соленоидный ЗСК" v:shapes="_x0000_s1026"
+ alt="РљР»Р°РїР°РЅ Р·Р°РїРѕСЂРЅС‹Р№ СЃРѕР»РµРЅРѕРёРґРЅС‹Р№ Р—РЎРљ" v:shapes="_x0000_s1026"
  align="left" hspace="1"></p>
       <p class="MsoNormal" style="text-align: center;" align="center"><o:p>&nbsp;</o:p></p>
       <p class="MsoNormal"><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span>Клапаны
-запорные соленоидные серии ЗСК предназначены для автоматического
-прекращения
-подачи мазута, пара или воды в схемах блокировки различных
-технологических
-процессов. </p>
+      </span>РљР»Р°РїР°РЅС‹
+Р·Р°РїРѕСЂРЅС‹Рµ СЃРѕР»РµРЅРѕРёРґРЅС‹Рµ СЃРµСЂРёРё Р—РЎРљ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕРіРѕ
+РїСЂРµРєСЂР°С‰РµРЅРёСЏ
+РїРѕРґР°С‡Рё РјР°Р·СѓС‚Р°, РїР°СЂР° РёР»Рё РІРѕРґС‹ РІ СЃС…РµРјР°С… Р±Р»РѕРєРёСЂРѕРІРєРё СЂР°Р·Р»РёС‡РЅС‹С…
+С‚РµС…РЅРѕР»РѕРіРёС‡РµСЃРєРёС…
+РїСЂРѕС†РµСЃСЃРѕРІ. </p>
       <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
       <p style="margin: 0cm 0cm 0.0001pt;"><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </span><span style="">&nbsp;&nbsp;&nbsp; </span></p>
@@ -24,8 +24,8 @@
       <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
       <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
       <p style="margin: 0cm 0cm 0.0001pt;"><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span><span style="">&nbsp;&nbsp;&nbsp; </span><span style="">&nbsp;&nbsp;</span>Основные
-параметры и технические характеристики</p>
+      </span><span style="">&nbsp;&nbsp;&nbsp; </span><span style="">&nbsp;&nbsp;</span>РћСЃРЅРѕРІРЅС‹Рµ
+РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
       <p style="margin: 0cm 0cm 0.0001pt;"><o:p>&nbsp;</o:p></p>
       <div align="center">
       <table class="MsoNormalTable"
@@ -37,21 +37,21 @@
  style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">Показатели<o:p></o:p></span></p>
+ align="center"><span style="font-size: 10pt;">РџРѕРєР°Р·Р°С‚РµР»Рё<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
  width="19%">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">Значение<o:p></o:p></span></p>
+ align="center"><span style="font-size: 10pt;">Р—РЅР°С‡РµРЅРёРµ<o:p></o:p></span></p>
             </td>
           </tr>
           <tr style="height: 17pt;">
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
-            <p class="MsoNormal"><span style="font-size: 10pt;">Напряжение
-срабатывания переменного тока частоты 50-60 Гц, В<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">РќР°РїСЂСЏР¶РµРЅРёРµ
+СЃСЂР°Р±Р°С‚С‹РІР°РЅРёСЏ РїРµСЂРµРјРµРЅРЅРѕРіРѕ С‚РѕРєР° С‡Р°СЃС‚РѕС‚С‹ 50-60 Р“С†, Р’<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
@@ -64,11 +64,11 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
-            <p class="MsoNormal"><span style="font-size: 10pt;">Диаметр
-условного прохода Dу, мм:<br>
-&nbsp; - ЗСК-15<br>
-&nbsp; - ЗСК-25<br>
-&nbsp; - ЗСК-32<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ
+СѓСЃР»РѕРІРЅРѕРіРѕ РїСЂРѕС…РѕРґР° DСѓ, РјРј:<br>
+&nbsp; - Р—РЎРљ-15<br>
+&nbsp; - Р—РЎРљ-25<br>
+&nbsp; - Р—РЎРљ-32<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
@@ -84,8 +84,8 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
-            <p class="MsoNormal"><span style="font-size: 10pt;">Максимальное
-давление рабочей среды, МПа )кгс/см<sup>2</sup>)<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ
+РґР°РІР»РµРЅРёРµ СЂР°Р±РѕС‡РµР№ СЃСЂРµРґС‹, РњРџР° )РєРіСЃ/СЃРј<sup>2</sup>)<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
@@ -98,8 +98,8 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
-            <p class="MsoNormal"><span style="font-size: 10pt;">Максимальная
-температура рабочей среды, °С<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">РњР°РєСЃРёРјР°Р»СЊРЅР°СЏ
+С‚РµРјРїРµСЂР°С‚СѓСЂР° СЂР°Р±РѕС‡РµР№ СЃСЂРµРґС‹, В°РЎ<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
@@ -112,27 +112,27 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
-            <p class="MsoNormal"><span style="font-size: 10pt;">Присоединение<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">РџСЂРёСЃРѕРµРґРёРЅРµРЅРёРµ<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
  width="19%">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">фланцевое<o:p></o:p></span></p>
+ align="center"><span style="font-size: 10pt;">С„Р»Р°РЅС†РµРІРѕРµ<o:p></o:p></span></p>
             </td>
           </tr>
           <tr style="height: 17pt;">
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 80.64%; height: 17pt;"
  width="80%">
-            <p class="MsoNormal"><span style="font-size: 10pt;">Материал
-корпуса<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">РњР°С‚РµСЂРёР°Р»
+РєРѕСЂРїСѓСЃР°<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 19.36%; height: 17pt;"
  width="19%">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">чугун<o:p></o:p></span></p>
+ align="center"><span style="font-size: 10pt;">С‡СѓРіСѓРЅ<o:p></o:p></span></p>
             </td>
           </tr>
         </tbody>
@@ -144,55 +144,55 @@
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p>&nbsp;</o:p></span></span></p>
       <p class="MsoNormal" style="text-align: center;" align="center"><img
  style="width: 390px; height: 420px;" src="pics/clip_image015.jpg"
- alt="Клапан запорный соленоидный ЗСК - структурная схема"
+ alt="РљР»Р°РїР°РЅ Р·Р°РїРѕСЂРЅС‹Р№ СЃРѕР»РµРЅРѕРёРґРЅС‹Р№ Р—РЎРљ - СЃС‚СЂСѓРєС‚СѓСЂРЅР°СЏ СЃС…РµРјР°"
  v:shapes="_x0000_i1025"><span class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p></o:p></span></span></p>
       <p class="MsoNormal"><span class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext;"><span
  style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span></span></span>Клапан запорный
-соленоидный ЗСК состоит из двух основных узлов: электромагнитного
-привода и
-клапана. <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Вентиль
-      <span style="">1</span> клапана соединен с электромагнитным
-приводом <span style="">2</span> посредством штампованной
-рамки <span style="">3</span>. При подаче питания на
-электромагнит втягивается его якорь, сжимая пружину <span style="">4</span>.
-Под действием пружины <span style="">5</span>
-взводится курок <span style="">6</span> который
-захватывает за валик 7 предварительно поднятый рычаг. При этом
-золотник,
-соединенный штоком <span style="">9</span> с рычагом,
-поднимается и открывает проход клапана.<br>
+      </span></span></span>РљР»Р°РїР°РЅ Р·Р°РїРѕСЂРЅС‹Р№
+СЃРѕР»РµРЅРѕРёРґРЅС‹Р№ Р—РЎРљ СЃРѕСЃС‚РѕРёС‚ РёР· РґРІСѓС… РѕСЃРЅРѕРІРЅС‹С… СѓР·Р»РѕРІ: СЌР»РµРєС‚СЂРѕРјР°РіРЅРёС‚РЅРѕРіРѕ
+РїСЂРёРІРѕРґР° Рё
+РєР»Р°РїР°РЅР°. <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Р’РµРЅС‚РёР»СЊ
+      <span style="">1</span> РєР»Р°РїР°РЅР° СЃРѕРµРґРёРЅРµРЅ СЃ СЌР»РµРєС‚СЂРѕРјР°РіРЅРёС‚РЅС‹Рј
+РїСЂРёРІРѕРґРѕРј <span style="">2</span> РїРѕСЃСЂРµРґСЃС‚РІРѕРј С€С‚Р°РјРїРѕРІР°РЅРЅРѕР№
+СЂР°РјРєРё <span style="">3</span>. РџСЂРё РїРѕРґР°С‡Рµ РїРёС‚Р°РЅРёСЏ РЅР°
+СЌР»РµРєС‚СЂРѕРјР°РіРЅРёС‚ РІС‚СЏРіРёРІР°РµС‚СЃСЏ РµРіРѕ СЏРєРѕСЂСЊ, СЃР¶РёРјР°СЏ РїСЂСѓР¶РёРЅСѓ <span style="">4</span>.
+РџРѕРґ РґРµР№СЃС‚РІРёРµРј РїСЂСѓР¶РёРЅС‹ <span style="">5</span>
+РІР·РІРѕРґРёС‚СЃСЏ РєСѓСЂРѕРє <span style="">6</span> РєРѕС‚РѕСЂС‹Р№
+Р·Р°С…РІР°С‚С‹РІР°РµС‚ Р·Р° РІР°Р»РёРє 7 РїСЂРµРґРІР°СЂРёС‚РµР»СЊРЅРѕ РїРѕРґРЅСЏС‚С‹Р№ СЂС‹С‡Р°Рі. РџСЂРё СЌС‚РѕРј
+Р·РѕР»РѕС‚РЅРёРє,
+СЃРѕРµРґРёРЅРµРЅРЅС‹Р№ С€С‚РѕРєРѕРј <span style="">9</span> СЃ СЂС‹С‡Р°РіРѕРј,
+РїРѕРґРЅРёРјР°РµС‚СЃСЏ Рё РѕС‚РєСЂС‹РІР°РµС‚ РїСЂРѕС…РѕРґ РєР»Р°РїР°РЅР°.<br>
       <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span>Клапаны применяются вместе с
-электрическим датчиком, который при аварийном состоянии процесса
-обесточивает электромагнит.
-При обесточивании электромагнита, якорь, перемещаясь под действием
-пружины <span style="">4</span>, выводит из зацепления курок <span
- style="">6</span> с рычагом <span style="">8</span>. Шток вместе с
-золотником под действием пружины <span style="">10</span> перемещается
-вниз и перекрывает
-проход клапана.<br>
+      </span>РљР»Р°РїР°РЅС‹ РїСЂРёРјРµРЅСЏСЋС‚СЃСЏ РІРјРµСЃС‚Рµ СЃ
+СЌР»РµРєС‚СЂРёС‡РµСЃРєРёРј РґР°С‚С‡РёРєРѕРј, РєРѕС‚РѕСЂС‹Р№ РїСЂРё Р°РІР°СЂРёР№РЅРѕРј СЃРѕСЃС‚РѕСЏРЅРёРё РїСЂРѕС†РµСЃСЃР°
+РѕР±РµСЃС‚РѕС‡РёРІР°РµС‚ СЌР»РµРєС‚СЂРѕРјР°РіРЅРёС‚.
+РџСЂРё РѕР±РµСЃС‚РѕС‡РёРІР°РЅРёРё СЌР»РµРєС‚СЂРѕРјР°РіРЅРёС‚Р°, СЏРєРѕСЂСЊ, РїРµСЂРµРјРµС‰Р°СЏСЃСЊ РїРѕРґ РґРµР№СЃС‚РІРёРµРј
+РїСЂСѓР¶РёРЅС‹ <span style="">4</span>, РІС‹РІРѕРґРёС‚ РёР· Р·Р°С†РµРїР»РµРЅРёСЏ РєСѓСЂРѕРє <span
+ style="">6</span> СЃ СЂС‹С‡Р°РіРѕРј <span style="">8</span>. РЁС‚РѕРє РІРјРµСЃС‚Рµ СЃ
+Р·РѕР»РѕС‚РЅРёРєРѕРј РїРѕРґ РґРµР№СЃС‚РІРёРµРј РїСЂСѓР¶РёРЅС‹ <span style="">10</span> РїРµСЂРµРјРµС‰Р°РµС‚СЃСЏ
+РІРЅРёР· Рё РїРµСЂРµРєСЂС‹РІР°РµС‚
+РїСЂРѕС…РѕРґ РєР»Р°РїР°РЅР°.<br>
       <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span>Закрытие клапана происходит
-автоматически при разрыве цепи питания, открытие клапана производят
-рычагом
-вручную. Корпус электромагнитного привода снабжен заземляющим винтом <span
+      </span>Р—Р°РєСЂС‹С‚РёРµ РєР»Р°РїР°РЅР° РїСЂРѕРёСЃС…РѕРґРёС‚
+Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РїСЂРё СЂР°Р·СЂС‹РІРµ С†РµРїРё РїРёС‚Р°РЅРёСЏ, РѕС‚РєСЂС‹С‚РёРµ РєР»Р°РїР°РЅР° РїСЂРѕРёР·РІРѕРґСЏС‚
+СЂС‹С‡Р°РіРѕРј
+РІСЂСѓС‡РЅСѓСЋ. РљРѕСЂРїСѓСЃ СЌР»РµРєС‚СЂРѕРјР°РіРЅРёС‚РЅРѕРіРѕ РїСЂРёРІРѕРґР° СЃРЅР°Р±Р¶РµРЅ Р·Р°Р·РµРјР»СЏСЋС‰РёРј РІРёРЅС‚РѕРј <span
  style="">11</span>.<br>
       <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span>Конструкция токовыводов
-предусматривает возможность присоединения двух алюминиевых или медных
-проводов
-сечением не менее 1,5 мм<sup>2</sup>.</p>
+      </span>РљРѕРЅСЃС‚СЂСѓРєС†РёСЏ С‚РѕРєРѕРІС‹РІРѕРґРѕРІ
+РїСЂРµРґСѓСЃРјР°С‚СЂРёРІР°РµС‚ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РїСЂРёСЃРѕРµРґРёРЅРµРЅРёСЏ РґРІСѓС… Р°Р»СЋРјРёРЅРёРµРІС‹С… РёР»Рё РјРµРґРЅС‹С…
+РїСЂРѕРІРѕРґРѕРІ
+СЃРµС‡РµРЅРёРµРј РЅРµ РјРµРЅРµРµ 1,5 РјРј<sup>2</sup>.</p>
       <p class="MsoNormal"><span class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p>&nbsp;</o:p></span></span></p>
       <p class="MsoNormal"><span class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><span
  style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Присоединительные
-и габаритные размеры
-клапанов ЗСК :<o:p></o:p></span></span></p>
+      </span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>РџСЂРёСЃРѕРµРґРёРЅРёС‚РµР»СЊРЅС‹Рµ
+Рё РіР°Р±Р°СЂРёС‚РЅС‹Рµ СЂР°Р·РјРµСЂС‹
+РєР»Р°РїР°РЅРѕРІ Р—РЎРљ :<o:p></o:p></span></span></p>
       <p class="MsoNormal"><span class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p>&nbsp;</o:p></span></span></p>
       <div align="center">
@@ -205,13 +205,13 @@
  style="border: 1pt solid windowtext; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
  width="81">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">Тип<o:p></o:p></span></p>
+ align="center"><span style="font-size: 10pt;">РўРёРї<o:p></o:p></span></p>
             </td>
             <td colspan="7"
  style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 298.35pt; height: 17pt;"
  width="398">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">Размер, мм</span><span
+ align="center"><span style="font-size: 10pt;">Р Р°Р·РјРµСЂ, РјРј</span><span
  class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p></o:p></span></span></p>
             </td>
@@ -219,7 +219,7 @@
  style="border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; border-width: 1pt 1pt 1pt medium; padding: 0cm 5.4pt; width: 61.05pt; height: 17pt;"
  width="81">
             <p class="MsoNormal" style="text-align: center;"
- align="center"><span style="font-size: 10pt;">Масса, кг</span><span
+ align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span><span
  class="textpic1"><span
  style="font-family: &quot;Times New Roman&quot;; color: windowtext; font-weight: normal;"><o:p></o:p></span></span></p>
             </td>
@@ -279,7 +279,7 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
  width="81">
-            <p class="MsoNormal"><span style="font-size: 10pt;">ЗСК-15<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">Р—РЎРљ-15<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"
@@ -334,7 +334,7 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
  width="81">
-            <p class="MsoNormal"><span style="font-size: 10pt;">ЗСК-25<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">Р—РЎРљ-25<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"
@@ -389,7 +389,7 @@
             <td
  style="border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; border-width: medium 1pt 1pt; padding: 0cm 5.4pt; width: 61pt; height: 17pt;"
  width="81">
-            <p class="MsoNormal"><span style="font-size: 10pt;">ЗСК-32<o:p></o:p></span></p>
+            <p class="MsoNormal"><span style="font-size: 10pt;">Р—РЎРљ-32<o:p></o:p></span></p>
             </td>
             <td
  style="border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; border-width: medium 1pt 1pt medium; padding: 0cm 5.4pt; width: 43.05pt; height: 17pt;"

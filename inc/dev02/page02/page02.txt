@@ -1,40 +1,40 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Фильтры осветлительные ФОВ</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Р¤РёР»СЊС‚СЂС‹ РѕСЃРІРµС‚Р»РёС‚РµР»СЊРЅС‹Рµ Р¤РћР’</span></p>
 
-<p align="center"><span style="font-size: 16pt;">Фильтры осветлительные вертикальные однокамерные ФОВ</span></p>
+<p align="center"><span style="font-size: 16pt;">Р¤РёР»СЊС‚СЂС‹ РѕСЃРІРµС‚Р»РёС‚РµР»СЊРЅС‹Рµ РІРµСЂС‚РёРєР°Р»СЊРЅС‹Рµ РѕРґРЅРѕРєР°РјРµСЂРЅС‹Рµ Р¤РћР’</span></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Осветлительные фильтры предназначены для удаления из воды взвешенных примесей разной
-	степени дисперсности и широко применяются в схемах водоподготовительных установок электростанций,
-	промышленных и отопительных котельных. Осветление воды происходит в результате прилипания к
-	зернам фильтрующего материала грубодисперсных примесей воды, которые задерживаются на
-	поверхности и в порах фильтрующего материала. В качестве фильтрующих материалов применяются 
-	дробленый антрацит, кварцевый песок, мраморная крошка и другие, обладающие необходимой химической 
-	стойкостью и прочностью (измельчаемостью не более 4%, истираемостью не более 0,5%).</p>
+	РћСЃРІРµС‚Р»РёС‚РµР»СЊРЅС‹Рµ С„РёР»СЊС‚СЂС‹ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ СѓРґР°Р»РµРЅРёСЏ РёР· РІРѕРґС‹ РІР·РІРµС€РµРЅРЅС‹С… РїСЂРёРјРµСЃРµР№ СЂР°Р·РЅРѕР№
+	СЃС‚РµРїРµРЅРё РґРёСЃРїРµСЂСЃРЅРѕСЃС‚Рё Рё С€РёСЂРѕРєРѕ РїСЂРёРјРµРЅСЏСЋС‚СЃСЏ РІ СЃС…РµРјР°С… РІРѕРґРѕРїРѕРґРіРѕС‚РѕРІРёС‚РµР»СЊРЅС‹С… СѓСЃС‚Р°РЅРѕРІРѕРє СЌР»РµРєС‚СЂРѕСЃС‚Р°РЅС†РёР№,
+	РїСЂРѕРјС‹С€Р»РµРЅРЅС‹С… Рё РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С…. РћСЃРІРµС‚Р»РµРЅРёРµ РІРѕРґС‹ РїСЂРѕРёСЃС…РѕРґРёС‚ РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ РїСЂРёР»РёРїР°РЅРёСЏ Рє
+	Р·РµСЂРЅР°Рј С„РёР»СЊС‚СЂСѓСЋС‰РµРіРѕ РјР°С‚РµСЂРёР°Р»Р° РіСЂСѓР±РѕРґРёСЃРїРµСЂСЃРЅС‹С… РїСЂРёРјРµСЃРµР№ РІРѕРґС‹, РєРѕС‚РѕСЂС‹Рµ Р·Р°РґРµСЂР¶РёРІР°СЋС‚СЃСЏ РЅР°
+	РїРѕРІРµСЂС…РЅРѕСЃС‚Рё Рё РІ РїРѕСЂР°С… С„РёР»СЊС‚СЂСѓСЋС‰РµРіРѕ РјР°С‚РµСЂРёР°Р»Р°. Р’ РєР°С‡РµСЃС‚РІРµ С„РёР»СЊС‚СЂСѓСЋС‰РёС… РјР°С‚РµСЂРёР°Р»РѕРІ РїСЂРёРјРµРЅСЏСЋС‚СЃСЏ 
+	РґСЂРѕР±Р»РµРЅС‹Р№ Р°РЅС‚СЂР°С†РёС‚, РєРІР°СЂС†РµРІС‹Р№ РїРµСЃРѕРє, РјСЂР°РјРѕСЂРЅР°СЏ РєСЂРѕС€РєР° Рё РґСЂСѓРіРёРµ, РѕР±Р»Р°РґР°СЋС‰РёРµ РЅРµРѕР±С…РѕРґРёРјРѕР№ С…РёРјРёС‡РµСЃРєРѕР№ 
+	СЃС‚РѕР№РєРѕСЃС‚СЊСЋ Рё РїСЂРѕС‡РЅРѕСЃС‚СЊСЋ (РёР·РјРµР»СЊС‡Р°РµРјРѕСЃС‚СЊСЋ РЅРµ Р±РѕР»РµРµ 4%, РёСЃС‚РёСЂР°РµРјРѕСЃС‚СЊСЋ РЅРµ Р±РѕР»РµРµ 0,5%).</p>
 
 <div align="center">
 <p><img style="width: 154px; height: 260px;" src="pics/clip_image004.gif" 
-	alt="Фильтры осветлительные вертикальные однокамерные ФОВ">
+	alt="Р¤РёР»СЊС‚СЂС‹ РѕСЃРІРµС‚Р»РёС‚РµР»СЊРЅС‹Рµ РІРµСЂС‚РёРєР°Р»СЊРЅС‹Рµ РѕРґРЅРѕРєР°РјРµСЂРЅС‹Рµ Р¤РћР’">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img  style="width: 133px; height: 260px;" src="pics/clip_image005.gif" 
-	alt="Фильтры осветлительные вертикальные однокамерные ФОВ"></p>
+	alt="Р¤РёР»СЊС‚СЂС‹ РѕСЃРІРµС‚Р»РёС‚РµР»СЊРЅС‹Рµ РІРµСЂС‚РёРєР°Р»СЊРЅС‹Рµ РѕРґРЅРѕРєР°РјРµСЂРЅС‹Рµ Р¤РћР’"></p>
 	
 
-	<p>Основные параметры и технические характеристики:</p>	
+	<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё:</p>	
   <table border="1" cellpadding="0" cellspacing="0" width="100%">
   	<tbody>
     	<tr>
-      	<td width="16%"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
-        <td width="14%"><p align="center"><span style="font-size: 10pt;">Производи-<br>тельность,<br>м<sup>3</sup>/ч</span></p></td>
-        <td width="11%"><p align="center"><span style="font-size: 10pt;">Рабочее<br>давление,<br>МПа</span></p></td>
-        <td width="14%"><p align="center"><span style="font-size: 10pt;">Условный<br>диаметр<br>фильтра, мм</span></p></td>
-        <td width="16%"><p align="center"><span style="font-size: 10pt;">Высота<br>фильтрующей<br>загрузки, мм,<br>не более</span></p></td>
-        <td width="13%"><p align="center"><span style="font-size: 10pt;">Высота фильтра, мм</span></p> </td>
-        <td width="13%"><p align="center"><span style="font-size: 10pt;">Масса фильтра, кг</span></p></td>
+      	<td width="16%"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">РџСЂРѕРёР·РІРѕРґРё-<br>С‚РµР»СЊРЅРѕСЃС‚СЊ,<br>Рј<sup>3</sup>/С‡</span></p></td>
+        <td width="11%"><p align="center"><span style="font-size: 10pt;">Р Р°Р±РѕС‡РµРµ<br>РґР°РІР»РµРЅРёРµ,<br>РњРџР°</span></p></td>
+        <td width="14%"><p align="center"><span style="font-size: 10pt;">РЈСЃР»РѕРІРЅС‹Р№<br>РґРёР°РјРµС‚СЂ<br>С„РёР»СЊС‚СЂР°, РјРј</span></p></td>
+        <td width="16%"><p align="center"><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р°<br>С„РёР»СЊС‚СЂСѓСЋС‰РµР№<br>Р·Р°РіСЂСѓР·РєРё, РјРј,<br>РЅРµ Р±РѕР»РµРµ</span></p></td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р° С„РёР»СЊС‚СЂР°, РјРј</span></p> </td>
+        <td width="13%"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР° С„РёР»СЊС‚СЂР°, РєРі</span></p></td>
       </tr>
       <tr>
-        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-1,0-0,6</span></p></td>
+        <td width="16%"><p><span style="font-size: 10pt;">Р¤РћР’-1,0-0,6</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
         <td rowspan="5" width="11%"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
@@ -43,7 +43,7 @@
         <td width="13%"><p align="center"><span style="font-size: 10pt;">950</span></p></td>
       </tr>
      <tr>
-        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-1,4-0,6</span></p></td>
+        <td width="16%"><p><span style="font-size: 10pt;">Р¤РћР’-1,4-0,6</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">16</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
         <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
@@ -51,7 +51,7 @@
         <td width="13%"><p align="center"><span style="font-size: 10pt;">1562</span></p></td>
       </tr>
       <tr>
-        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-1,5-0,6</span></p></td>
+        <td width="16%"><p><span style="font-size: 10pt;">Р¤РћР’-1,5-0,6</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">23</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">1600</span></p></td>
         <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
@@ -59,7 +59,7 @@
         <td width="13%"><p align="center"><span style="font-size: 10pt;">1468</span></p></td>
       </tr>
       <tr>
-      	<td width="16%"><p><span style="font-size: 10pt;">ФОВ-2,0-0,6</span></p></td>
+      	<td width="16%"><p><span style="font-size: 10pt;">Р¤РћР’-2,0-0,6</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">30</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
         <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
@@ -67,7 +67,7 @@
         <td width="13%"><p align="center"><span style="font-size: 10pt;">2150</span></p></td>
       </tr>
       <tr>
-        <td width="16%"><p><span style="font-size: 10pt;">ФОВ-2,6-0,6</span></p></td>
+        <td width="16%"><p><span style="font-size: 10pt;">Р¤РћР’-2,6-0,6</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
         <td width="14%"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
         <td width="16%"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>

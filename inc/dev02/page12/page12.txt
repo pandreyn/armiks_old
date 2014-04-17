@@ -1,45 +1,45 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Подогреватели пароводяные (ППВ – 25; Q – 50 т/ч; Q –100 т/ч; Q – 200 т/ч; Q – 400 т/ч)</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІРѕРґСЏРЅС‹Рµ (РџРџР’ вЂ“ 25; Q вЂ“ 50 С‚/С‡; Q вЂ“100 С‚/С‡; Q вЂ“ 200 С‚/С‡; Q вЂ“ 400 С‚/С‡)</span></p>
 
-<p align="center"><span style="font-size: 16pt;">1. Подогреватель пароводяной ППВ-25</span></p>
+<p align="center"><span style="font-size: 16pt;">1. РџРѕРґРѕРіСЂРµРІР°С‚РµР»СЊ РїР°СЂРѕРІРѕРґСЏРЅРѕР№ РџРџР’-25</span></p>
 
 <p align="center"><img style="width: 550px; height: 346px;" src="pics/clip_image014.gif"
-	alt="Схема подогревателя"></p>
+	alt="РЎС…РµРјР° РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ"></p>
 
 	
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Предназначен для подогрева воды, поступающей на химводоочистку в отопительных, отопительно-производственных
-	и производственных котельных. Представляет собой аппарат горизонтального типа, с неподвижными трубными 
-	решетками. Состоит из трубной системы, передней и задней крышек, арматуры и КИП. Греющий пар поступает 
-	в межтрубное пространство, разделенное горизонтальной перегородкой на две части, благодаря чему имеет два
-	хода. Нагреваемая вода движется по трубам трубной системы и за счет перегородок в передней и задней крышках 
-	имеет четыре хода. Коррозионно-стойкие латунные теплообменные трубки повышают надежность работы подогревателя.
-	Указатель уровня жидкости позволяет визуально наблюдать за уровнем конденсата в трубной системе, а 
-	термодинамический конденсатоотводчик служит для постоянного его отвода.</p>
+	РџСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РїРѕРґРѕРіСЂРµРІР° РІРѕРґС‹, РїРѕСЃС‚СѓРїР°СЋС‰РµР№ РЅР° С…РёРјРІРѕРґРѕРѕС‡РёСЃС‚РєСѓ РІ РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С…, РѕС‚РѕРїРёС‚РµР»СЊРЅРѕ-РїСЂРѕРёР·РІРѕРґСЃС‚РІРµРЅРЅС‹С…
+	Рё РїСЂРѕРёР·РІРѕРґСЃС‚РІРµРЅРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С…. РџСЂРµРґСЃС‚Р°РІР»СЏРµС‚ СЃРѕР±РѕР№ Р°РїРїР°СЂР°С‚ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅРѕРіРѕ С‚РёРїР°, СЃ РЅРµРїРѕРґРІРёР¶РЅС‹РјРё С‚СЂСѓР±РЅС‹РјРё 
+	СЂРµС€РµС‚РєР°РјРё. РЎРѕСЃС‚РѕРёС‚ РёР· С‚СЂСѓР±РЅРѕР№ СЃРёСЃС‚РµРјС‹, РїРµСЂРµРґРЅРµР№ Рё Р·Р°РґРЅРµР№ РєСЂС‹С€РµРє, Р°СЂРјР°С‚СѓСЂС‹ Рё РљРРџ. Р“СЂРµСЋС‰РёР№ РїР°СЂ РїРѕСЃС‚СѓРїР°РµС‚ 
+	РІ РјРµР¶С‚СЂСѓР±РЅРѕРµ РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРѕ, СЂР°Р·РґРµР»РµРЅРЅРѕРµ РіРѕСЂРёР·РѕРЅС‚Р°Р»СЊРЅРѕР№ РїРµСЂРµРіРѕСЂРѕРґРєРѕР№ РЅР° РґРІРµ С‡Р°СЃС‚Рё, Р±Р»Р°РіРѕРґР°СЂСЏ С‡РµРјСѓ РёРјРµРµС‚ РґРІР°
+	С…РѕРґР°. РќР°РіСЂРµРІР°РµРјР°СЏ РІРѕРґР° РґРІРёР¶РµС‚СЃСЏ РїРѕ С‚СЂСѓР±Р°Рј С‚СЂСѓР±РЅРѕР№ СЃРёСЃС‚РµРјС‹ Рё Р·Р° СЃС‡РµС‚ РїРµСЂРµРіРѕСЂРѕРґРѕРє РІ РїРµСЂРµРґРЅРµР№ Рё Р·Р°РґРЅРµР№ РєСЂС‹С€РєР°С… 
+	РёРјРµРµС‚ С‡РµС‚С‹СЂРµ С…РѕРґР°. РљРѕСЂСЂРѕР·РёРѕРЅРЅРѕ-СЃС‚РѕР№РєРёРµ Р»Р°С‚СѓРЅРЅС‹Рµ С‚РµРїР»РѕРѕР±РјРµРЅРЅС‹Рµ С‚СЂСѓР±РєРё РїРѕРІС‹С€Р°СЋС‚ РЅР°РґРµР¶РЅРѕСЃС‚СЊ СЂР°Р±РѕС‚С‹ РїРѕРґРѕРіСЂРµРІР°С‚РµР»СЏ.
+	РЈРєР°Р·Р°С‚РµР»СЊ СѓСЂРѕРІРЅСЏ Р¶РёРґРєРѕСЃС‚Рё РїРѕР·РІРѕР»СЏРµС‚ РІРёР·СѓР°Р»СЊРЅРѕ РЅР°Р±Р»СЋРґР°С‚СЊ Р·Р° СѓСЂРѕРІРЅРµРј РєРѕРЅРґРµРЅСЃР°С‚Р° РІ С‚СЂСѓР±РЅРѕР№ СЃРёСЃС‚РµРјРµ, Р° 
+	С‚РµСЂРјРѕРґРёРЅР°РјРёС‡РµСЃРєРёР№ РєРѕРЅРґРµРЅСЃР°С‚РѕРѕС‚РІРѕРґС‡РёРє СЃР»СѓР¶РёС‚ РґР»СЏ РїРѕСЃС‚РѕСЏРЅРЅРѕРіРѕ РµРіРѕ РѕС‚РІРѕРґР°.</p>
 
-<p>Основные параметры и технические характеристики:</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё:</p>
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0" width="95%">
 		<tbody>
 			<tr>
-				<td rowspan="2" width="70"><p align="center"><span style="font-size: 10pt;">Наиме-нование</span></p></td>
-        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">Среда</span></p></td>
-        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">P пар/вода, МПа</span></p></td>
-        <td colspan="2" width="113"><p align="center"><span style="font-size: 10pt;">t&nbsp;среды,&nbsp;°С</span></p></td>
-        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">Поверхн. нагрева, м<sup>2</sup></span></p></td>
-        <td colspan="4" width="227"><p align="center"><span style="font-size: 10pt;">Размеры, мм</span></p></td>
-        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+				<td rowspan="2" width="70"><p align="center"><span style="font-size: 10pt;">РќР°РёРјРµ-РЅРѕРІР°РЅРёРµ</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">РЎСЂРµРґР°</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">P РїР°СЂ/РІРѕРґР°, РњРџР°</span></p></td>
+        <td colspan="2" width="113"><p align="center"><span style="font-size: 10pt;">t&nbsp;СЃСЂРµРґС‹,&nbsp;В°РЎ</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">РџРѕРІРµСЂС…РЅ. РЅР°РіСЂРµРІР°, Рј<sup>2</sup></span></p></td>
+        <td colspan="4" width="227"><p align="center"><span style="font-size: 10pt;">Р Р°Р·РјРµСЂС‹, РјРј</span></p></td>
+        <td rowspan="2" width="57"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
       </tr>
       <tr>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">на&nbsp;вх</span></p></td>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">на&nbsp;вых</span></p></td>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">наруж. диам.</span></p></td>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">длина</span></p></td>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">ширина</span></p></td>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">высота</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">РЅР°&nbsp;РІС…</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">РЅР°&nbsp;РІС‹С…</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">РЅР°СЂСѓР¶. РґРёР°Рј.</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">РґР»РёРЅР°</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">С€РёСЂРёРЅР°</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">РІС‹СЃРѕС‚Р°</span></p></td>
       </tr>
       <tr>
-        <td width="70"><p align="center"><span style="font-size: 10pt;">ППВ-25</span></p></td>
-        <td width="57"><p align="center"><span style="font-size: 10pt;">пар/вода</span></p></td>
+        <td width="70"><p align="center"><span style="font-size: 10pt;">РџРџР’-25</span></p></td>
+        <td width="57"><p align="center"><span style="font-size: 10pt;">РїР°СЂ/РІРѕРґР°</span></p></td>
         <td width="57"><p align="center"><span style="font-size: 10pt;">0,2/0,6</span></p></td>
         <td width="57"><p align="center"><span style="font-size: 10pt;">5</span></p></td>
         <td width="57"><p align="center"><span style="font-size: 10pt;">43</span></p></td>
@@ -55,31 +55,31 @@
 </div>
 
 
-<p align="center"><span style="font-size: 16pt;">2. Подогреватели пароводяные Q=50 т/ч; Q=100 т/ч; Q=200 т/ч; Q=400</span></p>
+<p align="center"><span style="font-size: 16pt;">2. РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІРѕРґСЏРЅС‹Рµ Q=50 С‚/С‡; Q=100 С‚/С‡; Q=200 С‚/С‡; Q=400</span></p>
       
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Подогреватели пароводяные предназначены для нагрева химически очищенной воды за счет использования
-	тепла греющего пара на тепловых электростанциях и котельных.<br>
+	РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІРѕРґСЏРЅС‹Рµ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РЅР°РіСЂРµРІР° С…РёРјРёС‡РµСЃРєРё РѕС‡РёС‰РµРЅРЅРѕР№ РІРѕРґС‹ Р·Р° СЃС‡РµС‚ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ
+	С‚РµРїР»Р° РіСЂРµСЋС‰РµРіРѕ РїР°СЂР° РЅР° С‚РµРїР»РѕРІС‹С… СЌР»РµРєС‚СЂРѕСЃС‚Р°РЅС†РёСЏС… Рё РєРѕС‚РµР»СЊРЅС‹С….<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Подогреватели пароводяные могут также использоваться для нагрева воды на теплоразборных пунктах
-(отопление помещений, нагрев воды в бассейнах, душевых и т.п.).</p>
+	РџРѕРґРѕРіСЂРµРІР°С‚РµР»Рё РїР°СЂРѕРІРѕРґСЏРЅС‹Рµ РјРѕРіСѓС‚ С‚Р°РєР¶Рµ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊСЃСЏ РґР»СЏ РЅР°РіСЂРµРІР° РІРѕРґС‹ РЅР° С‚РµРїР»РѕСЂР°Р·Р±РѕСЂРЅС‹С… РїСѓРЅРєС‚Р°С…
+(РѕС‚РѕРїР»РµРЅРёРµ РїРѕРјРµС‰РµРЅРёР№, РЅР°РіСЂРµРІ РІРѕРґС‹ РІ Р±Р°СЃСЃРµР№РЅР°С…, РґСѓС€РµРІС‹С… Рё С‚.Рї.).</p>
 
 <div align="center">
 	<table border="1" cellpadding="0" cellspacing="0">
 		<tbody>
 			<tr>
-				<td><p align="center"><span style="font-size: 10pt;">Тип устройства</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Поверхность нагрева</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Давл.в греющей системе, МПа</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Давл.в греемой системе</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Темп. в греющей системе, <sup>o</sup>С</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Dm теплообменных труб, мм</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Диаметр корпуса, мм</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Длина, мм</span></p></td>
-        <td><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+				<td><p align="center"><span style="font-size: 10pt;">РўРёРї СѓСЃС‚СЂРѕР№СЃС‚РІР°</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РџРѕРІРµСЂС…РЅРѕСЃС‚СЊ РЅР°РіСЂРµРІР°</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Р”Р°РІР».РІ РіСЂРµСЋС‰РµР№ СЃРёСЃС‚РµРјРµ, РњРџР°</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Р”Р°РІР».РІ РіСЂРµРµРјРѕР№ СЃРёСЃС‚РµРјРµ</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РўРµРјРї. РІ РіСЂРµСЋС‰РµР№ СЃРёСЃС‚РµРјРµ, <sup>o</sup>РЎ</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Dm С‚РµРїР»РѕРѕР±РјРµРЅРЅС‹С… С‚СЂСѓР±, РјРј</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ РєРѕСЂРїСѓСЃР°, РјРј</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Р”Р»РёРЅР°, РјРј</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
       </tr>
       <tr>
-        <td><p align="center"><span style="font-size: 10pt;">Q=50 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Q=50 С‚/С‡</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">8,4</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
@@ -90,7 +90,7 @@
         <td><p align="center"><span style="font-size: 10pt;">330</span></p></td>
       </tr>
       <tr>
-        <td><p align="center"><span style="font-size: 10pt;">Q=100 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Q=100 С‚/С‡</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">15,6</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
@@ -101,7 +101,7 @@
         <td><p align="center"><span style="font-size: 10pt;">560</span></p></td>
       </tr>
       <tr>
-        <td><p align="center"><span style="font-size: 10pt;">Q=200 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Q=200 С‚/С‡</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">31,2</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
@@ -112,7 +112,7 @@
         <td><p align="center"><span style="font-size: 10pt;">794</span></p></td>
       </tr>
       <tr>
-        <td><p align="center"><span style="font-size: 10pt;">Q=400 т/ч</span></p></td>
+        <td><p align="center"><span style="font-size: 10pt;">Q=400 С‚/С‡</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">68,0</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>
         <td><p align="center"><span style="font-size: 10pt;">0,7</span></p></td>

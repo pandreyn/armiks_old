@@ -1,38 +1,38 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Фильтры натрий-катионитные ФИПа</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Р¤РёР»СЊС‚СЂС‹ РЅР°С‚СЂРёР№-РєР°С‚РёРѕРЅРёС‚РЅС‹Рµ Р¤РРџР°</span></p>
 
-<p align="center"><span style="font-size: 16pt;">Фильтры натрий-катионитовые 1-ой и 2-ой ступени</span></p>
+<p align="center"><span style="font-size: 16pt;">Р¤РёР»СЊС‚СЂС‹ РЅР°С‚СЂРёР№-РєР°С‚РёРѕРЅРёС‚РѕРІС‹Рµ 1-РѕР№ Рё 2-РѕР№ СЃС‚СѓРїРµРЅРё</span></p>
 
 <p><img style="width: 300px; height: 381px;" src="pics/clip_image003.gif" 
-	alt="Фильтры натрий-катионитовые 1-ой и 2-ой ступени" align="left" hspace="12">
-	Фильтры ионитные параллельноточные первой ступени используются на водоподготовительных установках
-	элек-тростанций, промышленных и отопительных котельных и предназначены для обработки воды с целью 
-	удаления из нее катионов накипеобразователей ( Ca2+ и Mg2+ ) в процессе натрий-водород- или 
-	аммоний-натрий-катио-нирования, а также сульфатных, хлоридных и нитратных анионов в процессе обессоливания 
-	природных вод. </p>
+	alt="Р¤РёР»СЊС‚СЂС‹ РЅР°С‚СЂРёР№-РєР°С‚РёРѕРЅРёС‚РѕРІС‹Рµ 1-РѕР№ Рё 2-РѕР№ СЃС‚СѓРїРµРЅРё" align="left" hspace="12">
+	Р¤РёР»СЊС‚СЂС‹ РёРѕРЅРёС‚РЅС‹Рµ РїР°СЂР°Р»Р»РµР»СЊРЅРѕС‚РѕС‡РЅС‹Рµ РїРµСЂРІРѕР№ СЃС‚СѓРїРµРЅРё РёСЃРїРѕР»СЊР·СѓСЋС‚СЃСЏ РЅР° РІРѕРґРѕРїРѕРґРіРѕС‚РѕРІРёС‚РµР»СЊРЅС‹С… СѓСЃС‚Р°РЅРѕРІРєР°С…
+	СЌР»РµРє-С‚СЂРѕСЃС‚Р°РЅС†РёР№, РїСЂРѕРјС‹С€Р»РµРЅРЅС‹С… Рё РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С… Рё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РѕР±СЂР°Р±РѕС‚РєРё РІРѕРґС‹ СЃ С†РµР»СЊСЋ 
+	СѓРґР°Р»РµРЅРёСЏ РёР· РЅРµРµ РєР°С‚РёРѕРЅРѕРІ РЅР°РєРёРїРµРѕР±СЂР°Р·РѕРІР°С‚РµР»РµР№ ( Ca2+ Рё Mg2+ ) РІ РїСЂРѕС†РµСЃСЃРµ РЅР°С‚СЂРёР№-РІРѕРґРѕСЂРѕРґ- РёР»Рё 
+	Р°РјРјРѕРЅРёР№-РЅР°С‚СЂРёР№-РєР°С‚РёРѕ-РЅРёСЂРѕРІР°РЅРёСЏ, Р° С‚Р°РєР¶Рµ СЃСѓР»СЊС„Р°С‚РЅС‹С…, С…Р»РѕСЂРёРґРЅС‹С… Рё РЅРёС‚СЂР°С‚РЅС‹С… Р°РЅРёРѕРЅРѕРІ РІ РїСЂРѕС†РµСЃСЃРµ РѕР±РµСЃСЃРѕР»РёРІР°РЅРёСЏ 
+	РїСЂРёСЂРѕРґРЅС‹С… РІРѕРґ. </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Фильтры ионитные параллельноточные второй ступени предназначены для работы в различных схемах установок 
-	глубокого и полного химического обессоливания для второй и третьей ступени натрий-катионирования, 
-	водород-катионирования и анионирования и используются на водоподготовительных установках электростанций,
-	промышленных и отопительных котельных. При исполь-зовании данных фильтров в схемах глубокого
-	обессоливания из воды удаляются практически все катионы и анионы, за исключением кремниевой кислоты, а 
-	при использовании в схемах полного химического обессоливания удаляется и кремниевая кислота.</p>
+	Р¤РёР»СЊС‚СЂС‹ РёРѕРЅРёС‚РЅС‹Рµ РїР°СЂР°Р»Р»РµР»СЊРЅРѕС‚РѕС‡РЅС‹Рµ РІС‚РѕСЂРѕР№ СЃС‚СѓРїРµРЅРё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ СЂР°Р±РѕС‚С‹ РІ СЂР°Р·Р»РёС‡РЅС‹С… СЃС…РµРјР°С… СѓСЃС‚Р°РЅРѕРІРѕРє 
+	РіР»СѓР±РѕРєРѕРіРѕ Рё РїРѕР»РЅРѕРіРѕ С…РёРјРёС‡РµСЃРєРѕРіРѕ РѕР±РµСЃСЃРѕР»РёРІР°РЅРёСЏ РґР»СЏ РІС‚РѕСЂРѕР№ Рё С‚СЂРµС‚СЊРµР№ СЃС‚СѓРїРµРЅРё РЅР°С‚СЂРёР№-РєР°С‚РёРѕРЅРёСЂРѕРІР°РЅРёСЏ, 
+	РІРѕРґРѕСЂРѕРґ-РєР°С‚РёРѕРЅРёСЂРѕРІР°РЅРёСЏ Рё Р°РЅРёРѕРЅРёСЂРѕРІР°РЅРёСЏ Рё РёСЃРїРѕР»СЊР·СѓСЋС‚СЃСЏ РЅР° РІРѕРґРѕРїРѕРґРіРѕС‚РѕРІРёС‚РµР»СЊРЅС‹С… СѓСЃС‚Р°РЅРѕРІРєР°С… СЌР»РµРєС‚СЂРѕСЃС‚Р°РЅС†РёР№,
+	РїСЂРѕРјС‹С€Р»РµРЅРЅС‹С… Рё РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С…. РџСЂРё РёСЃРїРѕР»СЊ-Р·РѕРІР°РЅРёРё РґР°РЅРЅС‹С… С„РёР»СЊС‚СЂРѕРІ РІ СЃС…РµРјР°С… РіР»СѓР±РѕРєРѕРіРѕ
+	РѕР±РµСЃСЃРѕР»РёРІР°РЅРёСЏ РёР· РІРѕРґС‹ СѓРґР°Р»СЏСЋС‚СЃСЏ РїСЂР°РєС‚РёС‡РµСЃРєРё РІСЃРµ РєР°С‚РёРѕРЅС‹ Рё Р°РЅРёРѕРЅС‹, Р·Р° РёСЃРєР»СЋС‡РµРЅРёРµРј РєСЂРµРјРЅРёРµРІРѕР№ РєРёСЃР»РѕС‚С‹, Р° 
+	РїСЂРё РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРё РІ СЃС…РµРјР°С… РїРѕР»РЅРѕРіРѕ С…РёРјРёС‡РµСЃРєРѕРіРѕ РѕР±РµСЃСЃРѕР»РёРІР°РЅРёСЏ СѓРґР°Р»СЏРµС‚СЃСЏ Рё РєСЂРµРјРЅРёРµРІР°СЏ РєРёСЃР»РѕС‚Р°.</p>
 
 <div align="center">
-<p>Основные параметры и технические характеристики</p>
+<p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
 <table border="1" cellpadding="0" cellspacing="0">
 <tbody>
 	<tr>
-  	<td width="136"><p align="center"><span style="font-size: 10pt;">Обозначение<br>типоразмера</span></p></td>
-    <td width="72"><p align="center"><span style="font-size: 10pt;">Производительность,<br>м<sup>3</sup>/ч</span></p></td>
-    <td width="67"><p align="center"><span style="font-size: 10pt;">Рабочее давление, МПа</span></p></td>
-    <td width="73"><p align="center"><span style="font-size: 10pt;">Условный диаметр фильтра, мм</span></p></td>
-    <td width="90"><p align="center"><span style="font-size: 10pt;">Высота фильтрующей<br>загрузки, мм,<br>не более</span></p></td>
-    <td width="66"><p align="center"><span style="font-size: 10pt;">Высота фильтра, мм</span></p></td>
-    <td width="66"><p align="center"><span style="font-size: 10pt;">Масса, кг</span></p></td>
+  	<td width="136"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ<br>С‚РёРїРѕСЂР°Р·РјРµСЂР°</span></p></td>
+    <td width="72"><p align="center"><span style="font-size: 10pt;">РџСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ,<br>Рј<sup>3</sup>/С‡</span></p></td>
+    <td width="67"><p align="center"><span style="font-size: 10pt;">Р Р°Р±РѕС‡РµРµ РґР°РІР»РµРЅРёРµ, РњРџР°</span></p></td>
+    <td width="73"><p align="center"><span style="font-size: 10pt;">РЈСЃР»РѕРІРЅС‹Р№ РґРёР°РјРµС‚СЂ С„РёР»СЊС‚СЂР°, РјРј</span></p></td>
+    <td width="90"><p align="center"><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р° С„РёР»СЊС‚СЂСѓСЋС‰РµР№<br>Р·Р°РіСЂСѓР·РєРё, РјРј,<br>РЅРµ Р±РѕР»РµРµ</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р° С„РёР»СЊС‚СЂР°, РјРј</span></p></td>
+    <td width="66"><p align="center"><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
   </tr>
   <tr>
-  	<td width="136"><p><span style="font-size: 10pt;">ФИПа I-0,7-0,6 Na</span></p></td>
+  	<td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° I-0,7-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">10</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">700</span></p></td>
@@ -41,7 +41,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">910</span></p></td>
   </tr>
   <tr>
-  	<td width="136"><p><span style="font-size: 10pt;">ФИПа I-1,0-0,6 Na</span></p></td>
+  	<td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° I-1,0-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">23</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
@@ -50,7 +50,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">1090</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-1,4-0,6 Nа</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° I-1,4-0,6 NР°</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">46</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
@@ -59,7 +59,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">1240</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-1,5-0,6 Nа</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° I-1,5-0,6 NР°</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">50</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
@@ -68,7 +68,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">1570</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-2,0-0,6 Na </span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° I-2,0-0,6 Na </span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">80</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
@@ -77,7 +77,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">2500</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа I-2,6-0,6 Na</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° I-2,6-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">130</span></p> </td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
@@ -86,7 +86,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">3890</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-1,0-0,6 Na</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° II-1,0-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">1000</span></p></td>
@@ -95,7 +95,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">950 </span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-1,4-0,6 Na</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° II-1,4-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">92</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">1400</span></p></td>
@@ -104,7 +104,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">1562 </span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-1,5-0,6 Na</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° II-1,5-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">90</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">1600</span></p></td>
@@ -113,7 +113,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">1510</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-2,0-0,6 Na</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° II-2,0-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">150</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">2000</span></p></td>
@@ -122,7 +122,7 @@
     <td width="66"><p align="center"><span style="font-size: 10pt;">22028</span></p></td>
   </tr>
   <tr>
-    <td width="136"><p><span style="font-size: 10pt;">ФИПа II-2,6-0,6 Na</span></p></td>
+    <td width="136"><p><span style="font-size: 10pt;">Р¤РРџР° II-2,6-0,6 Na</span></p></td>
     <td width="72"><p align="center"><span style="font-size: 10pt;">250</span></p></td>
     <td width="67"><p align="center"><span style="font-size: 10pt;">0,6</span></p></td>
     <td width="73"><p align="center"><span style="font-size: 10pt;">2600</span></p></td>
@@ -134,5 +134,5 @@
 </table>
 <br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Загрузка ионитных фильтров ФИПа - сульфоуголь, катионит Ку-2;</p>
+	Р—Р°РіСЂСѓР·РєР° РёРѕРЅРёС‚РЅС‹С… С„РёР»СЊС‚СЂРѕРІ Р¤РРџР° - СЃСѓР»СЊС„РѕСѓРіРѕР»СЊ, РєР°С‚РёРѕРЅРёС‚ РљСѓ-2;</p>
 </div>

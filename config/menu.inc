@@ -3,27 +3,27 @@
 	<tr align=center>  
 		<td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
-			<a href="?topic=index">О компании</a>
+			<a href="?topic=index">Рћ РєРѕРјРїР°РЅРёРё</a>
 		</td>  
 		<td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
-			<a href="?topic=price">Прайс-лист</a>
+			<a href="?topic=price">РџСЂР°Р№СЃ-Р»РёСЃС‚</a>
 		</td>  
 		<td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
-			<a href="?topic=dev01">Теплотехническое<br>оборудование</a>
+			<a href="?topic=dev01">РўРµРїР»РѕС‚РµС…РЅРёС‡РµСЃРєРѕРµ<br>РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ</a>
 		</td>  
 		<td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
-			<a href="?topic=dev02">Котельное<br>оборудование</a>
+			<a href="?topic=dev02">РљРѕС‚РµР»СЊРЅРѕРµ<br>РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ</a>
 		</td>
         <td class="text_menu">
             <img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
-            <a href="?topic=dev05">Трубы<br>экономайзерные</a>
+            <a href="?topic=dev05">РўСЂСѓР±С‹<br>СЌРєРѕРЅРѕРјР°Р№Р·РµСЂРЅС‹Рµ</a>
         </td>
         <td class="text_menu">
 			<img src="../pics/dots.jpg" width="8" height="8" hspace="3" align="middle" alt="">
-			<a href="?topic=dev03">Котлы паровые</a>
+			<a href="?topic=dev03">РљРѕС‚Р»С‹ РїР°СЂРѕРІС‹Рµ</a>
 		</td>  
 	</tr>  
 	</tbody> 

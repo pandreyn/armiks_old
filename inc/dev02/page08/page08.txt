@@ -1,14 +1,14 @@
-<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">Солерастворители</span></p>
+<p align="center"><span style="color: rgb(255, 0, 0); font-size: 20pt;">РЎРѕР»РµСЂР°СЃС‚РІРѕСЂРёС‚РµР»Рё</span></p>
 
-<p align="center"><span style="font-size: 16pt;">Солерастворители С-0,125-0,4; С-0,4-0,7; С-1,0-1,0</span></p>
+<p align="center"><span style="font-size: 16pt;">РЎРѕР»РµСЂР°СЃС‚РІРѕСЂРёС‚РµР»Рё РЎ-0,125-0,4; РЎ-0,4-0,7; РЎ-1,0-1,0</span></p>
      
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	Солерастворители предназначены для приготовления регенерационных растворов поваренной соли и 
-	сульфата аммония для катионитных фильтров, а также для осветления регенерационных растворов
-	реагентов на водоподготовительных установках небольшой производительности промышленных и 
-	отопительных котельных.</p>
+	РЎРѕР»РµСЂР°СЃС‚РІРѕСЂРёС‚РµР»Рё РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅС‹ РґР»СЏ РїСЂРёРіРѕС‚РѕРІР»РµРЅРёСЏ СЂРµРіРµРЅРµСЂР°С†РёРѕРЅРЅС‹С… СЂР°СЃС‚РІРѕСЂРѕРІ РїРѕРІР°СЂРµРЅРЅРѕР№ СЃРѕР»Рё Рё 
+	СЃСѓР»СЊС„Р°С‚Р° Р°РјРјРѕРЅРёСЏ РґР»СЏ РєР°С‚РёРѕРЅРёС‚РЅС‹С… С„РёР»СЊС‚СЂРѕРІ, Р° С‚Р°РєР¶Рµ РґР»СЏ РѕСЃРІРµС‚Р»РµРЅРёСЏ СЂРµРіРµРЅРµСЂР°С†РёРѕРЅРЅС‹С… СЂР°СЃС‚РІРѕСЂРѕРІ
+	СЂРµР°РіРµРЅС‚РѕРІ РЅР° РІРѕРґРѕРїРѕРґРіРѕС‚РѕРІРёС‚РµР»СЊРЅС‹С… СѓСЃС‚Р°РЅРѕРІРєР°С… РЅРµР±РѕР»СЊС€РѕР№ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё РїСЂРѕРјС‹С€Р»РµРЅРЅС‹С… Рё 
+	РѕС‚РѕРїРёС‚РµР»СЊРЅС‹С… РєРѕС‚РµР»СЊРЅС‹С….</p>
 
-<p align="center">Схема работы солерастворителя</p>
+<p align="center">РЎС…РµРјР° СЂР°Р±РѕС‚С‹ СЃРѕР»РµСЂР°СЃС‚РІРѕСЂРёС‚РµР»СЏ</p>
 
 <p align="center">
 	<img style="width: 70px; height: 116px;" alt="" src="pics/clip_image009.gif">
@@ -21,84 +21,84 @@
 	<table border="1" cellpadding="0" cellspacing="0">
 		<tbody>
 			<tr>
-				<td width="104"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
-        <td width="259"><p align="center"><span style="font-size: 10pt;">Наименование штуцеров</span></p></td>
+				<td width="104"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ</span></p></td>
+        <td width="259"><p align="center"><span style="font-size: 10pt;">РќР°РёРјРµРЅРѕРІР°РЅРёРµ С€С‚СѓС†РµСЂРѕРІ</span></p></td>
       </tr>
       <tr>
-        <td width="104"><p align="center"><span style="font-size: 10pt;">А</span></p></td>
-        <td width="259"><p><span style="font-size: 10pt;">Подвод воды для раствора соли</span></p></td>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Рђ</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">РџРѕРґРІРѕРґ РІРѕРґС‹ РґР»СЏ СЂР°СЃС‚РІРѕСЂР° СЃРѕР»Рё</span></p></td>
       </tr>
       <tr>
-        <td width="104"><p align="center"><span style="font-size: 10pt;">Б</span></p></td>
-        <td width="259"><p><span style="font-size: 10pt;">Отвод раствора соли</span></p></td>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Р‘</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">РћС‚РІРѕРґ СЂР°СЃС‚РІРѕСЂР° СЃРѕР»Рё</span></p></td>
       </tr>
       <tr>
-        <td width="104"><p align="center"><span style="font-size: 10pt;">В</span></p></td>
-        <td width="259"><p><span style="font-size: 10pt;">Подвод воды на промывку</span></p></td>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Р’</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">РџРѕРґРІРѕРґ РІРѕРґС‹ РЅР° РїСЂРѕРјС‹РІРєСѓ</span></p></td>
       </tr>
       <tr>
-        <td width="104"><p align="center"><span style="font-size: 10pt;">Г</span></p></td>
-        <td width="259"><p><span style="font-size: 10pt;">Дренаж</span></p></td>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Р“</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Р”СЂРµРЅР°Р¶</span></p></td>
       </tr>
       <tr>
-        <td width="104"><p align="center"><span style="font-size: 10pt;">Д</span></p></td>
-        <td width="259"><p><span style="font-size: 10pt;">Гидровыгрузка фильтрующего материала</span></p></td>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Р”</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Р“РёРґСЂРѕРІС‹РіСЂСѓР·РєР° С„РёР»СЊС‚СЂСѓСЋС‰РµРіРѕ РјР°С‚РµСЂРёР°Р»Р°</span></p></td>
       </tr>
       <tr>
-        <td width="104"><p align="center"><span style="font-size: 10pt;">Е</span></p></td>
-        <td width="259"><p><span style="font-size: 10pt;">Лючок для загрузки</span></p></td>
+        <td width="104"><p align="center"><span style="font-size: 10pt;">Р•</span></p></td>
+        <td width="259"><p><span style="font-size: 10pt;">Р›СЋС‡РѕРє РґР»СЏ Р·Р°РіСЂСѓР·РєРё</span></p></td>
       </tr>
     </tbody>
   </table>
   
-  <p>Основные параметры и технические характеристики</p>
+  <p>РћСЃРЅРѕРІРЅС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Рё С‚РµС…РЅРёС‡РµСЃРєРёРµ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё</p>
   
   <table  border="1" cellpadding="0" cellspacing="0">
   	<tbody>
   		<tr>
-  			<td width="255"><p align="center"><span style="font-size: 10pt;">Обозначение</span></p></td>
-        <td width="125"><p align="center"><span style="font-size: 10pt;">С-0,125- 0,4</span></p></td>
-        <td width="125"><p align="center"><span style="font-size: 10pt;">С-0,4-0,7</span></p></td>
-        <td width="125"><p align="center"><span style="font-size: 10pt;">С-1,0-1,0</span></p></td>
+  			<td width="255"><p align="center"><span style="font-size: 10pt;">РћР±РѕР·РЅР°С‡РµРЅРёРµ</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">РЎ-0,125- 0,4</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">РЎ-0,4-0,7</span></p></td>
+        <td width="125"><p align="center"><span style="font-size: 10pt;">РЎ-1,0-1,0</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Вместимость, м<sup>3</sup></span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">Р’РјРµСЃС‚РёРјРѕСЃС‚СЊ, Рј<sup>3</sup></span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">0,125</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">0,4</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">1,0</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Давление рабочее, МПа (кгс/см<sup>2</sup>)</span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">Р”Р°РІР»РµРЅРёРµ СЂР°Р±РѕС‡РµРµ, РњРџР° (РєРіСЃ/СЃРј<sup>2</sup>)</span></p></td>
         <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">0,6 (6)</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Температура, <sup>o</sup>С</span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">РўРµРјРїРµСЂР°С‚СѓСЂР°, <sup>o</sup>РЎ</span></p></td>
         <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">40</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Площадь фильтрования, м<sup>2</sup></span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">РџР»РѕС‰Р°РґСЊ С„РёР»СЊС‚СЂРѕРІР°РЅРёСЏ, Рј<sup>2</sup></span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">0,134</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">0,4</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">0,8</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Среда</span></p></td>
-        <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">антрацит, вода, соль (NaCl)</span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">РЎСЂРµРґР°</span></p></td>
+        <td colspan="3" width="375"><p align="center"><span style="font-size: 10pt;">Р°РЅС‚СЂР°С†РёС‚, РІРѕРґР°, СЃРѕР»СЊ (NaCl)</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Диаметр аппарата, мм</span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">Р”РёР°РјРµС‚СЂ Р°РїРїР°СЂР°С‚Р°, РјРј</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">426</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">720</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">1020</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Высота аппарата, мм</span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">Р’С‹СЃРѕС‚Р° Р°РїРїР°СЂР°С‚Р°, РјРј</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">1230</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">1650</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">1800</span></p></td>
       </tr>
       <tr>
-        <td width="255"><p><span style="font-size: 10pt;">Масса, кг</span></p></td>
+        <td width="255"><p><span style="font-size: 10pt;">РњР°СЃСЃР°, РєРі</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">151</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">238</span></p></td>
         <td width="125"><p align="center"><span style="font-size: 10pt;">440</span></p></td>

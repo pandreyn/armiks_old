@@ -2,9 +2,9 @@
     Трубы экономайзерные</span>
 </p>
 
-<p><img alt="Труба  экономайзерная" src="pics/dev05_01.png"> </p>
-<p><img alt="Калач" src="pics/dev05_02.png"> </p>
-<p><img alt="Дуга" src="pics/dev05_03.png"> </p>
+<p><img style="width: 200px; height: 238px;" alt="Труба  экономайзерная" src="pics/dev05_01.png"> </p>
+<img style="width: 200px; height: 238px;" alt="Калач" src="pics/dev05_02.png">
+<img style="width: 200px; height: 238px;" alt="Дуга" src="pics/dev05_03.png"> </p>
 
 <table>
     <thead>

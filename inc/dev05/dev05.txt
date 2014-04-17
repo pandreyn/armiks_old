@@ -2,63 +2,107 @@
     Трубы экономайзерные</span>
 </p>
 
-<p><img style="width: 200px; height: 238px;" alt="Труба  экономайзерная" src="pics/dev05_01.png"> </p>
-<img style="width: 200px; height: 238px;" alt="Калач" src="pics/dev05_02.png">
-<img style="width: 200px; height: 238px;" alt="Дуга" src="pics/dev05_03.png"> </p>
-
 <table>
-    <thead>
-        <th>Наименование</th>
-        <th>L, мм</th>
-        <th>N, мм</th>
-        <th>n</th>
-        <th>S, мм</th>
-        <th>Площадь поверхности нагрева трубы, м2</th>
-        <th>Масса, кг</th>
-    </thead>
     <tbody>
         <tr>
-            <td>Труба L = 2 м</td>
-            <td>2000</td>
-            <td>1800</td>
-            <td>72</td>
-            <td>8</td>
-            <td>2,95</td>
-            <td>74,2</td>
+            <td><p align="center">Труба  экономайзерная</p></td>
+            <td><p align="center">Калач</p></td>
+            <td><p align="center">Дуга</p></td>
         </tr>
         <tr>
-            <td>Труба L = 3 м</td>
-            <td>3000</td>
-            <td>2800</td>
-            <td>112</td>
-            <td>9</td>
-            <td>4,49</td>
-            <td>114,8</td>
+            <td><a href="pics/dev05_01.png" target="_blank">
+                    <img style="width: 200px; height: 238px;" alt="Труба  экономайзерная" src="pics/dev05_01.png" title="Труба  экономайзерная">
+                </a>
+            </td>
+            <td><a href="pics/dev05_02.png" target="_blank">
+                    <img style="width: 200px; height: 238px;" alt="Калач" src="pics/dev05_02.png" title="Калач"></td>
+                </a>
+            <td><a href="pics/dev05_03.png" target="_blank">
+                    <img style="width: 200px; height: 238px;" alt="Дуга" src="pics/dev05_03.png" title="Дуга"></td>
+                </a>
+        </tr>
+    </tbody>
+</table>
+<br><br><br>
+<table  border="1" width="100%" style="font-size: 10pt;">    
+    <tbody>
+        <tr>
+            <td><p align="center"><p align="center">Наименование</p></td>
+            <td><p align="center"><p align="center">L, мм</p></td>
+            <td><p align="center"><p align="center">N, мм</p></td>
+            <td><p align="center"><p align="center">n</p></td>
+            <td><p align="center"><p align="center">S, мм</p></td>
+            <td><p align="center"><p align="center">Площадь<br>поверхности<br>нагрева трубы, м2</p></td>
+            <td><p align="center"><p align="center">Масса, кг</p></td>
         </tr>
         <tr>
-            <td>Дуга</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>9,6</td>
+            <td><p align="center"><p align="center">Труба L = 2 м</p></td>
+            <td><p align="center"><p align="center">2000</p></td>
+            <td><p align="center"><p align="center">1800</p></td>
+            <td><p align="center"><p align="center">72</p></td>
+            <td><p align="center"><p align="center">8</p></td>
+            <td><p align="center"><p align="center">2,95</p></td>
+            <td><p align="center"><p align="center">74,2</p></td>
         </tr>
         <tr>
-            <td>Калач</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>17,3</td>
+            <td><p align="center"><p align="center">Труба L = 3 м</p></td>
+            <td><p align="center"><p align="center">3000</p></td>
+            <td><p align="center"><p align="center">2800</p></td>
+            <td><p align="center"><p align="center">112</p></td>
+            <td><p align="center"><p align="center">9</p></td>
+            <td><p align="center"><p align="center">4,49</p></td>
+            <td><p align="center"><p align="center">114,8</p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><p align="center">Дуга</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">9,6</p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><p align="center">Калач</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">-</p></td>
+            <td><p align="center"><p align="center">17,3</p></td>
+        </tr>
+    </tbody>
+</table>
+<br><br><br>
+<table  border="1" cellpadding="5" width="100%"
+        style="font-size: 10pt; background-color:#FFE6F0; border-collapse: collapse;">
+    <tbody>
+        <tr>
+            <td rowspan=5><p align="center"><p align="center">
+                <font size="4" color="red" face="Arial">
+                    РАСПРОДАЖА<br>ЭКОНОМАЙЗЕРНОЙ ТРУБЫ!<br>ЦЕНЫ ОБСУЖДАЮТСЯ!
+                </font>
+            </p></td>
+        </tr>
+        <tr>
+            <td colspan = 3><p align="center"><p align="center">Труба экономайзерная, цена за шт. с НДС</p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><p align="center">Длина трубы</p></td>
+            <td><p align="center"><p align="center">новая</p></td>
+            <td><p align="center"><p align="center">с хранения</p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><p align="center">L = 2 м</p></td>
+            <td><p align="center"><p align="center"><font size="2" color="red" face="Arial">9.500</font></p></td>
+            <td><p align="center"><p align="center"><font size="2" color="red" face="Arial">от 4.500</font></p></td>
+        </tr>
+        <tr>
+            <td><p align="center"><p align="center">L = 3 м</p></td>
+            <td><p align="center"><p align="center"></p></td>
+            <td><p align="center"><p align="center"><font size="2" color="red" face="Arial">от 6.000</font></p></td>
         </tr>
     </tbody>
 </table>
 
-<p>РАСПРОДАЖА
-
-   ЭКОНОМАЙЗЕРНОЙ ТРУБЫ !
-
-   ЦЕНЫ ОБСУЖДАЮТСЯ!</p>
 

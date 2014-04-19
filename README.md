@@ -1,4 +1,4 @@
 armiks_old
 ==========
 
-Старая версия сайта http://armiks.ru
+Рабочая версия сайта http://armiks.ru
